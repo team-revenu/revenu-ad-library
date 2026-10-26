@@ -590,7 +590,6 @@ window.ADS = [
     category: "problem",
     platform: "linkedin"
   },
-  { image: "Calendar Before After.webp", title: "Calendar Before After", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
   {
     image: "Problem 16.webp",
     title: "Wordle",
@@ -695,7 +694,6 @@ window.ADS = [
     category: "problem",
     platform: "linkedin"
   },
-  { image: "Crossed Out List.webp", title: "Crossed Out List", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
   {
     image: "Problem 29.webp",
     title: "GitHub",
@@ -808,7 +806,6 @@ window.ADS = [
     category: "problem",
     platform: "linkedin"
   },
-  { image: "Event Pit Stop.webp", title: "Event Pit Stop", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
   {
     image: "Problem 43.webp",
     title: "[Insert]",
@@ -929,7 +926,6 @@ window.ADS = [
     category: "problem",
     platform: "linkedin"
   },
-  { image: "Event Booth Map.webp", title: "Event Booth Map", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
   {
     image: "Problem 58.webp",
     title: "Post Stick Chaos",
@@ -1572,6 +1568,10 @@ window.ADS = [
   { image: "Tick List.webp", title: "Tick List", formula: "", tag: "Problem", category: "problem", priority: { problem: 8 }, platform: "linkedin" },
   { image: "Castle of Features.webp", title: "Castle of Features", formula: "", tag: "Product", category: "product", priority: { product: 1 }, platform: "linkedin" },
   { image: "Story Messages.webp", title: "Story Messages", formula: "", tag: "Problem", category: "problem", priority: { problem: 2 }, platform: "linkedin" },
+  { image: "Calendar Before After.webp", title: "Calendar Before After", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
+  { image: "Crossed Out List.webp", title: "Crossed Out List", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
+  { image: "Event Pit Stop.webp", title: "Event Pit Stop", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
+  { image: "Event Booth Map.webp", title: "Event Booth Map", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
 
   // ---------- LinkedIn — Conversation Ads ----------,
   { image: "Convo 1.webp",  title: "AirPods",             formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 6 }, platform: "linkedin" },
