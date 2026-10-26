@@ -20,3 +20,6 @@ node_modules/
 
 # Stealth project — local-only, never deploy
 chatgpt-ads.html
+
+# Ad deck batches (PDF decks + review pages), local only
+exports/

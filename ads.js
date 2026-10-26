@@ -590,6 +590,7 @@ window.ADS = [
     category: "problem",
     platform: "linkedin"
   },
+  { image: "Calendar Before After.webp", title: "Calendar Before After", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
   {
     image: "Problem 16.webp",
     title: "Wordle",
@@ -694,6 +695,7 @@ window.ADS = [
     category: "problem",
     platform: "linkedin"
   },
+  { image: "Crossed Out List.webp", title: "Crossed Out List", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
   {
     image: "Problem 29.webp",
     title: "GitHub",
@@ -806,6 +808,7 @@ window.ADS = [
     category: "problem",
     platform: "linkedin"
   },
+  { image: "Event Pit Stop.webp", title: "Event Pit Stop", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
   {
     image: "Problem 43.webp",
     title: "[Insert]",
@@ -926,6 +929,7 @@ window.ADS = [
     category: "problem",
     platform: "linkedin"
   },
+  { image: "Event Booth Map.webp", title: "Event Booth Map", formula: "", tag: "Problem", category: "problem", platform: "linkedin" },
   {
     image: "Problem 58.webp",
     title: "Post Stick Chaos",
