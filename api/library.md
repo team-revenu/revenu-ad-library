@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 573
-Generated: 2026-10-26T22:45:03.883Z
+Total entries: 564
+Generated: 2026-10-26T23:55:57.038Z
 
 ## Google Ads (158 examples)
 
@@ -179,7 +179,7 @@ Generated: 2026-10-26T22:45:03.883Z
 - **Tell a Good Story** (Problem · Solution · Benefit) — [https://library.revenuagency.io/google-ads/playbook-6](https://library.revenuagency.io/google-ads/playbook-6)
 - **The Formulas** (The playbook for ads that convert) — [https://library.revenuagency.io/google-ads/playbook-7](https://library.revenuagency.io/google-ads/playbook-7)
 
-## LinkedIn Ads (252 examples)
+## LinkedIn Ads (243 examples)
 
 ### The Playbook — 29 examples
 
@@ -213,7 +213,7 @@ Generated: 2026-10-26T22:45:03.883Z
 - **Grab Their Attention** (Lead with something powerful to open the ad) — [https://library.revenuagency.io/linkedin-ads/playbook-28](https://library.revenuagency.io/linkedin-ads/playbook-28)
 - **Be Extreme, Tap Pain, Offer Free** (Three angles that get convo ads opened) — [https://library.revenuagency.io/linkedin-ads/playbook-29](https://library.revenuagency.io/linkedin-ads/playbook-29)
 
-### Problem — 102 examples
+### Problem — 93 examples
 
 - **Mascot Message** — [https://library.revenuagency.io/linkedin-ads/problem-1](https://library.revenuagency.io/linkedin-ads/problem-1)
 - **Broken Message** — [https://library.revenuagency.io/linkedin-ads/problem-2](https://library.revenuagency.io/linkedin-ads/problem-2)
@@ -287,23 +287,14 @@ Generated: 2026-10-26T22:45:03.883Z
 - **Deck of Cards** — [https://library.revenuagency.io/linkedin-ads/problem-70](https://library.revenuagency.io/linkedin-ads/problem-70)
 - **Not Quite** — [https://library.revenuagency.io/linkedin-ads/problem-71](https://library.revenuagency.io/linkedin-ads/problem-71)
 - **Mona Lisa** — [https://library.revenuagency.io/linkedin-ads/problem-72](https://library.revenuagency.io/linkedin-ads/problem-72)
-- **Pop Culture Meme** — [https://library.revenuagency.io/linkedin-ads/problem-73](https://library.revenuagency.io/linkedin-ads/problem-73)
-- **Brand Background** — [https://library.revenuagency.io/linkedin-ads/problem-74](https://library.revenuagency.io/linkedin-ads/problem-74)
-- **Meme Storyboard** — [https://library.revenuagency.io/linkedin-ads/problem-75](https://library.revenuagency.io/linkedin-ads/problem-75)
 - **Animal Memes** — [https://library.revenuagency.io/linkedin-ads/problem-76](https://library.revenuagency.io/linkedin-ads/problem-76)
-- **Movie Memes** — [https://library.revenuagency.io/linkedin-ads/problem-77](https://library.revenuagency.io/linkedin-ads/problem-77)
-- **Quiz Show Meme** — [https://library.revenuagency.io/linkedin-ads/problem-78](https://library.revenuagency.io/linkedin-ads/problem-78)
-- **Quadrant Meme** — [https://library.revenuagency.io/linkedin-ads/problem-79](https://library.revenuagency.io/linkedin-ads/problem-79)
 - **Cartoon Meme** — [https://library.revenuagency.io/linkedin-ads/problem-80](https://library.revenuagency.io/linkedin-ads/problem-80)
 - **Quadrant Meme** — [https://library.revenuagency.io/linkedin-ads/problem-81](https://library.revenuagency.io/linkedin-ads/problem-81)
 - **Branded Meme** — [https://library.revenuagency.io/linkedin-ads/problem-82](https://library.revenuagency.io/linkedin-ads/problem-82)
 - **Star Wars** — [https://library.revenuagency.io/linkedin-ads/problem-83](https://library.revenuagency.io/linkedin-ads/problem-83)
 - **Board Game** — [https://library.revenuagency.io/linkedin-ads/problem-84](https://library.revenuagency.io/linkedin-ads/problem-84)
 - **Arcade** — [https://library.revenuagency.io/linkedin-ads/problem-85](https://library.revenuagency.io/linkedin-ads/problem-85)
-- **Starter Pack** — [https://library.revenuagency.io/linkedin-ads/problem-86](https://library.revenuagency.io/linkedin-ads/problem-86)
 - **Countdown** — [https://library.revenuagency.io/linkedin-ads/problem-87](https://library.revenuagency.io/linkedin-ads/problem-87)
-- **Pokemon** — [https://library.revenuagency.io/linkedin-ads/problem-88](https://library.revenuagency.io/linkedin-ads/problem-88)
-- **Change My Mind** — [https://library.revenuagency.io/linkedin-ads/problem-89](https://library.revenuagency.io/linkedin-ads/problem-89)
 - **From This To This** — [https://library.revenuagency.io/linkedin-ads/problem-90](https://library.revenuagency.io/linkedin-ads/problem-90)
 - **Dominos** — [https://library.revenuagency.io/linkedin-ads/problem-91](https://library.revenuagency.io/linkedin-ads/problem-91)
 - **Text Message** — [https://library.revenuagency.io/linkedin-ads/problem-92](https://library.revenuagency.io/linkedin-ads/problem-92)

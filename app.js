@@ -575,6 +575,10 @@ allAds.forEach(ad => {
   _idCounters[key] = (_idCounters[key] || 0) + 1;
   ad.id = _idCounters[key];
 });
+// Ads flagged `hidden: true` keep their slot (so every other ad's URL id stays stable)
+// but are removed from the library: no card, no search hit, no saved entry, and their
+// deep link no longer resolves.
+allAds = allAds.filter(ad => !ad.hidden);
 
 // If the URL points at a specific category and/or ad, start the library on that
 // category so the slide-in opens against the matching tab.

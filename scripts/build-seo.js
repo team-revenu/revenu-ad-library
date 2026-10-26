@@ -80,17 +80,21 @@ global.window = {};
 const adsSource = fs.readFileSync(path.join(REPO_ROOT, 'ads.js'), 'utf8');
 // eslint-disable-next-line no-eval
 eval(adsSource);
-const ads = global.window.ADS;
-if (!Array.isArray(ads)) { console.error('ads.js did not set window.ADS'); process.exit(1); }
+const rawAds = global.window.ADS;
+if (!Array.isArray(rawAds)) { console.error('ads.js did not set window.ADS'); process.exit(1); }
 
-// Assign per-category IDs the same way app.js does at runtime.
+// Assign per-category IDs the same way app.js does at runtime (hidden ads included,
+// so ids never shift when an ad is removed).
 const idCounters = {};
-for (const ad of ads) {
+for (const ad of rawAds) {
   const p = ad.platform || 'google';
   const k = `${p}|${ad.category}`;
   idCounters[k] = (idCounters[k] || 0) + 1;
   ad.id = idCounters[k];
 }
+// Hidden ads keep their slot but are left out of everything generated below.
+const hiddenAds = rawAds.filter(ad => ad.hidden);
+const ads = rawAds.filter(ad => !ad.hidden);
 
 // Tabs that actually have content in this build (so we don't list empty pages)
 const categoriesByPlatform = {};
@@ -687,3 +691,12 @@ for (const ad of ads) {
 console.log(`✓ Pre-rendered HTML — ${pagesWritten} pages`);
 
 console.log('\nAll SEO/LLM files regenerated.');
+
+// ----- Remove stale pre-rendered pages for hidden ads (their URL then 404s) -----
+let removed = 0;
+for (const ad of hiddenAds) {
+  const cfg = PLATFORMS[ad.platform || 'google'];
+  const file = path.join(REPO_ROOT, cfg.path.replace(/^\//, ''), `${ad.category}-${ad.id}.html`);
+  if (fs.existsSync(file)) { fs.unlinkSync(file); removed++; }
+}
+if (hiddenAds.length) console.log(`✓ Hidden ads — ${hiddenAds.length} kept out of the build, ${removed} stale page(s) removed`);

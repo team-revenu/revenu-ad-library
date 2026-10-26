@@ -44,6 +44,10 @@ Double-click `index.html`. The site uses a conditional `<base href="/">` so it w
 4. Run `node scripts/build-seo.js` to regenerate `sitemap.xml`, `api/ads.json`, the LLM-friendly files, and all pre-rendered HTML pages.
 5. Commit and push — Vercel auto-deploys.
 
+## Remove an ad
+
+Never delete an entry from `ads.js`: URL ids are positional, so deleting one renumbers every ad after it in that category and breaks shared links. Instead add `hidden: true` to the entry and run `node scripts/build-seo.js`. The ad disappears from the library (no card, no search, no saved entry, not in the sitemap or API files), its old URL returns 404, and every other ad keeps its number.
+
 ## Backfill formula labels
 
 472 of the 544 ads currently have an empty `formula` field. `scripts/backfill-formulas.js` uses the Anthropic API (vision) to propose a formula label for every ad missing one:

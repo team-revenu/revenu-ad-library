@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-10-26T22:45:03.881Z",
-  "total": 573,
+  "generated": "2026-10-26T23:55:57.036Z",
+  "total": 564,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -4589,39 +4589,6 @@
     {
       "platform": "linkedin",
       "category": "problem",
-      "id": 73,
-      "title": "Pop Culture Meme",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 68.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-73",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 68.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
-      "id": 74,
-      "title": "Brand Background",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 69.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-74",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 69.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
-      "id": 75,
-      "title": "Meme Storyboard",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 70.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-75",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 70.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
       "id": 76,
       "title": "Animal Memes",
       "formula": "",
@@ -4629,39 +4596,6 @@
       "image": "Problem 71.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/problem-76",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 71.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
-      "id": 77,
-      "title": "Movie Memes",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 72.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-77",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 72.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
-      "id": 78,
-      "title": "Quiz Show Meme",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 73.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-78",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 73.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
-      "id": 79,
-      "title": "Quadrant Meme",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 74.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-79",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 74.webp"
     },
     {
       "platform": "linkedin",
@@ -4732,17 +4666,6 @@
     {
       "platform": "linkedin",
       "category": "problem",
-      "id": 86,
-      "title": "Starter Pack",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 81.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-86",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 81.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
       "id": 87,
       "title": "Countdown",
       "formula": "",
@@ -4750,28 +4673,6 @@
       "image": "Problem 82.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/problem-87",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 82.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
-      "id": 88,
-      "title": "Pokemon",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 83.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-88",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 83.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
-      "id": 89,
-      "title": "Change My Mind",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 84.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-89",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 84.webp"
     },
     {
       "platform": "linkedin",
