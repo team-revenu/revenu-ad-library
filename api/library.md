@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 564
-Generated: 2026-10-26T23:55:57.038Z
+Total entries: 573
+Generated: 2026-10-27T00:17:42.378Z
 
 ## Google Ads (158 examples)
 
@@ -179,7 +179,7 @@ Generated: 2026-10-26T23:55:57.038Z
 - **Tell a Good Story** (Problem · Solution · Benefit) — [https://library.revenuagency.io/google-ads/playbook-6](https://library.revenuagency.io/google-ads/playbook-6)
 - **The Formulas** (The playbook for ads that convert) — [https://library.revenuagency.io/google-ads/playbook-7](https://library.revenuagency.io/google-ads/playbook-7)
 
-## LinkedIn Ads (243 examples)
+## LinkedIn Ads (252 examples)
 
 ### The Playbook — 29 examples
 
@@ -213,7 +213,7 @@ Generated: 2026-10-26T23:55:57.038Z
 - **Grab Their Attention** (Lead with something powerful to open the ad) — [https://library.revenuagency.io/linkedin-ads/playbook-28](https://library.revenuagency.io/linkedin-ads/playbook-28)
 - **Be Extreme, Tap Pain, Offer Free** (Three angles that get convo ads opened) — [https://library.revenuagency.io/linkedin-ads/playbook-29](https://library.revenuagency.io/linkedin-ads/playbook-29)
 
-### Problem — 93 examples
+### Problem — 101 examples
 
 - **Mascot Message** — [https://library.revenuagency.io/linkedin-ads/problem-1](https://library.revenuagency.io/linkedin-ads/problem-1)
 - **Broken Message** — [https://library.revenuagency.io/linkedin-ads/problem-2](https://library.revenuagency.io/linkedin-ads/problem-2)
@@ -308,8 +308,16 @@ Generated: 2026-10-26T23:55:57.038Z
 - **Crossed Out List** — [https://library.revenuagency.io/linkedin-ads/problem-100](https://library.revenuagency.io/linkedin-ads/problem-100)
 - **Event Pit Stop** — [https://library.revenuagency.io/linkedin-ads/problem-101](https://library.revenuagency.io/linkedin-ads/problem-101)
 - **Event Booth Map** — [https://library.revenuagency.io/linkedin-ads/problem-102](https://library.revenuagency.io/linkedin-ads/problem-102)
+- **Gmail Search** — [https://library.revenuagency.io/linkedin-ads/problem-103](https://library.revenuagency.io/linkedin-ads/problem-103)
+- **Email Compose** — [https://library.revenuagency.io/linkedin-ads/problem-104](https://library.revenuagency.io/linkedin-ads/problem-104)
+- **Slack Chat** — [https://library.revenuagency.io/linkedin-ads/problem-105](https://library.revenuagency.io/linkedin-ads/problem-105)
+- **CEO Question** — [https://library.revenuagency.io/linkedin-ads/problem-106](https://library.revenuagency.io/linkedin-ads/problem-106)
+- **Notification Stack** — [https://library.revenuagency.io/linkedin-ads/problem-107](https://library.revenuagency.io/linkedin-ads/problem-107)
+- **Email Inbox** — [https://library.revenuagency.io/linkedin-ads/problem-108](https://library.revenuagency.io/linkedin-ads/problem-108)
+- **ChatGPT Answer** — [https://library.revenuagency.io/linkedin-ads/problem-109](https://library.revenuagency.io/linkedin-ads/problem-109)
+- **Falling Dominos** — [https://library.revenuagency.io/linkedin-ads/problem-110](https://library.revenuagency.io/linkedin-ads/problem-110)
 
-### Product — 43 examples
+### Product — 44 examples
 
 - **Step by Step** — [https://library.revenuagency.io/linkedin-ads/product-1](https://library.revenuagency.io/linkedin-ads/product-1)
 - **Platform Icons** — [https://library.revenuagency.io/linkedin-ads/product-2](https://library.revenuagency.io/linkedin-ads/product-2)
@@ -354,6 +362,7 @@ Generated: 2026-10-26T23:55:57.038Z
 - **Step By Step** — [https://library.revenuagency.io/linkedin-ads/product-41](https://library.revenuagency.io/linkedin-ads/product-41)
 - **Screenshots** — [https://library.revenuagency.io/linkedin-ads/product-42](https://library.revenuagency.io/linkedin-ads/product-42)
 - **Castle of Features** — [https://library.revenuagency.io/linkedin-ads/product-43](https://library.revenuagency.io/linkedin-ads/product-43)
+- **With & Without** — [https://library.revenuagency.io/linkedin-ads/product-44](https://library.revenuagency.io/linkedin-ads/product-44)
 
 ### Animations — 10 examples
 

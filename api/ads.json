@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-10-26T23:55:57.036Z",
-  "total": 564,
+  "generated": "2026-10-27T00:17:42.376Z",
+  "total": 573,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -5226,6 +5226,17 @@
     },
     {
       "platform": "linkedin",
+      "category": "product",
+      "id": 44,
+      "title": "With & Without",
+      "formula": "",
+      "tag": "Product",
+      "image": "With Without.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-44",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/With Without.webp"
+    },
+    {
+      "platform": "linkedin",
       "category": "problem",
       "id": 98,
       "title": "Story Messages",
@@ -5278,6 +5289,94 @@
       "image": "Event Booth Map.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/problem-102",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Event Booth Map.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 103,
+      "title": "Gmail Search",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Gmail Search.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-103",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Gmail Search.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 104,
+      "title": "Email Compose",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Email Compose.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-104",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Email Compose.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 105,
+      "title": "Slack Chat",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Slack Chat.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-105",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Slack Chat.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 106,
+      "title": "CEO Question",
+      "formula": "",
+      "tag": "Problem",
+      "image": "CEO Question.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-106",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/CEO Question.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 107,
+      "title": "Notification Stack",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Notification Stack.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-107",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Notification Stack.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 108,
+      "title": "Email Inbox",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Email Inbox.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-108",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Email Inbox.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 109,
+      "title": "ChatGPT Answer",
+      "formula": "",
+      "tag": "Problem",
+      "image": "ChatGPT Answer.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-109",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/ChatGPT Answer.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 110,
+      "title": "Falling Dominos",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Falling Dominos.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-110",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Falling Dominos.webp"
     },
     {
       "platform": "linkedin",
