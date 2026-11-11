@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 579
-Generated: 2026-11-11T22:12:32.212Z
+Total entries: 580
+Generated: 2026-11-11T22:17:37.466Z
 
 ## Google Ads (158 examples)
 
@@ -223,9 +223,9 @@ Generated: 2026-11-11T22:12:32.212Z
 - **Turn On** — [https://library.revenuagency.io/linkedin-ads/problem-6](https://library.revenuagency.io/linkedin-ads/problem-6)
 - **Repeat Error** — [https://library.revenuagency.io/linkedin-ads/problem-7](https://library.revenuagency.io/linkedin-ads/problem-7)
 - **Word Search** — [https://library.revenuagency.io/linkedin-ads/problem-8](https://library.revenuagency.io/linkedin-ads/problem-8)
-- **Word Search 2** — [https://library.revenuagency.io/linkedin-ads/problem-9](https://library.revenuagency.io/linkedin-ads/problem-9)
+- **Word Search** — [https://library.revenuagency.io/linkedin-ads/problem-9](https://library.revenuagency.io/linkedin-ads/problem-9)
 - **Before After** — [https://library.revenuagency.io/linkedin-ads/problem-10](https://library.revenuagency.io/linkedin-ads/problem-10)
-- **Branded Notes** — [https://library.revenuagency.io/linkedin-ads/problem-11](https://library.revenuagency.io/linkedin-ads/problem-11)
+- **Branded Note To Do's** — [https://library.revenuagency.io/linkedin-ads/problem-11](https://library.revenuagency.io/linkedin-ads/problem-11)
 - **Video Game** — [https://library.revenuagency.io/linkedin-ads/problem-12](https://library.revenuagency.io/linkedin-ads/problem-12)
 - **iPhone Keyboard** — [https://library.revenuagency.io/linkedin-ads/problem-13](https://library.revenuagency.io/linkedin-ads/problem-13)
 - **Email Inbox** — [https://library.revenuagency.io/linkedin-ads/problem-14](https://library.revenuagency.io/linkedin-ads/problem-14)
@@ -233,7 +233,7 @@ Generated: 2026-11-11T22:12:32.212Z
 - **Wordle** — [https://library.revenuagency.io/linkedin-ads/problem-16](https://library.revenuagency.io/linkedin-ads/problem-16)
 - **Message Stack** — [https://library.revenuagency.io/linkedin-ads/problem-17](https://library.revenuagency.io/linkedin-ads/problem-17)
 - **Reminder** — [https://library.revenuagency.io/linkedin-ads/problem-18](https://library.revenuagency.io/linkedin-ads/problem-18)
-- **Cycle Down** — [https://library.revenuagency.io/linkedin-ads/problem-19](https://library.revenuagency.io/linkedin-ads/problem-19)
+- **Comparison Graph** — [https://library.revenuagency.io/linkedin-ads/problem-19](https://library.revenuagency.io/linkedin-ads/problem-19)
 - **Notification Stack** — [https://library.revenuagency.io/linkedin-ads/problem-20](https://library.revenuagency.io/linkedin-ads/problem-20)
 - **File Cabinet** — [https://library.revenuagency.io/linkedin-ads/problem-21](https://library.revenuagency.io/linkedin-ads/problem-21)
 - **Note Options** — [https://library.revenuagency.io/linkedin-ads/problem-22](https://library.revenuagency.io/linkedin-ads/problem-22)
@@ -257,14 +257,14 @@ Generated: 2026-11-11T22:12:32.212Z
 - **Fullscreen WhatsApp** — [https://library.revenuagency.io/linkedin-ads/problem-40](https://library.revenuagency.io/linkedin-ads/problem-40)
 - **Zoom Invite** — [https://library.revenuagency.io/linkedin-ads/problem-41](https://library.revenuagency.io/linkedin-ads/problem-41)
 - **Google Invite** — [https://library.revenuagency.io/linkedin-ads/problem-42](https://library.revenuagency.io/linkedin-ads/problem-42)
-- **[Insert]** — [https://library.revenuagency.io/linkedin-ads/problem-43](https://library.revenuagency.io/linkedin-ads/problem-43)
+- **Calendar Invite** — [https://library.revenuagency.io/linkedin-ads/problem-43](https://library.revenuagency.io/linkedin-ads/problem-43)
 - **Half Phone Chat** — [https://library.revenuagency.io/linkedin-ads/problem-44](https://library.revenuagency.io/linkedin-ads/problem-44)
 - **Apple Note Options** — [https://library.revenuagency.io/linkedin-ads/problem-45](https://library.revenuagency.io/linkedin-ads/problem-45)
 - **Apple To Do List** — [https://library.revenuagency.io/linkedin-ads/problem-46](https://library.revenuagency.io/linkedin-ads/problem-46)
 - **Notification Chaos** — [https://library.revenuagency.io/linkedin-ads/problem-47](https://library.revenuagency.io/linkedin-ads/problem-47)
 - **iMessage** — [https://library.revenuagency.io/linkedin-ads/problem-48](https://library.revenuagency.io/linkedin-ads/problem-48)
 - **Blank Loss** — [https://library.revenuagency.io/linkedin-ads/problem-49](https://library.revenuagency.io/linkedin-ads/problem-49)
-- **Reddit Single Comment** — [https://library.revenuagency.io/linkedin-ads/problem-50](https://library.revenuagency.io/linkedin-ads/problem-50)
+- **Reddit** — [https://library.revenuagency.io/linkedin-ads/problem-50](https://library.revenuagency.io/linkedin-ads/problem-50)
 - **Reddit** — [https://library.revenuagency.io/linkedin-ads/problem-51](https://library.revenuagency.io/linkedin-ads/problem-51)
 - **Calendar** — [https://library.revenuagency.io/linkedin-ads/problem-52](https://library.revenuagency.io/linkedin-ads/problem-52)
 - **Billboard Comparison** — [https://library.revenuagency.io/linkedin-ads/problem-53](https://library.revenuagency.io/linkedin-ads/problem-53)
@@ -272,13 +272,13 @@ Generated: 2026-11-11T22:12:32.212Z
 - **Custom Illustration** — [https://library.revenuagency.io/linkedin-ads/problem-55](https://library.revenuagency.io/linkedin-ads/problem-55)
 - **Notepad** — [https://library.revenuagency.io/linkedin-ads/problem-56](https://library.revenuagency.io/linkedin-ads/problem-56)
 - **Post Its** — [https://library.revenuagency.io/linkedin-ads/problem-57](https://library.revenuagency.io/linkedin-ads/problem-57)
-- **Post Stick Chaos** — [https://library.revenuagency.io/linkedin-ads/problem-58](https://library.revenuagency.io/linkedin-ads/problem-58)
-- **Spreadsheets 2** — [https://library.revenuagency.io/linkedin-ads/problem-59](https://library.revenuagency.io/linkedin-ads/problem-59)
+- **Post-It Chaos** — [https://library.revenuagency.io/linkedin-ads/problem-58](https://library.revenuagency.io/linkedin-ads/problem-58)
+- **Spreadsheets** — [https://library.revenuagency.io/linkedin-ads/problem-59](https://library.revenuagency.io/linkedin-ads/problem-59)
 - **Hard Mode** — [https://library.revenuagency.io/linkedin-ads/problem-60](https://library.revenuagency.io/linkedin-ads/problem-60)
 - **Search Dropdown** — [https://library.revenuagency.io/linkedin-ads/problem-61](https://library.revenuagency.io/linkedin-ads/problem-61)
 - **Announcement** — [https://library.revenuagency.io/linkedin-ads/problem-62](https://library.revenuagency.io/linkedin-ads/problem-62)
 - **Augmented Phone** — [https://library.revenuagency.io/linkedin-ads/problem-63](https://library.revenuagency.io/linkedin-ads/problem-63)
-- **Free SOC** — [https://library.revenuagency.io/linkedin-ads/problem-64](https://library.revenuagency.io/linkedin-ads/problem-64)
+- **Google Result** — [https://library.revenuagency.io/linkedin-ads/problem-64](https://library.revenuagency.io/linkedin-ads/problem-64)
 - **Convo Meme** — [https://library.revenuagency.io/linkedin-ads/problem-65](https://library.revenuagency.io/linkedin-ads/problem-65)
 - **Not a Billboard** — [https://library.revenuagency.io/linkedin-ads/problem-66](https://library.revenuagency.io/linkedin-ads/problem-66)
 - **WhatsApp Keyboard** — [https://library.revenuagency.io/linkedin-ads/problem-67](https://library.revenuagency.io/linkedin-ads/problem-67)
@@ -353,7 +353,7 @@ Generated: 2026-11-11T22:12:32.212Z
 - **With & Without** — [https://library.revenuagency.io/linkedin-ads/product-32](https://library.revenuagency.io/linkedin-ads/product-32)
 - **6 Steps** — [https://library.revenuagency.io/linkedin-ads/product-33](https://library.revenuagency.io/linkedin-ads/product-33)
 - **4 Points** — [https://library.revenuagency.io/linkedin-ads/product-34](https://library.revenuagency.io/linkedin-ads/product-34)
-- **OpenAI Codex** — [https://library.revenuagency.io/linkedin-ads/product-35](https://library.revenuagency.io/linkedin-ads/product-35)
+- **Product UX** — [https://library.revenuagency.io/linkedin-ads/product-35](https://library.revenuagency.io/linkedin-ads/product-35)
 - **Product UX** — [https://library.revenuagency.io/linkedin-ads/product-36](https://library.revenuagency.io/linkedin-ads/product-36)
 - **Product UX** — [https://library.revenuagency.io/linkedin-ads/product-37](https://library.revenuagency.io/linkedin-ads/product-37)
 - **Product UX** — [https://library.revenuagency.io/linkedin-ads/product-38](https://library.revenuagency.io/linkedin-ads/product-38)
@@ -451,12 +451,12 @@ Generated: 2026-11-11T22:12:32.212Z
 - **Problem Statement** — [https://library.revenuagency.io/linkedin-ads/convo-ads-23](https://library.revenuagency.io/linkedin-ads/convo-ads-23)
 - **Problem Statement** — [https://library.revenuagency.io/linkedin-ads/convo-ads-24](https://library.revenuagency.io/linkedin-ads/convo-ads-24)
 - **Problem Statement** — [https://library.revenuagency.io/linkedin-ads/convo-ads-25](https://library.revenuagency.io/linkedin-ads/convo-ads-25)
-- **Broken Taxonomy** (White Lie audit script that reveals a broken product taxonomy) — [https://library.revenuagency.io/linkedin-ads/convo-ads-26](https://library.revenuagency.io/linkedin-ads/convo-ads-26)
-- **ChatGPT Audit** (Fear-based ChatGPT audit script targeting visibility in AI search) — [https://library.revenuagency.io/linkedin-ads/convo-ads-27](https://library.revenuagency.io/linkedin-ads/convo-ads-27)
+- **Audit** (White Lie audit script that reveals a broken product taxonomy) — [https://library.revenuagency.io/linkedin-ads/convo-ads-26](https://library.revenuagency.io/linkedin-ads/convo-ads-26)
+- **Audit** (Fear-based ChatGPT audit script targeting visibility in AI search) — [https://library.revenuagency.io/linkedin-ads/convo-ads-27](https://library.revenuagency.io/linkedin-ads/convo-ads-27)
 
-## Landing Pages (131 examples)
+## Landing Pages (132 examples)
 
-### Above the Fold — 42 examples
+### Above the Fold — 43 examples
 
 - **One Field Email** — [https://library.revenuagency.io/landing-pages/above-the-fold-1](https://library.revenuagency.io/landing-pages/above-the-fold-1)
 - **One Field Email** — [https://library.revenuagency.io/landing-pages/above-the-fold-2](https://library.revenuagency.io/landing-pages/above-the-fold-2)
@@ -496,10 +496,11 @@ Generated: 2026-11-11T22:12:32.212Z
 - **Sign Up** — [https://library.revenuagency.io/landing-pages/above-the-fold-36](https://library.revenuagency.io/landing-pages/above-the-fold-36)
 - **Sign Up** — [https://library.revenuagency.io/landing-pages/above-the-fold-37](https://library.revenuagency.io/landing-pages/above-the-fold-37)
 - **Question** — [https://library.revenuagency.io/landing-pages/above-the-fold-38](https://library.revenuagency.io/landing-pages/above-the-fold-38)
-- **Sourcegraph** — [https://library.revenuagency.io/landing-pages/above-the-fold-39](https://library.revenuagency.io/landing-pages/above-the-fold-39)
+- **Question Drop Down** — [https://library.revenuagency.io/landing-pages/above-the-fold-39](https://library.revenuagency.io/landing-pages/above-the-fold-39)
 - **Get Started** — [https://library.revenuagency.io/landing-pages/above-the-fold-40](https://library.revenuagency.io/landing-pages/above-the-fold-40)
 - **Test It Out** — [https://library.revenuagency.io/landing-pages/above-the-fold-41](https://library.revenuagency.io/landing-pages/above-the-fold-41)
 - **Question Drop Down** — [https://library.revenuagency.io/landing-pages/above-the-fold-42](https://library.revenuagency.io/landing-pages/above-the-fold-42)
+- **Take a Tour** — [https://library.revenuagency.io/landing-pages/above-the-fold-43](https://library.revenuagency.io/landing-pages/above-the-fold-43)
 
 ### Blocks — 74 examples
 
@@ -576,7 +577,7 @@ Generated: 2026-11-11T22:12:32.212Z
 - **Steps** — [https://library.revenuagency.io/landing-pages/blocks-71](https://library.revenuagency.io/landing-pages/blocks-71)
 - **Steps** — [https://library.revenuagency.io/landing-pages/blocks-72](https://library.revenuagency.io/landing-pages/blocks-72)
 - **Steps** — [https://library.revenuagency.io/landing-pages/blocks-73](https://library.revenuagency.io/landing-pages/blocks-73)
-- **Sourcegraph** — [https://library.revenuagency.io/landing-pages/blocks-74](https://library.revenuagency.io/landing-pages/blocks-74)
+- **Competitors** — [https://library.revenuagency.io/landing-pages/blocks-74](https://library.revenuagency.io/landing-pages/blocks-74)
 
 ### Product Visuals — 12 examples
 
@@ -591,7 +592,7 @@ Generated: 2026-11-11T22:12:32.212Z
 - **Screenshot** — [https://library.revenuagency.io/landing-pages/product-visuals-9](https://library.revenuagency.io/landing-pages/product-visuals-9)
 - **Screenshot** — [https://library.revenuagency.io/landing-pages/product-visuals-10](https://library.revenuagency.io/landing-pages/product-visuals-10)
 - **Screenshot** — [https://library.revenuagency.io/landing-pages/product-visuals-11](https://library.revenuagency.io/landing-pages/product-visuals-11)
-- **Sourcegraph** — [https://library.revenuagency.io/landing-pages/product-visuals-12](https://library.revenuagency.io/landing-pages/product-visuals-12)
+- **Diagram** — [https://library.revenuagency.io/landing-pages/product-visuals-12](https://library.revenuagency.io/landing-pages/product-visuals-12)
 
 ### Experiences — 3 examples
 

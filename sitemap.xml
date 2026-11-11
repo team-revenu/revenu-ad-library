@@ -2356,9 +2356,9 @@
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Sourcegraph%20Hero.webp</image:loc>
-      <image:title>Sourcegraph — Above the Fold Landing Pages example</image:title>
-      <image:caption>Sourcegraph: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Question%20Drop%20Down%202.webp</image:loc>
+      <image:title>Question Drop Down — Above the Fold Landing Pages example</image:title>
+      <image:caption>Question Drop Down: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -2399,6 +2399,16 @@
       <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Question%20Drop%20Down.webp</image:loc>
       <image:title>Question Drop Down — Above the Fold Landing Pages example</image:title>
       <image:caption>Question Drop Down: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/landing-pages/above-the-fold-43</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Take%20a%20Tour.webp</image:loc>
+      <image:title>Take a Tour — Above the Fold Landing Pages example</image:title>
+      <image:caption>Take a Tour: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -3176,9 +3186,9 @@
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Blocks/Sourcegraph%20Comparison.webp</image:loc>
-      <image:title>Sourcegraph — Blocks Landing Pages example</image:title>
-      <image:caption>Sourcegraph: a blocks landing pages example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Blocks/Competitors%206.webp</image:loc>
+      <image:title>Competitors — Blocks Landing Pages example</image:title>
+      <image:caption>Competitors: a blocks landing pages example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -3276,9 +3286,9 @@
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Product%20Visuals/Sourcegraph%20Product%20Hero.webp</image:loc>
-      <image:title>Sourcegraph — Product Visuals Landing Pages example</image:title>
-      <image:caption>Sourcegraph: a product visuals landing pages example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Product%20Visuals/Diagram%201.webp</image:loc>
+      <image:title>Diagram — Product Visuals Landing Pages example</image:title>
+      <image:caption>Diagram: a product visuals landing pages example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -3912,7 +3922,7 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Conversation%20Ads/Broken%20Taxonomy.webp</image:loc>
-      <image:title>Broken Taxonomy — Conversation Ads LinkedIn Ads example</image:title>
+      <image:title>Audit — Conversation Ads LinkedIn Ads example</image:title>
       <image:caption>White Lie audit script that reveals a broken product taxonomy</image:caption>
     </image:image>
   </url>
@@ -3922,7 +3932,7 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Conversation%20Ads/ChatGPT%20Audit.webp</image:loc>
-      <image:title>ChatGPT Audit — Conversation Ads LinkedIn Ads example</image:title>
+      <image:title>Audit — Conversation Ads LinkedIn Ads example</image:title>
       <image:caption>Fear-based ChatGPT audit script targeting visibility in AI search</image:caption>
     </image:image>
   </url>
@@ -4597,8 +4607,8 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Problem/Problem%2011.webp</image:loc>
-      <image:title>Branded Notes — Problem LinkedIn Ads example</image:title>
-      <image:caption>Branded Notes: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
+      <image:title>Branded Note To Do&apos;s — Problem LinkedIn Ads example</image:title>
+      <image:caption>Branded Note To Do&apos;s: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -4687,8 +4697,8 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Problem/Problem%2019.webp</image:loc>
-      <image:title>Cycle Down — Problem LinkedIn Ads example</image:title>
-      <image:caption>Cycle Down: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
+      <image:title>Comparison Graph — Problem LinkedIn Ads example</image:title>
+      <image:caption>Comparison Graph: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -4957,8 +4967,8 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Problem/Problem%2043.webp</image:loc>
-      <image:title>[Insert] — Problem LinkedIn Ads example</image:title>
-      <image:caption>[Insert]: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
+      <image:title>Calendar Invite — Problem LinkedIn Ads example</image:title>
+      <image:caption>Calendar Invite: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -5037,8 +5047,8 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Problem/Problem%2050.webp</image:loc>
-      <image:title>Reddit Single Comment — Problem LinkedIn Ads example</image:title>
-      <image:caption>Reddit Single Comment: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
+      <image:title>Reddit — Problem LinkedIn Ads example</image:title>
+      <image:caption>Reddit: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -5117,8 +5127,8 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Problem/Problem%2058.webp</image:loc>
-      <image:title>Post Stick Chaos — Problem LinkedIn Ads example</image:title>
-      <image:caption>Post Stick Chaos: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
+      <image:title>Post-It Chaos — Problem LinkedIn Ads example</image:title>
+      <image:caption>Post-It Chaos: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -5127,8 +5137,8 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Problem/Problem%2059.webp</image:loc>
-      <image:title>Spreadsheets 2 — Problem LinkedIn Ads example</image:title>
-      <image:caption>Spreadsheets 2: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
+      <image:title>Spreadsheets — Problem LinkedIn Ads example</image:title>
+      <image:caption>Spreadsheets: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -5187,8 +5197,8 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Problem/Problem%2064.webp</image:loc>
-      <image:title>Free SOC — Problem LinkedIn Ads example</image:title>
-      <image:caption>Free SOC: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
+      <image:title>Google Result — Problem LinkedIn Ads example</image:title>
+      <image:caption>Google Result: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -5377,8 +5387,8 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Problem/Problem%209.webp</image:loc>
-      <image:title>Word Search 2 — Problem LinkedIn Ads example</image:title>
-      <image:caption>Word Search 2: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
+      <image:title>Word Search — Problem LinkedIn Ads example</image:title>
+      <image:caption>Word Search: a problem linkedin ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -5772,8 +5782,8 @@
     <priority>0.6</priority>
     <image:image>
       <image:loc>https://library.revenuagency.io/images/LinkedIn%20Ads/Product/Product%2035.webp</image:loc>
-      <image:title>OpenAI Codex — Product LinkedIn Ads example</image:title>
-      <image:caption>OpenAI Codex: a product linkedin ads example from the Revenu Ad Library.</image:caption>
+      <image:title>Product UX — Product LinkedIn Ads example</image:title>
+      <image:caption>Product UX: a product linkedin ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>

@@ -534,7 +534,7 @@ window.ADS = [
   },
   {
     image: "Problem 9.webp",
-    title: "Word Search 2",
+    title: "Word Search",
     formula: "",
     tag: "Problem",
     category: "problem",
@@ -550,7 +550,7 @@ window.ADS = [
   },
   {
     image: "Problem 11.webp",
-    title: "Branded Notes",
+    title: "Branded Note To Do's",
     formula: "",
     tag: "Problem",
     category: "problem",
@@ -616,7 +616,7 @@ window.ADS = [
   },
   {
     image: "Problem 19.webp",
-    title: "Cycle Down",
+    title: "Comparison Graph",
     formula: "",
     tag: "Problem",
     category: "problem",
@@ -808,7 +808,7 @@ window.ADS = [
   },
   {
     image: "Problem 43.webp",
-    title: "[Insert]",
+    title: "Calendar Invite",
     formula: "",
     tag: "Problem",
     category: "problem",
@@ -864,7 +864,7 @@ window.ADS = [
   },
   {
     image: "Problem 50.webp",
-    title: "Reddit Single Comment",
+    title: "Reddit",
     formula: "",
     tag: "Problem",
     category: "problem",
@@ -928,7 +928,7 @@ window.ADS = [
   },
   {
     image: "Problem 58.webp",
-    title: "Post Stick Chaos",
+    title: "Post-It Chaos",
     formula: "",
     tag: "Problem",
     category: "problem",
@@ -936,7 +936,7 @@ window.ADS = [
   },
   {
     image: "Problem 59.webp",
-    title: "Spreadsheets 2",
+    title: "Spreadsheets",
     formula: "",
     tag: "Problem",
     category: "problem",
@@ -976,7 +976,7 @@ window.ADS = [
   },
   {
     image: "Problem 64.webp",
-    title: "Free SOC",
+    title: "Google Result",
     formula: "",
     tag: "Problem",
     category: "problem",
@@ -1283,7 +1283,7 @@ window.ADS = [
   },
   {
     image: "Product 35.webp",
-    title: "OpenAI Codex",
+    title: "Product UX",
     formula: "",
     tag: "Product",
     category: "product",
@@ -1343,16 +1343,16 @@ window.ADS = [
 
   // ---------- Landing Pages — Above the Fold ----------
   { image: "1 Field - 1.webp", title: "One Field Email", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 2, all: 3 },  platform: "landing" },
-  { image: "1 Field - 2.webp", title: "One Field Email", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 8 },  platform: "landing" },
-  { image: "1 Field - 3.webp", title: "One Field Email", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 13 }, platform: "landing" },
+  { image: "1 Field - 2.webp", title: "One Field Email", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 11 },  platform: "landing" },
+  { image: "1 Field - 3.webp", title: "One Field Email", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 17 }, platform: "landing" },
 
   { image: "Long Form 1.webp", title: "Long Standard Form", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 3, all: 6 },  platform: "landing" },
-  { image: "Long Form 2.webp", title: "Long Standard Form", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 9 },  platform: "landing" },
-  { image: "Long Form 3.webp", title: "Long Standard Form", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 14 }, platform: "landing" },
+  { image: "Long Form 2.webp", title: "Long Standard Form", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 12 },  platform: "landing" },
+  { image: "Long Form 3.webp", title: "Long Standard Form", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 18 }, platform: "landing" },
 
-  { image: "Question 1.webp",  title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 4, all: 9 },  platform: "landing" },
-  { image: "Question 2.webp",  title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 10 }, platform: "landing" },
-  { image: "Question 3.webp",  title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 15 }, platform: "landing" },
+  { image: "Question 1.webp",  title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 5, all: 9 },  platform: "landing" },
+  { image: "Question 2.webp",  title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 13 }, platform: "landing" },
+  { image: "Question 3.webp",  title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 19 }, platform: "landing" },
   { image: "Question 4.webp",  title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Question 5.webp",  title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Question 6.webp",  title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
@@ -1363,15 +1363,15 @@ window.ADS = [
   { image: "Question 11.webp", title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Question 13.webp", title: "Question with a Drop-down", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
 
-  { image: "Buttons 1.webp",  title: "Buttons", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 5, all: 11 },  platform: "landing" },
-  { image: "Buttons 2.webp",  title: "Buttons", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 12 }, platform: "landing" },
+  { image: "Buttons 1.webp",  title: "Buttons", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 6, all: 11 },  platform: "landing" },
+  { image: "Buttons 2.webp",  title: "Buttons", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 15 }, platform: "landing" },
   { image: "Buttons 3.webp",  title: "Buttons", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Buttons 4.webp",  title: "Buttons", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Buttons 5.webp",  title: "Buttons", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
 
-  { image: "Checkbox 1.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 6 },  platform: "landing" },
-  { image: "Checkbox 2.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 11 }, platform: "landing" },
-  { image: "Checkbox 3.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 16 }, platform: "landing" },
+  { image: "Checkbox 1.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 8 },  platform: "landing" },
+  { image: "Checkbox 2.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 14 }, platform: "landing" },
+  { image: "Checkbox 3.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 20 }, platform: "landing" },
   { image: "Checkbox 4.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Checkbox 5.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Checkbox 6.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
@@ -1380,14 +1380,14 @@ window.ADS = [
   { image: "Checkbox 9.webp",  title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Checkbox 10.webp", title: "Checkbox", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
 
-  { image: "Sign Up 1.webp",  title: "Sign Up", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 7 }, platform: "landing" },
+  { image: "Sign Up 1.webp",  title: "Sign Up", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 9 }, platform: "landing" },
   { image: "Sign Up 2.webp",  title: "Sign Up", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Sign Up 3.webp",  title: "Sign Up", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
   { image: "Sign Up 4.webp",  title: "Sign Up", formula: "", tag: "Above the Fold", category: "above-the-fold", platform: "landing" },
 
   // Animated standout — pinned to the top of Above the Fold and the All view
   { image: "Question Animated.webp", title: "Question", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 1, all: 1 }, platform: "landing" },
-  { image: "Sourcegraph Hero.webp", title: "Sourcegraph", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { all: 7 }, platform: "landing" },
+  { image: "Question Drop Down 2.webp", title: "Question Drop Down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { all: 7 }, platform: "landing" },
 
   // ---------- Landing Pages — Blocks ----------
   { image: "Dynamic 1.webp",  title: "Dynamic", formula: "", tag: "Blocks", category: "blocks", priority: { blocks: 1, all: 2 },  platform: "landing" },
@@ -1476,7 +1476,7 @@ window.ADS = [
   { image: "Steps 1.webp", title: "Steps", formula: "", tag: "Blocks", category: "blocks", platform: "landing" },
   { image: "Steps 2.webp", title: "Steps", formula: "", tag: "Blocks", category: "blocks", platform: "landing" },
   { image: "Steps 3.webp", title: "Steps", formula: "", tag: "Blocks", category: "blocks", platform: "landing" },
-  { image: "Sourcegraph Comparison.webp", title: "Sourcegraph", formula: "", tag: "Blocks", category: "blocks", platform: "landing" },
+  { image: "Competitors 6.webp", title: "Competitors", formula: "", tag: "Blocks", category: "blocks", platform: "landing" },
 
   // ---------- Landing Pages — Product Visuals ----------
   { image: "Devices 1.webp",    title: "Devices",    formula: "", tag: "Product Visuals", category: "product-visuals", priority: { "product-visuals": 1, all: 5 }, platform: "landing" },
@@ -1493,10 +1493,11 @@ window.ADS = [
   { image: "Screenshot 1.webp", title: "Screenshot", formula: "", tag: "Product Visuals", category: "product-visuals", priority: { "product-visuals": 4 }, platform: "landing" },
   { image: "Screenshot 2.webp", title: "Screenshot", formula: "", tag: "Product Visuals", category: "product-visuals", priority: { "product-visuals": 8 }, platform: "landing" },
   { image: "Screenshot 3.webp", title: "Screenshot", formula: "", tag: "Product Visuals", category: "product-visuals", priority: { "product-visuals": 11 }, platform: "landing" },
-  { image: "Sourcegraph Product Hero.webp", title: "Sourcegraph", formula: "", tag: "Product Visuals", category: "product-visuals", platform: "landing" },
-  { image: "Get Started.webp",        title: "Get Started",        formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 3 }, platform: "landing" },
-  { image: "Test It Out.webp",        title: "Test It Out",        formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 5 }, platform: "landing" },
-  { image: "Question Drop Down.webp", title: "Question Drop Down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 7 }, platform: "landing" },
+  { image: "Diagram 1.webp", title: "Diagram", formula: "", tag: "Product Visuals", category: "product-visuals", platform: "landing" },
+  { image: "Get Started.webp",        title: "Get Started",        formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 4 }, platform: "landing" },
+  { image: "Test It Out.webp",        title: "Test It Out",        formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 7 }, platform: "landing" },
+  { image: "Question Drop Down.webp", title: "Question Drop Down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 10 }, platform: "landing" },
+  { image: "Take a Tour.webp",        title: "Take a Tour",        formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 16, all: 12 }, platform: "landing" },
   { image: "Tour Gateway 1.webp",     title: "Tour Gateway",       formula: "", tag: "Experiences",    category: "experiences",    priority: { experiences: 2 }, platform: "landing" },
   { image: "Tour Gateway 2.webp",     title: "Tour Gateway",       formula: "", tag: "Experiences",    category: "experiences",    priority: { experiences: 3 }, platform: "landing" },
   { image: "Test Gateway.webp",       title: "Test Gateway",       formula: "", tag: "Experiences",    category: "experiences",    priority: { experiences: 1 }, platform: "landing" },
@@ -1614,8 +1615,8 @@ window.ADS = [
   { image: "Convo 23.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", platform: "linkedin" },
   { image: "Convo 24.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", platform: "linkedin" },
   { image: "Convo 25.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", platform: "linkedin" },
-  { image: "Broken Taxonomy.webp", title: "Broken Taxonomy", formula: "White Lie audit script that reveals a broken product taxonomy", tag: "Conversation Ads", category: "convo-ads", platform: "linkedin" },
-  { image: "ChatGPT Audit.webp",   title: "ChatGPT Audit",   formula: "Fear-based ChatGPT audit script targeting visibility in AI search", tag: "Conversation Ads", category: "convo-ads", platform: "linkedin" },
+  { image: "Broken Taxonomy.webp", title: "Audit", formula: "White Lie audit script that reveals a broken product taxonomy", tag: "Conversation Ads", category: "convo-ads", platform: "linkedin" },
+  { image: "ChatGPT Audit.webp",   title: "Audit",   formula: "Fear-based ChatGPT audit script targeting visibility in AI search", tag: "Conversation Ads", category: "convo-ads", platform: "linkedin" },
 
   // ---------- LinkedIn — Playbook (chart slides) ----------
   { image: "Playbook 17.webp", title: "Incentive Headlines",             formula: "50%+ open rate with an incentive in the subject",   tag: "Playbook", category: "playbook", platform: "linkedin" },
