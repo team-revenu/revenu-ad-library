@@ -2376,9 +2376,9 @@
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Semgrep.webp</image:loc>
-      <image:title>Semgrep — Above the Fold Landing Pages example</image:title>
-      <image:caption>Semgrep: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Get%20Started.webp</image:loc>
+      <image:title>Get Started — Above the Fold Landing Pages example</image:title>
+      <image:caption>Get Started: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -2386,9 +2386,9 @@
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Hatch.webp</image:loc>
-      <image:title>Hatch — Above the Fold Landing Pages example</image:title>
-      <image:caption>Hatch: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Test%20It%20Out.webp</image:loc>
+      <image:title>Test It Out — Above the Fold Landing Pages example</image:title>
+      <image:caption>Test It Out: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -2396,9 +2396,9 @@
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Sourcegraph%20Augment.webp</image:loc>
-      <image:title>Sourcegraph Augment — Above the Fold Landing Pages example</image:title>
-      <image:caption>Sourcegraph Augment: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Above%20the%20Fold/Question%20Drop%20Down.webp</image:loc>
+      <image:title>Question Drop Down — Above the Fold Landing Pages example</image:title>
+      <image:caption>Question Drop Down: a above the fold landing pages example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -3211,9 +3211,9 @@
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Experiences/Northspyre.webp</image:loc>
-      <image:title>Northspyre — Experiences Landing Pages example</image:title>
-      <image:caption>Northspyre: a experiences landing pages example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Experiences/Tour%20Gateway%201.webp</image:loc>
+      <image:title>Tour Gateway — Experiences Landing Pages example</image:title>
+      <image:caption>Tour Gateway: a experiences landing pages example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
@@ -3221,9 +3221,19 @@
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Experiences/Sourcegraph%20Agentic%20Batch.webp</image:loc>
-      <image:title>Sourcegraph Agentic Batch — Experiences Landing Pages example</image:title>
-      <image:caption>Sourcegraph Agentic Batch: a experiences landing pages example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Experiences/Tour%20Gateway%202.webp</image:loc>
+      <image:title>Tour Gateway — Experiences Landing Pages example</image:title>
+      <image:caption>Tour Gateway: a experiences landing pages example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/landing-pages/experiences-3</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Experiences/Test%20Gateway.webp</image:loc>
+      <image:title>Test Gateway — Experiences Landing Pages example</image:title>
+      <image:caption>Test Gateway: a experiences landing pages example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>

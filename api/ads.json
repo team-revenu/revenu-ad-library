@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-11T21:43:40.804Z",
-  "total": 578,
+  "generated": "2026-11-11T22:01:38.736Z",
+  "total": 579,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -4590,56 +4590,67 @@
       "platform": "landing",
       "category": "above-the-fold",
       "id": 40,
-      "title": "Semgrep",
+      "title": "Get Started",
       "formula": "",
       "tag": "Above the Fold",
-      "image": "Semgrep.webp",
+      "image": "Get Started.webp",
       "url": "https://library.revenuagency.io/landing-pages/above-the-fold-40",
-      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Above the Fold/Semgrep.webp"
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Above the Fold/Get Started.webp"
     },
     {
       "platform": "landing",
       "category": "above-the-fold",
       "id": 41,
-      "title": "Hatch",
+      "title": "Test It Out",
       "formula": "",
       "tag": "Above the Fold",
-      "image": "Hatch.webp",
+      "image": "Test It Out.webp",
       "url": "https://library.revenuagency.io/landing-pages/above-the-fold-41",
-      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Above the Fold/Hatch.webp"
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Above the Fold/Test It Out.webp"
     },
     {
       "platform": "landing",
       "category": "above-the-fold",
       "id": 42,
-      "title": "Sourcegraph Augment",
+      "title": "Question Drop Down",
       "formula": "",
       "tag": "Above the Fold",
-      "image": "Sourcegraph Augment.webp",
+      "image": "Question Drop Down.webp",
       "url": "https://library.revenuagency.io/landing-pages/above-the-fold-42",
-      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Above the Fold/Sourcegraph Augment.webp"
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Above the Fold/Question Drop Down.webp"
     },
     {
       "platform": "landing",
       "category": "experiences",
       "id": 1,
-      "title": "Northspyre",
+      "title": "Tour Gateway",
       "formula": "",
       "tag": "Experiences",
-      "image": "Northspyre.webp",
+      "image": "Tour Gateway 1.webp",
       "url": "https://library.revenuagency.io/landing-pages/experiences-1",
-      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Experiences/Northspyre.webp"
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Experiences/Tour Gateway 1.webp"
     },
     {
       "platform": "landing",
       "category": "experiences",
       "id": 2,
-      "title": "Sourcegraph Agentic Batch",
+      "title": "Tour Gateway",
       "formula": "",
       "tag": "Experiences",
-      "image": "Sourcegraph Agentic Batch.webp",
+      "image": "Tour Gateway 2.webp",
       "url": "https://library.revenuagency.io/landing-pages/experiences-2",
-      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Experiences/Sourcegraph Agentic Batch.webp"
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Experiences/Tour Gateway 2.webp"
+    },
+    {
+      "platform": "landing",
+      "category": "experiences",
+      "id": 3,
+      "title": "Test Gateway",
+      "formula": "",
+      "tag": "Experiences",
+      "image": "Test Gateway.webp",
+      "url": "https://library.revenuagency.io/landing-pages/experiences-3",
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Experiences/Test Gateway.webp"
     },
     {
       "platform": "linkedin",

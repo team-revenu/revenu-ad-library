@@ -1494,11 +1494,12 @@ window.ADS = [
   { image: "Screenshot 2.webp", title: "Screenshot", formula: "", tag: "Product Visuals", category: "product-visuals", priority: { "product-visuals": 8 }, platform: "landing" },
   { image: "Screenshot 3.webp", title: "Screenshot", formula: "", tag: "Product Visuals", category: "product-visuals", priority: { "product-visuals": 11 }, platform: "landing" },
   { image: "Sourcegraph Product Hero.webp", title: "Sourcegraph", formula: "", tag: "Product Visuals", category: "product-visuals", platform: "landing" },
-  { image: "Semgrep.webp",                    title: "Semgrep",                    formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 3 }, platform: "landing" },
-  { image: "Hatch.webp",                      title: "Hatch",                      formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 5, experiences: 1 }, platform: "landing" },
-  { image: "Sourcegraph Augment.webp",        title: "Sourcegraph Augment",        formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 7 }, platform: "landing" },
-  { image: "Northspyre.webp",                 title: "Northspyre",                 formula: "", tag: "Experiences",    category: "experiences",    priority: { experiences: 2 }, platform: "landing" },
-  { image: "Sourcegraph Agentic Batch.webp",  title: "Sourcegraph Agentic Batch",  formula: "", tag: "Experiences",    category: "experiences",    priority: { experiences: 3 }, platform: "landing" },
+  { image: "Get Started.webp",        title: "Get Started",        formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 3 }, platform: "landing" },
+  { image: "Test It Out.webp",        title: "Test It Out",        formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 5 }, platform: "landing" },
+  { image: "Question Drop Down.webp", title: "Question Drop Down", formula: "", tag: "Above the Fold", category: "above-the-fold", priority: { "above-the-fold": 7 }, platform: "landing" },
+  { image: "Tour Gateway 1.webp",     title: "Tour Gateway",       formula: "", tag: "Experiences",    category: "experiences",    priority: { experiences: 2 }, platform: "landing" },
+  { image: "Tour Gateway 2.webp",     title: "Tour Gateway",       formula: "", tag: "Experiences",    category: "experiences",    priority: { experiences: 3 }, platform: "landing" },
+  { image: "Test Gateway.webp",       title: "Test Gateway",       formula: "", tag: "Experiences",    category: "experiences",    priority: { experiences: 1 }, platform: "landing" },
 
   // ---------- LinkedIn — Problem (continued) ----------
   { image: "Problem 68.webp", title: "Pop Culture Meme", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },

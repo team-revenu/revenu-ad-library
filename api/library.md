@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 578
-Generated: 2026-11-11T21:43:40.820Z
+Total entries: 579
+Generated: 2026-11-11T22:01:38.739Z
 
 ## Google Ads (158 examples)
 
@@ -454,7 +454,7 @@ Generated: 2026-11-11T21:43:40.820Z
 - **Broken Taxonomy** (White Lie audit script that reveals a broken product taxonomy) — [https://library.revenuagency.io/linkedin-ads/convo-ads-26](https://library.revenuagency.io/linkedin-ads/convo-ads-26)
 - **ChatGPT Audit** (Fear-based ChatGPT audit script targeting visibility in AI search) — [https://library.revenuagency.io/linkedin-ads/convo-ads-27](https://library.revenuagency.io/linkedin-ads/convo-ads-27)
 
-## Landing Pages (130 examples)
+## Landing Pages (131 examples)
 
 ### Above the Fold — 42 examples
 
@@ -497,9 +497,9 @@ Generated: 2026-11-11T21:43:40.820Z
 - **Sign Up** — [https://library.revenuagency.io/landing-pages/above-the-fold-37](https://library.revenuagency.io/landing-pages/above-the-fold-37)
 - **Question** — [https://library.revenuagency.io/landing-pages/above-the-fold-38](https://library.revenuagency.io/landing-pages/above-the-fold-38)
 - **Sourcegraph** — [https://library.revenuagency.io/landing-pages/above-the-fold-39](https://library.revenuagency.io/landing-pages/above-the-fold-39)
-- **Semgrep** — [https://library.revenuagency.io/landing-pages/above-the-fold-40](https://library.revenuagency.io/landing-pages/above-the-fold-40)
-- **Hatch** — [https://library.revenuagency.io/landing-pages/above-the-fold-41](https://library.revenuagency.io/landing-pages/above-the-fold-41)
-- **Sourcegraph Augment** — [https://library.revenuagency.io/landing-pages/above-the-fold-42](https://library.revenuagency.io/landing-pages/above-the-fold-42)
+- **Get Started** — [https://library.revenuagency.io/landing-pages/above-the-fold-40](https://library.revenuagency.io/landing-pages/above-the-fold-40)
+- **Test It Out** — [https://library.revenuagency.io/landing-pages/above-the-fold-41](https://library.revenuagency.io/landing-pages/above-the-fold-41)
+- **Question Drop Down** — [https://library.revenuagency.io/landing-pages/above-the-fold-42](https://library.revenuagency.io/landing-pages/above-the-fold-42)
 
 ### Blocks — 74 examples
 
@@ -593,10 +593,11 @@ Generated: 2026-11-11T21:43:40.820Z
 - **Screenshot** — [https://library.revenuagency.io/landing-pages/product-visuals-11](https://library.revenuagency.io/landing-pages/product-visuals-11)
 - **Sourcegraph** — [https://library.revenuagency.io/landing-pages/product-visuals-12](https://library.revenuagency.io/landing-pages/product-visuals-12)
 
-### Experiences — 2 examples
+### Experiences — 3 examples
 
-- **Northspyre** — [https://library.revenuagency.io/landing-pages/experiences-1](https://library.revenuagency.io/landing-pages/experiences-1)
-- **Sourcegraph Agentic Batch** — [https://library.revenuagency.io/landing-pages/experiences-2](https://library.revenuagency.io/landing-pages/experiences-2)
+- **Tour Gateway** — [https://library.revenuagency.io/landing-pages/experiences-1](https://library.revenuagency.io/landing-pages/experiences-1)
+- **Tour Gateway** — [https://library.revenuagency.io/landing-pages/experiences-2](https://library.revenuagency.io/landing-pages/experiences-2)
+- **Test Gateway** — [https://library.revenuagency.io/landing-pages/experiences-3](https://library.revenuagency.io/landing-pages/experiences-3)
 
 ## ChatGPT Ads (38 examples)
 
