@@ -59,6 +59,7 @@ const PLATFORMS = {
       { key: 'above-the-fold',   label: 'Above the Fold',   folder: 'Above the Fold' },
       { key: 'blocks',           label: 'Blocks',           folder: 'Blocks' },
       { key: 'product-visuals',  label: 'Product Visuals',  folder: 'Product Visuals' },
+      { key: 'experiences',      label: 'Experiences',      folder: 'Experiences' },
     ],
   },
   chatgpt: {

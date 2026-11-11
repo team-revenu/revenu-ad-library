@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-10-27T00:17:42.376Z",
-  "total": 573,
+  "generated": "2026-11-11T21:43:40.804Z",
+  "total": 578,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -4585,6 +4585,61 @@
       "image": "Sourcegraph Product Hero.webp",
       "url": "https://library.revenuagency.io/landing-pages/product-visuals-12",
       "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Product Visuals/Sourcegraph Product Hero.webp"
+    },
+    {
+      "platform": "landing",
+      "category": "above-the-fold",
+      "id": 40,
+      "title": "Semgrep",
+      "formula": "",
+      "tag": "Above the Fold",
+      "image": "Semgrep.webp",
+      "url": "https://library.revenuagency.io/landing-pages/above-the-fold-40",
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Above the Fold/Semgrep.webp"
+    },
+    {
+      "platform": "landing",
+      "category": "above-the-fold",
+      "id": 41,
+      "title": "Hatch",
+      "formula": "",
+      "tag": "Above the Fold",
+      "image": "Hatch.webp",
+      "url": "https://library.revenuagency.io/landing-pages/above-the-fold-41",
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Above the Fold/Hatch.webp"
+    },
+    {
+      "platform": "landing",
+      "category": "above-the-fold",
+      "id": 42,
+      "title": "Sourcegraph Augment",
+      "formula": "",
+      "tag": "Above the Fold",
+      "image": "Sourcegraph Augment.webp",
+      "url": "https://library.revenuagency.io/landing-pages/above-the-fold-42",
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Above the Fold/Sourcegraph Augment.webp"
+    },
+    {
+      "platform": "landing",
+      "category": "experiences",
+      "id": 1,
+      "title": "Northspyre",
+      "formula": "",
+      "tag": "Experiences",
+      "image": "Northspyre.webp",
+      "url": "https://library.revenuagency.io/landing-pages/experiences-1",
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Experiences/Northspyre.webp"
+    },
+    {
+      "platform": "landing",
+      "category": "experiences",
+      "id": 2,
+      "title": "Sourcegraph Agentic Batch",
+      "formula": "",
+      "tag": "Experiences",
+      "image": "Sourcegraph Agentic Batch.webp",
+      "url": "https://library.revenuagency.io/landing-pages/experiences-2",
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Experiences/Sourcegraph Agentic Batch.webp"
     },
     {
       "platform": "linkedin",
