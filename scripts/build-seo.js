@@ -84,7 +84,7 @@ const PLATFORMS = {
       { key: 'professional', label: 'Professional', folder: 'Professional' },
       { key: 'social-proof', label: 'Social Proof', folder: 'Social Proof' },
       { key: 'ugc',          label: 'UGC',          folder: 'UGC' },
-      { key: 'b2c-inspiration', label: 'B2C Inspiration', folder: 'B2C Inspiration', shortLabel: 'B2C' },
+      { key: 'b2c-inspiration', label: 'B2C Inspiration', folder: 'B2C Inspiration' },
     ],
   },
 };

@@ -1722,7 +1722,7 @@ window.ADS = [
   { image: "instantly-rljg0e9bbqfhljp.webp", video: "instantly-rljg0e9bbqfhljp.mp4", title: "Laptop Walkthrough", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 16 } },
 
   // ---------- Video Ads — B2C Inspiration ----------
-  { image: "honda-iO7BmPoL6a4.webp", video: "honda-iO7BmPoL6a4.mp4", title: "Salt Flats", formula: "", tag: "B2C Inspiration", category: "b2c-inspiration", platform: "videos", aspect: "16 / 9" },
+  { image: "honda-iO7BmPoL6a4.webp", video: "honda-iO7BmPoL6a4.mp4", title: "Salt Flats", formula: "", tag: "B2C Inspiration", category: "b2c-inspiration", platform: "videos", aspect: "1280 / 546" },
   { image: "squattypotty-YbYWhdLO43Q.webp", video: "squattypotty-YbYWhdLO43Q.mp4", title: "Rainbow Unicorn", formula: "", tag: "B2C Inspiration", category: "b2c-inspiration", platform: "videos", aspect: "16 / 9" },
   { image: "sony-oYmU8Av_e84.webp", video: "sony-oYmU8Av_e84.mp4", title: "Dark Library", formula: "", tag: "B2C Inspiration", category: "b2c-inspiration", platform: "videos", aspect: "16 / 9" },
   { image: "skittles-SXMh8WrXShw.webp", video: "skittles-SXMh8WrXShw.mp4", title: "Video Store", formula: "", tag: "B2C Inspiration", category: "b2c-inspiration", platform: "videos", aspect: "3 / 2" }

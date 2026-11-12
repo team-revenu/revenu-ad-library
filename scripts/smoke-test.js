@@ -129,7 +129,7 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   check('hover adds a muted preload="none" video with a poster', !!hv && hv.getAttribute('preload') === 'none' && hv.muted && hv.getAttribute('poster'));
   first.dispatchEvent(new dom.window.Event('mouseleave'));
   check('leaving removes the hover video', !first.querySelector('video'));
-  check('every card has a 9:16, 1:1, 16:9 or 3:2 shape from its entry', [...cards].every(c => /(9\s*\/\s*16|1\s*\/\s*1|16\s*\/\s*9|3\s*\/\s*2)/.test(c.querySelector('.card-thumb').getAttribute('style') || '')));
+  check('every card has a width / height shape from its entry', [...cards].every(c => /^\s*aspect-ratio:\s*[0-9.]+\s*\/\s*[0-9.]+/.test(c.querySelector('.card-thumb').getAttribute('style') || '')));
   document.querySelector('#filters .tab[data-filter="professional"]').click();
   check('Professional tab shows 18 cards', document.querySelectorAll('#gallery .card').length === 18);
   check('URL is /videos/professional', dom.window.location.pathname === '/videos/professional');
