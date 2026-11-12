@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 585
-Generated: 2026-11-12T14:23:56.761Z
+Total entries: 588
+Generated: 2026-11-12T14:38:54.053Z
 
 ## Google Ads (158 examples)
 
@@ -649,13 +649,19 @@ Generated: 2026-11-12T14:23:56.761Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (5 examples)
+## Video Ads (8 examples)
 
-### Mobile — 5 examples
+### Mobile — 7 examples
 
 - **Floating Head** — [https://library.revenuagency.io/videos/mobile-1](https://library.revenuagency.io/videos/mobile-1)
 - **Company Meeting** — [https://library.revenuagency.io/videos/mobile-2](https://library.revenuagency.io/videos/mobile-2)
 - **Close Up** — [https://library.revenuagency.io/videos/mobile-3](https://library.revenuagency.io/videos/mobile-3)
 - **Video Game** — [https://library.revenuagency.io/videos/mobile-4](https://library.revenuagency.io/videos/mobile-4)
 - **Video Game** — [https://library.revenuagency.io/videos/mobile-5](https://library.revenuagency.io/videos/mobile-5)
+- **Smashing Glass** — [https://library.revenuagency.io/videos/mobile-6](https://library.revenuagency.io/videos/mobile-6)
+- **Comment Reply** — [https://library.revenuagency.io/videos/mobile-7](https://library.revenuagency.io/videos/mobile-7)
+
+### Horizontal — 1 examples
+
+- **Devil Interview** — [https://library.revenuagency.io/videos/horizontal-1](https://library.revenuagency.io/videos/horizontal-1)
 

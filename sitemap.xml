@@ -5947,6 +5947,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://library.revenuagency.io/videos/horizontal</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/horizontal-1</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/conveyor-nydkww5t5dby9jh.webp</image:loc>
+      <image:title>Devil Interview — Horizontal Video Ads example</image:title>
+      <image:caption>Devil Interview: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://library.revenuagency.io/videos/mobile</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.8</priority>
@@ -5999,6 +6014,26 @@
       <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/scytale-1611693434.webp</image:loc>
       <image:title>Video Game — Mobile Video Ads example</image:title>
       <image:caption>Video Game: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/mobile-6</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/hibob-exukmvuntylilmg.webp</image:loc>
+      <image:title>Smashing Glass — Mobile Video Ads example</image:title>
+      <image:caption>Smashing Glass: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/mobile-7</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/juicebox-w6pd6rhb3ouzz6d.webp</image:loc>
+      <image:title>Comment Reply — Mobile Video Ads example</image:title>
+      <image:caption>Comment Reply: a mobile video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
 </urlset>

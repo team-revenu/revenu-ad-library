@@ -118,21 +118,25 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/mobile, /video
   const tabs = [...document.querySelectorAll('#filters .tab')].map(t => t.dataset.filter);
   check('tabs are All / Mobile / Horizontal', tabs.join(',') === 'all,mobile,horizontal');
   const cards = document.querySelectorAll('#gallery .card');
-  check(`All tab has video cards (${cards.length} found)`, cards.length === 5);
+  check(`All tab has video cards (${cards.length} found)`, cards.length === 8);
   check('every card is a video card with a <video>', [...cards].every(c => c.classList.contains('card-video') && c.querySelector('video.card-video-el')));
   check('card video uses preload="none" and a poster', [...cards].every(c => c.querySelector('video').getAttribute('preload') === 'none' && c.querySelector('video').getAttribute('poster')));
-  check('mobile cards are 9:16', [...cards].every(c => /9\s*\/\s*16/.test(c.querySelector('.card-thumb').getAttribute('style') || '')));
+  check('mobile cards are 9:16 and horizontal cards 16:9', [...cards].every(c => { const st = c.querySelector('.card-thumb').getAttribute('style') || ''; return c.querySelector('.card-tag').textContent === 'Horizontal' ? /16\s*\/\s*9/.test(st) : /9\s*\/\s*16/.test(st); }));
   // Mobile tab
   document.querySelector('#filters .tab[data-filter="mobile"]').click();
-  check('Mobile tab shows 5 cards', document.querySelectorAll('#gallery .card').length === 5);
+  check('Mobile tab shows 7 cards', document.querySelectorAll('#gallery .card').length === 7);
   check('URL is /videos/mobile', dom.window.location.pathname === '/videos/mobile');
-  // Horizontal tab — empty, must show a clean visitor message, not the dev hint
+  // Horizontal tab — one 16:9 video
   document.querySelector('#filters .tab[data-filter="horizontal"]').click();
-  const empty = document.getElementById('empty-state');
-  check('Horizontal tab has no cards', document.querySelectorAll('#gallery .card').length === 0);
-  check('Horizontal shows the empty-state message', !empty.hidden && /no horizontal videos yet/i.test(empty.textContent));
-  check('empty-state is not the developer hint', !/ads\.js|Drop images/.test(empty.textContent));
+  const hCards = document.querySelectorAll('#gallery .card');
+  check('Horizontal tab shows 1 card', hCards.length === 1);
+  check('horizontal card is 16:9', /16\s*\/\s*9/.test(hCards[0].querySelector('.card-thumb').getAttribute('style') || ''));
   check('URL is /videos/horizontal', dom.window.location.pathname === '/videos/horizontal');
+  // An empty category still shows the visitor-facing message (search for nothing)
+  dom.window.eval("applySearch('zzz-no-such-video')");
+  const empty = document.getElementById('empty-state');
+  check('empty state is not the developer hint', !empty.hidden && !/ads\.js|Drop images/.test(empty.textContent));
+  dom.window.eval("applySearch('')");
   // Lightbox swaps to the <video> element for a video ad
   document.querySelector('#filters .tab[data-filter="all"]').click();
   document.querySelector('#gallery .card').click();

@@ -1694,5 +1694,10 @@ window.ADS = [
   { image: "scytale-1611547124.webp", video: "scytale-1611547124.mp4", title: "Company Meeting", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611547124" },
   { image: "scytale-1611739984.webp", video: "scytale-1611739984.mp4", title: "Close Up", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611739984" },
   { image: "scytale-1611693444.webp", video: "scytale-1611693444.mp4", title: "Video Game", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611693444" },
-  { image: "scytale-1611693434.webp", video: "scytale-1611693434.mp4", title: "Video Game", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611693434" }
+  { image: "scytale-1611693434.webp", video: "scytale-1611693434.mp4", title: "Video Game", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611693434" },
+  { image: "hibob-exukmvuntylilmg.webp", video: "hibob-exukmvuntylilmg.mp4", title: "Smashing Glass", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/exukmvuntylilmg" },
+  { image: "juicebox-w6pd6rhb3ouzz6d.webp", video: "juicebox-w6pd6rhb3ouzz6d.mp4", title: "Comment Reply", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/w6pd6rhb3ouzz6d" },
+
+  // ---------- Video Ads — Horizontal ----------
+  { image: "conveyor-nydkww5t5dby9jh.webp", video: "conveyor-nydkww5t5dby9jh.mp4", title: "Devil Interview", formula: "", tag: "Horizontal", category: "horizontal", platform: "videos", source: "https://www.adfolio.design/videos/nydkww5t5dby9jh" }
 ];

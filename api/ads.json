@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T14:23:56.757Z",
-  "total": 585,
+  "generated": "2026-11-12T14:38:54.047Z",
+  "total": 588,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6464,6 +6464,42 @@
       "url": "https://library.revenuagency.io/videos/mobile-5",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611693434.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611693434.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 6,
+      "title": "Smashing Glass",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "hibob-exukmvuntylilmg.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-6",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/hibob-exukmvuntylilmg.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/hibob-exukmvuntylilmg.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 7,
+      "title": "Comment Reply",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "juicebox-w6pd6rhb3ouzz6d.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-7",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/juicebox-w6pd6rhb3ouzz6d.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/juicebox-w6pd6rhb3ouzz6d.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "horizontal",
+      "id": 1,
+      "title": "Devil Interview",
+      "formula": "",
+      "tag": "Horizontal",
+      "image": "conveyor-nydkww5t5dby9jh.webp",
+      "url": "https://library.revenuagency.io/videos/horizontal-1",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/conveyor-nydkww5t5dby9jh.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/conveyor-nydkww5t5dby9jh.mp4"
     }
   ]
 }
