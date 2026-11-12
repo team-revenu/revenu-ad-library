@@ -1273,7 +1273,20 @@ body.lb-dragging .lb-figure img { cursor: grabbing; }
   position: relative;
   background: #141917;
 }
+/* Poster image fills the thumb (cover, not contain — these are video frames
+   at the thumb's own aspect, so nothing is cropped away). */
+.card-video .card-thumb img.card-poster {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+/* Hover preview: the <video> is created on mouseenter and laid over the
+   poster, then removed on mouseleave (see app.js). */
 .card-video .card-video-el {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;

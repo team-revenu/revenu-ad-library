@@ -1240,13 +1240,16 @@ function renderCards(animate = false) {
       (ad.platform === 'linkedin' && ad.category === 'convo-ads');
     const video = isVideoAd(ad);
     if (video) card.classList.add('card-video');
-    // Video thumbs: a muted, looping <video> with the poster frame showing
-    // until hover (desktop) starts playback. preload="none" keeps the grid
-    // light — nothing downloads until the visitor hovers or opens the ad.
+    // Video thumbs: the grid holds only the poster <img> plus a play badge,
+    // exactly like an image card. The muted, looping <video> is created on
+    // hover (desktop) and removed again on leave — see below. Keeping <video>
+    // out of the grid avoids Safari's blank-card painting bug when a video sits
+    // inside an animated, rounded, overflow-hidden card, and keeps the page
+    // light: nothing downloads until the visitor hovers or opens the ad.
     const aspect = adAspect(ad);
     const thumbStyle = aspect ? ` style="aspect-ratio: ${aspect}"` : '';
     const thumbInner = video
-      ? `<video class="card-video-el" src="${videoPath(ad)}" poster="${imagePath(ad)}" preload="none" muted loop playsinline aria-label="${escapeHtml(ad.title)}"></video>
+      ? `<img class="card-poster" src="${imagePath(ad)}" alt="${escapeHtml(ad.title)}" loading="lazy" />
          <span class="card-play" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5z"/></svg></span>`
       : `<img src="${imagePath(ad)}" alt="${escapeHtml(ad.title)}" loading="lazy" />`;
     card.innerHTML = `
@@ -1273,21 +1276,36 @@ function renderCards(animate = false) {
         openLightbox(i);
       }
     });
-    // Hover-to-preview (desktop, mouse only). Silent and looping; the
-    // lightbox is where it plays with sound. Leaving the card rewinds to the
-    // poster so the grid never ends up full of mid-frame stills.
+    // Hover-to-preview (desktop, mouse only). On enter, a muted looping
+    // <video> is laid over the poster and played; on leave it is removed, so
+    // the poster is back and no stale video elements linger in the grid. The
+    // lightbox is where the ad plays with sound.
     if (video) {
-      const el = card.querySelector('.card-video-el');
+      const thumb = card.querySelector('.card-thumb');
       card.addEventListener('mouseenter', () => {
+        if (thumb.querySelector('.card-video-el')) return;
+        const el = document.createElement('video');
+        el.className = 'card-video-el';
+        el.src = videoPath(ad);
+        el.poster = imagePath(ad);
+        el.preload = 'none';
+        el.muted = true;
+        el.loop = true;
+        el.setAttribute('muted', '');
+        el.setAttribute('playsinline', '');
+        el.setAttribute('aria-hidden', 'true');
+        thumb.insertBefore(el, thumb.querySelector('.card-play'));
         const p = el.play();
         if (p && p.catch) p.catch(() => {});
         card.classList.add('is-playing');
       });
       card.addEventListener('mouseleave', () => {
-        el.pause();
-        try { el.currentTime = 0; } catch (e) {}
-        // Reloading drops the decoded frame so the poster shows again.
-        el.load();
+        const el = thumb.querySelector('.card-video-el');
+        if (el) {
+          try { el.pause(); } catch (e) {}
+          el.removeAttribute('src');
+          el.remove();
+        }
         card.classList.remove('is-playing');
       });
     }
