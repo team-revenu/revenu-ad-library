@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T19:49:09.028Z",
-  "total": 625,
+  "generated": "2026-11-12T19:53:35.724Z",
+  "total": 626,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6063,6 +6063,17 @@
       "image": "Paint Reveal.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-13",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Paint Reveal.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 14,
+      "title": "Before and After",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Before and After 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-14",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Before and After 2.webp"
     },
     {
       "platform": "chatgpt",
