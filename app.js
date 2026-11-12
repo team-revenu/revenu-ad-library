@@ -127,7 +127,8 @@ const platforms = {
       { key: 'all',          label: 'All',          folder: '' },
       { key: 'professional', label: 'Professional', folder: 'Professional' },
       { key: 'social-proof', label: 'Social Proof', folder: 'Social Proof' },
-      { key: 'ugc',          label: 'UGC',          folder: 'UGC' }
+      { key: 'ugc',          label: 'UGC',          folder: 'UGC' },
+      { key: 'b2c-inspiration', label: 'B2C Inspiration', folder: 'B2C Inspiration', shortLabel: 'B2C' }
     ]
   },
   // Pseudo-platform: cross-library "Saved" view. Same gallery + lightbox UI

@@ -1705,6 +1705,9 @@ window.ADS = [
   { image: "monday-1609855933.webp", video: "monday-1609855933.mp4", title: "Quick Handoff", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9", priority: { all: 10 } },
   { image: "monday-1594809493.webp", video: "monday-1594809493.mp4", title: "Old Phone", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9", priority: { all: 9 } },
   { image: "abnormal-1576441726.webp", video: "abnormal-1576441726.mp4", title: "Mission", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9", priority: { all: 2 } },
+  { image: "descript-P8kJRIq82EY.webp", video: "descript-P8kJRIq82EY.mp4", title: "Colour Studio", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9" },
+  { image: "zendesk-e359jWSGMVg.webp", video: "zendesk-e359jWSGMVg.mp4", title: "Old Couple", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9" },
+  { image: "slack-B6zVzWU95Sw.webp", video: "slack-B6zVzWU95Sw.mp4", title: "Office Interviews", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9" },
 
   // ---------- Video Ads — Social Proof ----------
   { image: "vanta-1678577086.webp", video: "vanta-1678577086.mp4", title: "Codat Interview", formula: "", tag: "Social Proof", category: "social-proof", platform: "videos", aspect: "1 / 1", priority: { all: 12 } },
@@ -1716,5 +1719,11 @@ window.ADS = [
   { image: "fyxer-zlux2au3o30xa01.webp", video: "fyxer-zlux2au3o30xa01.mp4", title: "Ask Alexa", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 14 } },
   { image: "navan-1gnxyuqb28l29pn.webp", video: "navan-1gnxyuqb28l29pn.mp4", title: "Product Demo", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 4 } },
   { image: "navan-nq4oc9grp8x8h2u.webp", video: "navan-nq4oc9grp8x8h2u.mp4", title: "Plane Window", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 5 } },
-  { image: "instantly-rljg0e9bbqfhljp.webp", video: "instantly-rljg0e9bbqfhljp.mp4", title: "Laptop Walkthrough", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 16 } }
+  { image: "instantly-rljg0e9bbqfhljp.webp", video: "instantly-rljg0e9bbqfhljp.mp4", title: "Laptop Walkthrough", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 16 } },
+
+  // ---------- Video Ads — B2C Inspiration ----------
+  { image: "honda-iO7BmPoL6a4.webp", video: "honda-iO7BmPoL6a4.mp4", title: "Salt Flats", formula: "", tag: "B2C Inspiration", category: "b2c-inspiration", platform: "videos", aspect: "16 / 9" },
+  { image: "squattypotty-YbYWhdLO43Q.webp", video: "squattypotty-YbYWhdLO43Q.mp4", title: "Rainbow Unicorn", formula: "", tag: "B2C Inspiration", category: "b2c-inspiration", platform: "videos", aspect: "16 / 9" },
+  { image: "sony-oYmU8Av_e84.webp", video: "sony-oYmU8Av_e84.mp4", title: "Dark Library", formula: "", tag: "B2C Inspiration", category: "b2c-inspiration", platform: "videos", aspect: "16 / 9" },
+  { image: "skittles-SXMh8WrXShw.webp", video: "skittles-SXMh8WrXShw.mp4", title: "Video Store", formula: "", tag: "B2C Inspiration", category: "b2c-inspiration", platform: "videos", aspect: "3 / 2" }
 ];

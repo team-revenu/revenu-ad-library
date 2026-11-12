@@ -5947,6 +5947,51 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://library.revenuagency.io/videos/b2c-inspiration</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/b2c-inspiration-1</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/B2C%20Inspiration/honda-iO7BmPoL6a4.webp</image:loc>
+      <image:title>Salt Flats — B2C Inspiration Video Ads example</image:title>
+      <image:caption>Salt Flats: a b2c inspiration video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/b2c-inspiration-2</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/B2C%20Inspiration/squattypotty-YbYWhdLO43Q.webp</image:loc>
+      <image:title>Rainbow Unicorn — B2C Inspiration Video Ads example</image:title>
+      <image:caption>Rainbow Unicorn: a b2c inspiration video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/b2c-inspiration-3</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/B2C%20Inspiration/sony-oYmU8Av_e84.webp</image:loc>
+      <image:title>Dark Library — B2C Inspiration Video Ads example</image:title>
+      <image:caption>Dark Library: a b2c inspiration video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/b2c-inspiration-4</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/B2C%20Inspiration/skittles-SXMh8WrXShw.webp</image:loc>
+      <image:title>Video Store — B2C Inspiration Video Ads example</image:title>
+      <image:caption>Video Store: a b2c inspiration video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://library.revenuagency.io/videos/professional</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.8</priority>
@@ -6019,6 +6064,36 @@
       <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/abnormal-1576441726.webp</image:loc>
       <image:title>Mission — Professional Video Ads example</image:title>
       <image:caption>Mission: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-16</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/descript-P8kJRIq82EY.webp</image:loc>
+      <image:title>Colour Studio — Professional Video Ads example</image:title>
+      <image:caption>Colour Studio: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-17</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/zendesk-e359jWSGMVg.webp</image:loc>
+      <image:title>Old Couple — Professional Video Ads example</image:title>
+      <image:caption>Old Couple: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-18</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/slack-B6zVzWU95Sw.webp</image:loc>
+      <image:title>Office Interviews — Professional Video Ads example</image:title>
+      <image:caption>Office Interviews: a professional video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>

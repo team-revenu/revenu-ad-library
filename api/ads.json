@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T15:07:41.269Z",
-  "total": 603,
+  "generated": "2026-11-12T15:19:36.708Z",
+  "total": 610,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6587,6 +6587,42 @@
     },
     {
       "platform": "videos",
+      "category": "professional",
+      "id": 16,
+      "title": "Colour Studio",
+      "formula": "",
+      "tag": "Professional",
+      "image": "descript-P8kJRIq82EY.webp",
+      "url": "https://library.revenuagency.io/videos/professional-16",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/descript-P8kJRIq82EY.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/descript-P8kJRIq82EY.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 17,
+      "title": "Old Couple",
+      "formula": "",
+      "tag": "Professional",
+      "image": "zendesk-e359jWSGMVg.webp",
+      "url": "https://library.revenuagency.io/videos/professional-17",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/zendesk-e359jWSGMVg.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/zendesk-e359jWSGMVg.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 18,
+      "title": "Office Interviews",
+      "formula": "",
+      "tag": "Professional",
+      "image": "slack-B6zVzWU95Sw.webp",
+      "url": "https://library.revenuagency.io/videos/professional-18",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/slack-B6zVzWU95Sw.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/slack-B6zVzWU95Sw.mp4"
+    },
+    {
+      "platform": "videos",
       "category": "social-proof",
       "id": 1,
       "title": "Codat Interview",
@@ -6680,6 +6716,54 @@
       "url": "https://library.revenuagency.io/videos/ugc-5",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/UGC/instantly-rljg0e9bbqfhljp.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/UGC/instantly-rljg0e9bbqfhljp.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "b2c-inspiration",
+      "id": 1,
+      "title": "Salt Flats",
+      "formula": "",
+      "tag": "B2C Inspiration",
+      "image": "honda-iO7BmPoL6a4.webp",
+      "url": "https://library.revenuagency.io/videos/b2c-inspiration-1",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/B2C Inspiration/honda-iO7BmPoL6a4.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/B2C Inspiration/honda-iO7BmPoL6a4.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "b2c-inspiration",
+      "id": 2,
+      "title": "Rainbow Unicorn",
+      "formula": "",
+      "tag": "B2C Inspiration",
+      "image": "squattypotty-YbYWhdLO43Q.webp",
+      "url": "https://library.revenuagency.io/videos/b2c-inspiration-2",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/B2C Inspiration/squattypotty-YbYWhdLO43Q.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/B2C Inspiration/squattypotty-YbYWhdLO43Q.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "b2c-inspiration",
+      "id": 3,
+      "title": "Dark Library",
+      "formula": "",
+      "tag": "B2C Inspiration",
+      "image": "sony-oYmU8Av_e84.webp",
+      "url": "https://library.revenuagency.io/videos/b2c-inspiration-3",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/B2C Inspiration/sony-oYmU8Av_e84.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/B2C Inspiration/sony-oYmU8Av_e84.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "b2c-inspiration",
+      "id": 4,
+      "title": "Video Store",
+      "formula": "",
+      "tag": "B2C Inspiration",
+      "image": "skittles-SXMh8WrXShw.webp",
+      "url": "https://library.revenuagency.io/videos/b2c-inspiration-4",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/B2C Inspiration/skittles-SXMh8WrXShw.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/B2C Inspiration/skittles-SXMh8WrXShw.mp4"
     }
   ]
 }

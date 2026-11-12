@@ -84,6 +84,7 @@ const PLATFORMS = {
       { key: 'professional', label: 'Professional', folder: 'Professional' },
       { key: 'social-proof', label: 'Social Proof', folder: 'Social Proof' },
       { key: 'ugc',          label: 'UGC',          folder: 'UGC' },
+      { key: 'b2c-inspiration', label: 'B2C Inspiration', folder: 'B2C Inspiration', shortLabel: 'B2C' },
     ],
   },
 };
@@ -249,7 +250,7 @@ const llmsShort = `# Revenu Ad Library
 - [Google Ads](${BASE_URL}/google-ads) — ${(adsByPlatform.google || []).length} examples across Brand, Non Brand, Competitor, and Playbook
 - [Landing Pages](${BASE_URL}/landing-pages) — ${(adsByPlatform.landing || []).length} examples across Above the Fold, Blocks, and Product Visuals
 - [ChatGPT Ads](${BASE_URL}/chatgpt) — ${(adsByPlatform.chatgpt || []).length} examples across The Playbook, Formulas, and The Setup
-- [Video Ads](${BASE_URL}/videos) — ${(adsByPlatform.videos || []).length} video examples across Professional, Social Proof, and UGC
+- [Video Ads](${BASE_URL}/videos) — ${(adsByPlatform.videos || []).length} video examples across Professional, Social Proof, UGC, and B2C Inspiration
 
 ## Browsing
 

@@ -116,9 +116,9 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   check('videos pill active', document.querySelector('.platform-pill[data-platform="videos"]').classList.contains('is-active'));
   check('headline says "Video Ads Library"', /video ads\s*library/i.test(document.getElementById('hero-title').textContent));
   const tabs = [...document.querySelectorAll('#filters .tab')].map(t => t.dataset.filter);
-  check('tabs are All / Professional / Social Proof / UGC', tabs.join(',') === 'all,professional,social-proof,ugc');
+  check('tabs are All / Professional / Social Proof / UGC / B2C Inspiration', tabs.join(',') === 'all,professional,social-proof,ugc,b2c-inspiration');
   const cards = document.querySelectorAll('#gallery .card');
-  check(`All tab has video cards (${cards.length} found)`, cards.length === 23);
+  check(`All tab has video cards (${cards.length} found)`, cards.length === 30);
   check('every card is a video card showing a poster image and a play badge', [...cards].every(c => c.classList.contains('card-video') && c.querySelector('img.card-poster') && c.querySelector('.card-play')));
   check('no <video> in the grid before hover', !document.querySelector('#gallery video'));
   check('videos gallery is packed into mosaic columns', document.getElementById('gallery').classList.contains('is-masonry') && document.querySelectorAll('#gallery .masonry-col').length >= 1 && [...document.querySelectorAll('#gallery .masonry-col')].reduce((n, c) => n + c.children.length, 0) === cards.length);
@@ -129,15 +129,18 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   check('hover adds a muted preload="none" video with a poster', !!hv && hv.getAttribute('preload') === 'none' && hv.muted && hv.getAttribute('poster'));
   first.dispatchEvent(new dom.window.Event('mouseleave'));
   check('leaving removes the hover video', !first.querySelector('video'));
-  check('every card has a 9:16, 1:1 or 16:9 shape from its entry', [...cards].every(c => /(9\s*\/\s*16|1\s*\/\s*1|16\s*\/\s*9)/.test(c.querySelector('.card-thumb').getAttribute('style') || '')));
+  check('every card has a 9:16, 1:1, 16:9 or 3:2 shape from its entry', [...cards].every(c => /(9\s*\/\s*16|1\s*\/\s*1|16\s*\/\s*9|3\s*\/\s*2)/.test(c.querySelector('.card-thumb').getAttribute('style') || '')));
   document.querySelector('#filters .tab[data-filter="professional"]').click();
-  check('Professional tab shows 15 cards', document.querySelectorAll('#gallery .card').length === 15);
+  check('Professional tab shows 18 cards', document.querySelectorAll('#gallery .card').length === 18);
   check('URL is /videos/professional', dom.window.location.pathname === '/videos/professional');
   document.querySelector('#filters .tab[data-filter="social-proof"]').click();
   check('Social Proof tab shows 3 cards', document.querySelectorAll('#gallery .card').length === 3);
   check('URL is /videos/social-proof', dom.window.location.pathname === '/videos/social-proof');
   document.querySelector('#filters .tab[data-filter="ugc"]').click();
   check('UGC tab shows 5 cards', document.querySelectorAll('#gallery .card').length === 5);
+  document.querySelector('#filters .tab[data-filter="b2c-inspiration"]').click();
+  check('B2C Inspiration tab shows 4 cards', document.querySelectorAll('#gallery .card').length === 4);
+  check('URL is /videos/b2c-inspiration', dom.window.location.pathname === '/videos/b2c-inspiration');
   // An empty result still shows the visitor-facing message, never the developer hint
   dom.window.eval("applySearch('zzz-no-such-video')");
   const empty = document.getElementById('empty-state');

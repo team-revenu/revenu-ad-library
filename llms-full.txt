@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 603
-Generated: 2026-11-12T15:07:41.271Z
+Total entries: 610
+Generated: 2026-11-12T15:19:36.711Z
 
 ## Google Ads (158 examples)
 
@@ -649,9 +649,9 @@ Generated: 2026-11-12T15:07:41.271Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (23 examples)
+## Video Ads (30 examples)
 
-### Professional — 15 examples
+### Professional — 18 examples
 
 - **Floating Head** — [https://library.revenuagency.io/videos/professional-1](https://library.revenuagency.io/videos/professional-1)
 - **Company Meeting** — [https://library.revenuagency.io/videos/professional-2](https://library.revenuagency.io/videos/professional-2)
@@ -668,6 +668,9 @@ Generated: 2026-11-12T15:07:41.271Z
 - **Quick Handoff** — [https://library.revenuagency.io/videos/professional-13](https://library.revenuagency.io/videos/professional-13)
 - **Old Phone** — [https://library.revenuagency.io/videos/professional-14](https://library.revenuagency.io/videos/professional-14)
 - **Mission** — [https://library.revenuagency.io/videos/professional-15](https://library.revenuagency.io/videos/professional-15)
+- **Colour Studio** — [https://library.revenuagency.io/videos/professional-16](https://library.revenuagency.io/videos/professional-16)
+- **Old Couple** — [https://library.revenuagency.io/videos/professional-17](https://library.revenuagency.io/videos/professional-17)
+- **Office Interviews** — [https://library.revenuagency.io/videos/professional-18](https://library.revenuagency.io/videos/professional-18)
 
 ### Social Proof — 3 examples
 
@@ -682,4 +685,11 @@ Generated: 2026-11-12T15:07:41.271Z
 - **Product Demo** — [https://library.revenuagency.io/videos/ugc-3](https://library.revenuagency.io/videos/ugc-3)
 - **Plane Window** — [https://library.revenuagency.io/videos/ugc-4](https://library.revenuagency.io/videos/ugc-4)
 - **Laptop Walkthrough** — [https://library.revenuagency.io/videos/ugc-5](https://library.revenuagency.io/videos/ugc-5)
+
+### B2C Inspiration — 4 examples
+
+- **Salt Flats** — [https://library.revenuagency.io/videos/b2c-inspiration-1](https://library.revenuagency.io/videos/b2c-inspiration-1)
+- **Rainbow Unicorn** — [https://library.revenuagency.io/videos/b2c-inspiration-2](https://library.revenuagency.io/videos/b2c-inspiration-2)
+- **Dark Library** — [https://library.revenuagency.io/videos/b2c-inspiration-3](https://library.revenuagency.io/videos/b2c-inspiration-3)
+- **Video Store** — [https://library.revenuagency.io/videos/b2c-inspiration-4](https://library.revenuagency.io/videos/b2c-inspiration-4)
 
