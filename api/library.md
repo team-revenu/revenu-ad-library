@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 609
-Generated: 2026-11-12T19:41:32.799Z
+Total entries: 614
+Generated: 2026-11-12T19:42:46.233Z
 
 ## Google Ads (158 examples)
 
@@ -646,9 +646,9 @@ Generated: 2026-11-12T19:41:32.799Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (32 examples)
+## Video Ads (37 examples)
 
-### Professional — 19 examples
+### Professional — 24 examples
 
 - **Floating Head** — [https://library.revenuagency.io/videos/professional-1](https://library.revenuagency.io/videos/professional-1)
 - **Company Meeting** — [https://library.revenuagency.io/videos/professional-2](https://library.revenuagency.io/videos/professional-2)
@@ -669,6 +669,11 @@ Generated: 2026-11-12T19:41:32.799Z
 - **Old Couple** — [https://library.revenuagency.io/videos/professional-17](https://library.revenuagency.io/videos/professional-17)
 - **Office Interviews** — [https://library.revenuagency.io/videos/professional-18](https://library.revenuagency.io/videos/professional-18)
 - **Character Select** — [https://library.revenuagency.io/videos/professional-19](https://library.revenuagency.io/videos/professional-19)
+- **Red Visor** — [https://library.revenuagency.io/videos/professional-20](https://library.revenuagency.io/videos/professional-20)
+- **Spa Day** — [https://library.revenuagency.io/videos/professional-21](https://library.revenuagency.io/videos/professional-21)
+- **Newspaper** — [https://library.revenuagency.io/videos/professional-22](https://library.revenuagency.io/videos/professional-22)
+- **Head Massager** — [https://library.revenuagency.io/videos/professional-23](https://library.revenuagency.io/videos/professional-23)
+- **News Anchor** — [https://library.revenuagency.io/videos/professional-24](https://library.revenuagency.io/videos/professional-24)
 
 ### Social Proof — 3 examples
 

@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T19:41:32.797Z",
-  "total": 609,
+  "generated": "2026-11-12T19:42:46.231Z",
+  "total": 614,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6599,6 +6599,66 @@
       "url": "https://library.revenuagency.io/videos/professional-19",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/instantly-1594969333.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/instantly-1594969333.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 20,
+      "title": "Red Visor",
+      "formula": "",
+      "tag": "Professional",
+      "image": "hibob-1615245333.webp",
+      "url": "https://library.revenuagency.io/videos/professional-20",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615245333.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615245333.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 21,
+      "title": "Spa Day",
+      "formula": "",
+      "tag": "Professional",
+      "image": "hibob-1615371083.webp",
+      "url": "https://library.revenuagency.io/videos/professional-21",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615371083.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615371083.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 22,
+      "title": "Newspaper",
+      "formula": "",
+      "tag": "Professional",
+      "image": "hibob-1615218973.webp",
+      "url": "https://library.revenuagency.io/videos/professional-22",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615218973.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615218973.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 23,
+      "title": "Head Massager",
+      "formula": "",
+      "tag": "Professional",
+      "image": "hibob-1615238983.webp",
+      "url": "https://library.revenuagency.io/videos/professional-23",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615238983.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615238983.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 24,
+      "title": "News Anchor",
+      "formula": "",
+      "tag": "Professional",
+      "image": "hibob-1615229733.webp",
+      "url": "https://library.revenuagency.io/videos/professional-24",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615229733.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/hibob-1615229733.mp4"
     },
     {
       "platform": "videos",
