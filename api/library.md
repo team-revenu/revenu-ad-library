@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 600
-Generated: 2026-11-12T14:48:10.053Z
+Total entries: 602
+Generated: 2026-11-12T14:54:01.356Z
 
 ## Google Ads (158 examples)
 
@@ -649,31 +649,36 @@ Generated: 2026-11-12T14:48:10.053Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (20 examples)
+## Video Ads (22 examples)
 
-### Mobile — 15 examples
+### Professional — 14 examples
 
-- **Floating Head** — [https://library.revenuagency.io/videos/mobile-1](https://library.revenuagency.io/videos/mobile-1)
-- **Company Meeting** — [https://library.revenuagency.io/videos/mobile-2](https://library.revenuagency.io/videos/mobile-2)
-- **Close Up** — [https://library.revenuagency.io/videos/mobile-3](https://library.revenuagency.io/videos/mobile-3)
-- **Video Game** — [https://library.revenuagency.io/videos/mobile-4](https://library.revenuagency.io/videos/mobile-4)
-- **Video Game** — [https://library.revenuagency.io/videos/mobile-5](https://library.revenuagency.io/videos/mobile-5)
-- **Smashing Glass** — [https://library.revenuagency.io/videos/mobile-6](https://library.revenuagency.io/videos/mobile-6)
-- **Comment Reply** — [https://library.revenuagency.io/videos/mobile-7](https://library.revenuagency.io/videos/mobile-7)
-- **Ask Alexa** — [https://library.revenuagency.io/videos/mobile-8](https://library.revenuagency.io/videos/mobile-8)
-- **Inbox Zero** — [https://library.revenuagency.io/videos/mobile-9](https://library.revenuagency.io/videos/mobile-9)
-- **Sticky Notes** — [https://library.revenuagency.io/videos/mobile-10](https://library.revenuagency.io/videos/mobile-10)
-- **Product Demo** — [https://library.revenuagency.io/videos/mobile-11](https://library.revenuagency.io/videos/mobile-11)
-- **Hospital Bed** — [https://library.revenuagency.io/videos/mobile-12](https://library.revenuagency.io/videos/mobile-12)
-- **Codat Interview** — [https://library.revenuagency.io/videos/mobile-13](https://library.revenuagency.io/videos/mobile-13)
-- **Noventiq Interview** — [https://library.revenuagency.io/videos/mobile-14](https://library.revenuagency.io/videos/mobile-14)
-- **Synthesia Interview** — [https://library.revenuagency.io/videos/mobile-15](https://library.revenuagency.io/videos/mobile-15)
+- **Floating Head** — [https://library.revenuagency.io/videos/professional-1](https://library.revenuagency.io/videos/professional-1)
+- **Company Meeting** — [https://library.revenuagency.io/videos/professional-2](https://library.revenuagency.io/videos/professional-2)
+- **Close Up** — [https://library.revenuagency.io/videos/professional-3](https://library.revenuagency.io/videos/professional-3)
+- **Video Game** — [https://library.revenuagency.io/videos/professional-4](https://library.revenuagency.io/videos/professional-4)
+- **Video Game** — [https://library.revenuagency.io/videos/professional-5](https://library.revenuagency.io/videos/professional-5)
+- **Smashing Glass** — [https://library.revenuagency.io/videos/professional-6](https://library.revenuagency.io/videos/professional-6)
+- **Inbox Zero** — [https://library.revenuagency.io/videos/professional-7](https://library.revenuagency.io/videos/professional-7)
+- **Sticky Notes** — [https://library.revenuagency.io/videos/professional-8](https://library.revenuagency.io/videos/professional-8)
+- **Hospital Bed** — [https://library.revenuagency.io/videos/professional-9](https://library.revenuagency.io/videos/professional-9)
+- **Devil Interview** — [https://library.revenuagency.io/videos/professional-10](https://library.revenuagency.io/videos/professional-10)
+- **Galaxy** — [https://library.revenuagency.io/videos/professional-11](https://library.revenuagency.io/videos/professional-11)
+- **Service Desk Manager** — [https://library.revenuagency.io/videos/professional-12](https://library.revenuagency.io/videos/professional-12)
+- **Quick Handoff** — [https://library.revenuagency.io/videos/professional-13](https://library.revenuagency.io/videos/professional-13)
+- **Old Phone** — [https://library.revenuagency.io/videos/professional-14](https://library.revenuagency.io/videos/professional-14)
 
-### Horizontal — 5 examples
+### Social Proof — 3 examples
 
-- **Devil Interview** — [https://library.revenuagency.io/videos/horizontal-1](https://library.revenuagency.io/videos/horizontal-1)
-- **Galaxy** — [https://library.revenuagency.io/videos/horizontal-2](https://library.revenuagency.io/videos/horizontal-2)
-- **Service Desk Manager** — [https://library.revenuagency.io/videos/horizontal-3](https://library.revenuagency.io/videos/horizontal-3)
-- **Quick Handoff** — [https://library.revenuagency.io/videos/horizontal-4](https://library.revenuagency.io/videos/horizontal-4)
-- **Old Phone** — [https://library.revenuagency.io/videos/horizontal-5](https://library.revenuagency.io/videos/horizontal-5)
+- **Codat Interview** — [https://library.revenuagency.io/videos/social-proof-1](https://library.revenuagency.io/videos/social-proof-1)
+- **Noventiq Interview** — [https://library.revenuagency.io/videos/social-proof-2](https://library.revenuagency.io/videos/social-proof-2)
+- **Synthesia Interview** — [https://library.revenuagency.io/videos/social-proof-3](https://library.revenuagency.io/videos/social-proof-3)
+
+### UGC — 5 examples
+
+- **Comment Reply** — [https://library.revenuagency.io/videos/ugc-1](https://library.revenuagency.io/videos/ugc-1)
+- **Ask Alexa** — [https://library.revenuagency.io/videos/ugc-2](https://library.revenuagency.io/videos/ugc-2)
+- **Product Demo** — [https://library.revenuagency.io/videos/ugc-3](https://library.revenuagency.io/videos/ugc-3)
+- **Plane Window** — [https://library.revenuagency.io/videos/ugc-4](https://library.revenuagency.io/videos/ugc-4)
+- **Laptop Walkthrough** — [https://library.revenuagency.io/videos/ugc-5](https://library.revenuagency.io/videos/ugc-5)
 

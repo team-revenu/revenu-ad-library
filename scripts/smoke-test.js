@@ -108,7 +108,7 @@ console.log('\n== Scenario D: direct deep-link to /landing-pages/blocks-1 ==');
   check('landing pill active', document.querySelector('.platform-pill[data-platform="landing"]').classList.contains('is-active'));
 }
 
-console.log('\n== Scenario F: Video Ads library (/videos, /videos/mobile, /videos/horizontal) ==');
+console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, /videos/social-proof, /videos/ugc) ==');
 {
   const dom = makeDom({ url: 'https://library.revenuagency.io/videos' });
   const document = dom.window.document;
@@ -116,23 +116,21 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/mobile, /video
   check('videos pill active', document.querySelector('.platform-pill[data-platform="videos"]').classList.contains('is-active'));
   check('headline says "Video Ads Library"', /video ads\s*library/i.test(document.getElementById('hero-title').textContent));
   const tabs = [...document.querySelectorAll('#filters .tab')].map(t => t.dataset.filter);
-  check('tabs are All / Mobile / Horizontal', tabs.join(',') === 'all,mobile,horizontal');
+  check('tabs are All / Professional / Social Proof / UGC', tabs.join(',') === 'all,professional,social-proof,ugc');
   const cards = document.querySelectorAll('#gallery .card');
-  check(`All tab has video cards (${cards.length} found)`, cards.length === 20);
+  check(`All tab has video cards (${cards.length} found)`, cards.length === 22);
   check('every card is a video card with a <video>', [...cards].every(c => c.classList.contains('card-video') && c.querySelector('video.card-video-el')));
   check('card video uses preload="none" and a poster', [...cards].every(c => c.querySelector('video').getAttribute('preload') === 'none' && c.querySelector('video').getAttribute('poster')));
-  check('mobile cards are 9:16 or 1:1 and horizontal cards 16:9', [...cards].every(c => { const st = c.querySelector('.card-thumb').getAttribute('style') || ''; return c.querySelector('.card-tag').textContent === 'Horizontal' ? /16\s*\/\s*9/.test(st) : /9\s*\/\s*16|1\s*\/\s*1/.test(st); }));
-  // Mobile tab
-  document.querySelector('#filters .tab[data-filter="mobile"]').click();
-  check('Mobile tab shows 15 cards', document.querySelectorAll('#gallery .card').length === 15);
-  check('URL is /videos/mobile', dom.window.location.pathname === '/videos/mobile');
-  // Horizontal tab — one 16:9 video
-  document.querySelector('#filters .tab[data-filter="horizontal"]').click();
-  const hCards = document.querySelectorAll('#gallery .card');
-  check('Horizontal tab shows 5 cards', hCards.length === 5);
-  check('horizontal card is 16:9', /16\s*\/\s*9/.test(hCards[0].querySelector('.card-thumb').getAttribute('style') || ''));
-  check('URL is /videos/horizontal', dom.window.location.pathname === '/videos/horizontal');
-  // An empty category still shows the visitor-facing message (search for nothing)
+  check('every card has a 9:16, 1:1 or 16:9 shape from its entry', [...cards].every(c => /(9\s*\/\s*16|1\s*\/\s*1|16\s*\/\s*9)/.test(c.querySelector('.card-thumb').getAttribute('style') || '')));
+  document.querySelector('#filters .tab[data-filter="professional"]').click();
+  check('Professional tab shows 14 cards', document.querySelectorAll('#gallery .card').length === 14);
+  check('URL is /videos/professional', dom.window.location.pathname === '/videos/professional');
+  document.querySelector('#filters .tab[data-filter="social-proof"]').click();
+  check('Social Proof tab shows 3 cards', document.querySelectorAll('#gallery .card').length === 3);
+  check('URL is /videos/social-proof', dom.window.location.pathname === '/videos/social-proof');
+  document.querySelector('#filters .tab[data-filter="ugc"]').click();
+  check('UGC tab shows 5 cards', document.querySelectorAll('#gallery .card').length === 5);
+  // An empty result still shows the visitor-facing message, never the developer hint
   dom.window.eval("applySearch('zzz-no-such-video')");
   const empty = document.getElementById('empty-state');
   check('empty state is not the developer hint', !empty.hidden && !/ads\.js|Drop images/.test(empty.textContent));
@@ -144,9 +142,9 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/mobile, /video
   const lbImage = document.getElementById('lb-image');
   check('lightbox opens for a video ad', !document.getElementById('lightbox').hidden);
   check('lightbox shows <video> with controls and hides <img>', !lbVideo.hidden && lbVideo.hasAttribute('controls') && lbImage.hidden);
-  check('lightbox video src is the mp4', /images\/Video Ads\/Mobile\/scytale-1611575144\.mp4$/.test(lbVideo.getAttribute('src') || ''));
+  check('lightbox video src is the mp4', /images\/Video Ads\/Professional\/scytale-1611575144\.mp4$/.test(lbVideo.getAttribute('src') || ''));
   await sleep(500); // openLightbox pushes the URL after its preload race
-  check('URL is /videos/mobile-1', dom.window.location.pathname === '/videos/mobile-1');
+  check('URL is /videos/professional-1', dom.window.location.pathname === '/videos/professional-1');
 }
 
 console.log('\n== Scenario G: image libraries still use <img> in the lightbox ==');

@@ -116,17 +116,18 @@ const platforms = {
   // Video Ads. Entries carry a `video` (mp4) plus an `image` (webp poster
   // frame) — the poster drives every image-based code path (cards, og:image,
   // sitemap) and the mp4 is swapped in by the card hover and the lightbox.
-  // `aspect` on a tab sets the card thumb ratio (vertical for Mobile, 16:9
-  // for Horizontal); the All tab leaves it to each ad's own category.
+  // Tabs group by style (Professional, Social Proof, UGC); each entry's own
+  // `aspect` ("9 / 16", "1 / 1", "16 / 9") sets its card shape.
   videos: {
     label: 'Video Ads',
     folder: 'Video Ads',
     features: ['Hook In 3 Seconds', 'Built For Mobile', 'Stop The Scroll'],
     defaultTab: 'all',
     tabs: [
-      { key: 'all',        label: 'All',        folder: '' },
-      { key: 'mobile',     label: 'Mobile',     folder: 'Mobile',     aspect: '9 / 16' },
-      { key: 'horizontal', label: 'Horizontal', folder: 'Horizontal', aspect: '16 / 9' }
+      { key: 'all',          label: 'All',          folder: '' },
+      { key: 'professional', label: 'Professional', folder: 'Professional' },
+      { key: 'social-proof', label: 'Social Proof', folder: 'Social Proof' },
+      { key: 'ugc',          label: 'UGC',          folder: 'UGC' }
     ]
   },
   // Pseudo-platform: cross-library "Saved" view. Same gallery + lightbox UI
@@ -192,7 +193,7 @@ const PLATFORM_TIPS = {
         blurb: '150+ Google Ads examples with Responsive Search Ad templates and copy inspiration.' },
       { icon: 'rect:3 5 18 14 2 2|polygon:10 9 15 12 10 15 10 9',
         label: 'Video Ads',
-        blurb: 'B2B SaaS video ad examples for LinkedIn, mobile vertical and horizontal, with sound.' },
+        blurb: 'B2B SaaS video ad examples for LinkedIn: professional, social proof and UGC, with sound.' },
     ],
   },
   linkedin: {
@@ -269,12 +270,12 @@ const PLATFORM_TIPS = {
       { icon: 'rect:3 5 18 14 2 2|polygon:10 9 15 12 10 15 10 9',
         label: 'Real B2B SaaS video ads',
         blurb: 'LinkedIn video ad examples you can watch in full, with sound, straight from the library.' },
-      { icon: 'rect:7 2 10 20 2 2|line:11 18 13 18',
-        label: 'Mobile vertical video',
-        blurb: '9:16 video ads built for the phone feed, where most LinkedIn scrolling happens.' },
-      { icon: 'rect:2 6 20 12 2 2|line:2 10 22 10',
-        label: 'Horizontal video',
-        blurb: '16:9 video ads for desktop and in-feed placements.' },
+      { icon: 'rect:3 4 18 16 2 2|line:7 9 17 9|line:7 13 13 13',
+        label: 'Professional video ads',
+        blurb: 'produced, scripted and shot B2B video ads with a crew and a concept.' },
+      { icon: 'M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2|circle:9 7 4|M23 21v-2a4 4 0 0 0-3-3.87|M16 3.13a4 4 0 0 1 0 7.75',
+        label: 'Social proof and UGC',
+        blurb: 'customer stories, interviews and creator-style phone-shot ads that feel native in the feed.' },
       { icon: 'polyline:23 6 13.5 15.5 8.5 10.5 1 18|polyline:17 6 23 6 23 12',
         label: 'Video ad swipe file',
         blurb: 'hooks, captions and pacing from video campaigns that stop the scroll.' },
@@ -1019,7 +1020,7 @@ function _updateSEOTagsImpl() {
     },
     videos: {
       title: 'Video Ads Library | B2B SaaS Video Ad Examples | Revenu',
-      description: 'Real B2B SaaS video ad examples from LinkedIn, mobile vertical and horizontal, playable with sound. Free video ad swipe file for hooks, captions and pacing.',
+      description: 'Real B2B SaaS video ad examples from LinkedIn, grouped into professional, social proof and UGC, playable with sound. Free video ad swipe file for hooks, captions and pacing.',
     },
   }[platform] || {
     title: `${cfg.label} Library | Revenu`,

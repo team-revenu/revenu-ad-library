@@ -5947,213 +5947,238 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/horizontal</loc>
+    <loc>https://library.revenuagency.io/videos/professional</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/horizontal-1</loc>
+    <loc>https://library.revenuagency.io/videos/professional-1</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/conveyor-nydkww5t5dby9jh.webp</image:loc>
-      <image:title>Devil Interview — Horizontal Video Ads example</image:title>
-      <image:caption>Devil Interview: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/scytale-1611575144.webp</image:loc>
+      <image:title>Floating Head — Professional Video Ads example</image:title>
+      <image:caption>Floating Head: a professional video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/horizontal-2</loc>
+    <loc>https://library.revenuagency.io/videos/professional-10</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/monday-1609769653.webp</image:loc>
-      <image:title>Galaxy — Horizontal Video Ads example</image:title>
-      <image:caption>Galaxy: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/conveyor-nydkww5t5dby9jh.webp</image:loc>
+      <image:title>Devil Interview — Professional Video Ads example</image:title>
+      <image:caption>Devil Interview: a professional video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/horizontal-3</loc>
+    <loc>https://library.revenuagency.io/videos/professional-11</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/monday-1609827473.webp</image:loc>
-      <image:title>Service Desk Manager — Horizontal Video Ads example</image:title>
-      <image:caption>Service Desk Manager: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/monday-1609769653.webp</image:loc>
+      <image:title>Galaxy — Professional Video Ads example</image:title>
+      <image:caption>Galaxy: a professional video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/horizontal-4</loc>
+    <loc>https://library.revenuagency.io/videos/professional-12</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/monday-1609855933.webp</image:loc>
-      <image:title>Quick Handoff — Horizontal Video Ads example</image:title>
-      <image:caption>Quick Handoff: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/monday-1609827473.webp</image:loc>
+      <image:title>Service Desk Manager — Professional Video Ads example</image:title>
+      <image:caption>Service Desk Manager: a professional video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/horizontal-5</loc>
+    <loc>https://library.revenuagency.io/videos/professional-13</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/monday-1594809493.webp</image:loc>
-      <image:title>Old Phone — Horizontal Video Ads example</image:title>
-      <image:caption>Old Phone: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/monday-1609855933.webp</image:loc>
+      <image:title>Quick Handoff — Professional Video Ads example</image:title>
+      <image:caption>Quick Handoff: a professional video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/mobile</loc>
+    <loc>https://library.revenuagency.io/videos/professional-14</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/monday-1594809493.webp</image:loc>
+      <image:title>Old Phone — Professional Video Ads example</image:title>
+      <image:caption>Old Phone: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-2</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/scytale-1611547124.webp</image:loc>
+      <image:title>Company Meeting — Professional Video Ads example</image:title>
+      <image:caption>Company Meeting: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-3</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/scytale-1611739984.webp</image:loc>
+      <image:title>Close Up — Professional Video Ads example</image:title>
+      <image:caption>Close Up: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-4</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/scytale-1611693444.webp</image:loc>
+      <image:title>Video Game — Professional Video Ads example</image:title>
+      <image:caption>Video Game: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-5</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/scytale-1611693434.webp</image:loc>
+      <image:title>Video Game — Professional Video Ads example</image:title>
+      <image:caption>Video Game: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-6</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/hibob-exukmvuntylilmg.webp</image:loc>
+      <image:title>Smashing Glass — Professional Video Ads example</image:title>
+      <image:caption>Smashing Glass: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-7</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/fyxer-u01hwnt2hab2ya6.webp</image:loc>
+      <image:title>Inbox Zero — Professional Video Ads example</image:title>
+      <image:caption>Inbox Zero: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-8</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/lastpass-ccoywsevzp6arw1.webp</image:loc>
+      <image:title>Sticky Notes — Professional Video Ads example</image:title>
+      <image:caption>Sticky Notes: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/professional-9</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Professional/vanta-1664463766.webp</image:loc>
+      <image:title>Hospital Bed — Professional Video Ads example</image:title>
+      <image:caption>Hospital Bed: a professional video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/social-proof</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/mobile-1</loc>
+    <loc>https://library.revenuagency.io/videos/social-proof-1</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/scytale-1611575144.webp</image:loc>
-      <image:title>Floating Head — Mobile Video Ads example</image:title>
-      <image:caption>Floating Head: a mobile video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Social%20Proof/vanta-1678577086.webp</image:loc>
+      <image:title>Codat Interview — Social Proof Video Ads example</image:title>
+      <image:caption>Codat Interview: a social proof video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/mobile-10</loc>
+    <loc>https://library.revenuagency.io/videos/social-proof-2</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/lastpass-ccoywsevzp6arw1.webp</image:loc>
-      <image:title>Sticky Notes — Mobile Video Ads example</image:title>
-      <image:caption>Sticky Notes: a mobile video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Social%20Proof/vanta-1678616196.webp</image:loc>
+      <image:title>Noventiq Interview — Social Proof Video Ads example</image:title>
+      <image:caption>Noventiq Interview: a social proof video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/mobile-11</loc>
+    <loc>https://library.revenuagency.io/videos/social-proof-3</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/navan-1gnxyuqb28l29pn.webp</image:loc>
-      <image:title>Product Demo — Mobile Video Ads example</image:title>
-      <image:caption>Product Demo: a mobile video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Social%20Proof/vanta-1678547926.webp</image:loc>
+      <image:title>Synthesia Interview — Social Proof Video Ads example</image:title>
+      <image:caption>Synthesia Interview: a social proof video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/mobile-12</loc>
+    <loc>https://library.revenuagency.io/videos/ugc</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/ugc-1</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/vanta-1664463766.webp</image:loc>
-      <image:title>Hospital Bed — Mobile Video Ads example</image:title>
-      <image:caption>Hospital Bed: a mobile video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/UGC/juicebox-w6pd6rhb3ouzz6d.webp</image:loc>
+      <image:title>Comment Reply — UGC Video Ads example</image:title>
+      <image:caption>Comment Reply: a ugc video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/mobile-13</loc>
+    <loc>https://library.revenuagency.io/videos/ugc-2</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/vanta-1678577086.webp</image:loc>
-      <image:title>Codat Interview — Mobile Video Ads example</image:title>
-      <image:caption>Codat Interview: a mobile video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/UGC/fyxer-zlux2au3o30xa01.webp</image:loc>
+      <image:title>Ask Alexa — UGC Video Ads example</image:title>
+      <image:caption>Ask Alexa: a ugc video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/mobile-14</loc>
+    <loc>https://library.revenuagency.io/videos/ugc-3</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/vanta-1678616196.webp</image:loc>
-      <image:title>Noventiq Interview — Mobile Video Ads example</image:title>
-      <image:caption>Noventiq Interview: a mobile video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/UGC/navan-1gnxyuqb28l29pn.webp</image:loc>
+      <image:title>Product Demo — UGC Video Ads example</image:title>
+      <image:caption>Product Demo: a ugc video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/mobile-15</loc>
+    <loc>https://library.revenuagency.io/videos/ugc-4</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/vanta-1678547926.webp</image:loc>
-      <image:title>Synthesia Interview — Mobile Video Ads example</image:title>
-      <image:caption>Synthesia Interview: a mobile video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/UGC/navan-nq4oc9grp8x8h2u.webp</image:loc>
+      <image:title>Plane Window — UGC Video Ads example</image:title>
+      <image:caption>Plane Window: a ugc video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://library.revenuagency.io/videos/mobile-2</loc>
+    <loc>https://library.revenuagency.io/videos/ugc-5</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/scytale-1611547124.webp</image:loc>
-      <image:title>Company Meeting — Mobile Video Ads example</image:title>
-      <image:caption>Company Meeting: a mobile video ads example from the Revenu Ad Library.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://library.revenuagency.io/videos/mobile-3</loc>
-    <lastmod>2026-11-12</lastmod>
-    <priority>0.6</priority>
-    <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/scytale-1611739984.webp</image:loc>
-      <image:title>Close Up — Mobile Video Ads example</image:title>
-      <image:caption>Close Up: a mobile video ads example from the Revenu Ad Library.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://library.revenuagency.io/videos/mobile-4</loc>
-    <lastmod>2026-11-12</lastmod>
-    <priority>0.6</priority>
-    <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/scytale-1611693444.webp</image:loc>
-      <image:title>Video Game — Mobile Video Ads example</image:title>
-      <image:caption>Video Game: a mobile video ads example from the Revenu Ad Library.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://library.revenuagency.io/videos/mobile-5</loc>
-    <lastmod>2026-11-12</lastmod>
-    <priority>0.6</priority>
-    <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/scytale-1611693434.webp</image:loc>
-      <image:title>Video Game — Mobile Video Ads example</image:title>
-      <image:caption>Video Game: a mobile video ads example from the Revenu Ad Library.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://library.revenuagency.io/videos/mobile-6</loc>
-    <lastmod>2026-11-12</lastmod>
-    <priority>0.6</priority>
-    <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/hibob-exukmvuntylilmg.webp</image:loc>
-      <image:title>Smashing Glass — Mobile Video Ads example</image:title>
-      <image:caption>Smashing Glass: a mobile video ads example from the Revenu Ad Library.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://library.revenuagency.io/videos/mobile-7</loc>
-    <lastmod>2026-11-12</lastmod>
-    <priority>0.6</priority>
-    <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/juicebox-w6pd6rhb3ouzz6d.webp</image:loc>
-      <image:title>Comment Reply — Mobile Video Ads example</image:title>
-      <image:caption>Comment Reply: a mobile video ads example from the Revenu Ad Library.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://library.revenuagency.io/videos/mobile-8</loc>
-    <lastmod>2026-11-12</lastmod>
-    <priority>0.6</priority>
-    <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/fyxer-zlux2au3o30xa01.webp</image:loc>
-      <image:title>Ask Alexa — Mobile Video Ads example</image:title>
-      <image:caption>Ask Alexa: a mobile video ads example from the Revenu Ad Library.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://library.revenuagency.io/videos/mobile-9</loc>
-    <lastmod>2026-11-12</lastmod>
-    <priority>0.6</priority>
-    <image:image>
-      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/fyxer-u01hwnt2hab2ya6.webp</image:loc>
-      <image:title>Inbox Zero — Mobile Video Ads example</image:title>
-      <image:caption>Inbox Zero: a mobile video ads example from the Revenu Ad Library.</image:caption>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/UGC/instantly-rljg0e9bbqfhljp.webp</image:loc>
+      <image:title>Laptop Walkthrough — UGC Video Ads example</image:title>
+      <image:caption>Laptop Walkthrough: a ugc video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
 </urlset>
