@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T19:42:46.231Z",
-  "total": 614,
+  "generated": "2026-11-12T19:44:57.386Z",
+  "total": 615,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6695,6 +6695,18 @@
       "url": "https://library.revenuagency.io/videos/social-proof-3",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/Social Proof/vanta-1678547926.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/Social Proof/vanta-1678547926.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "social-proof",
+      "id": 4,
+      "title": "Head of People Interview",
+      "formula": "",
+      "tag": "Social Proof",
+      "image": "hibob-1603563703.webp",
+      "url": "https://library.revenuagency.io/videos/social-proof-4",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Social Proof/hibob-1603563703.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Social Proof/hibob-1603563703.mp4"
     },
     {
       "platform": "videos",
