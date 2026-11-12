@@ -457,9 +457,11 @@ function videoPath(ad) {
   const tabFolder = tab ? tab.folder : '';
   return `images/${cfg.folder}/${tabFolder}/${ad.video}`;
 }
-// Card thumb aspect for an ad, taken from its own category tab (so the All
-// tab mixes vertical and 16:9 cards correctly). Null = use the CSS default.
+// Card thumb aspect for an ad: its own `aspect` field if set (e.g. a square
+// 1:1 ad sitting in the Mobile tab), otherwise its category tab's aspect (so
+// the All tab mixes vertical and 16:9 cards correctly). Null = CSS default.
 function adAspect(ad) {
+  if (ad.aspect) return ad.aspect;
   const tab = findTab(ad.platform || 'google', ad.category);
   return tab && tab.aspect ? tab.aspect : null;
 }

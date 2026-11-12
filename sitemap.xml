@@ -5962,6 +5962,46 @@
     </image:image>
   </url>
   <url>
+    <loc>https://library.revenuagency.io/videos/horizontal-2</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/monday-1609769653.webp</image:loc>
+      <image:title>Galaxy — Horizontal Video Ads example</image:title>
+      <image:caption>Galaxy: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/horizontal-3</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/monday-1609827473.webp</image:loc>
+      <image:title>Service Desk Manager — Horizontal Video Ads example</image:title>
+      <image:caption>Service Desk Manager: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/horizontal-4</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/monday-1609855933.webp</image:loc>
+      <image:title>Quick Handoff — Horizontal Video Ads example</image:title>
+      <image:caption>Quick Handoff: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/horizontal-5</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Horizontal/monday-1594809493.webp</image:loc>
+      <image:title>Old Phone — Horizontal Video Ads example</image:title>
+      <image:caption>Old Phone: a horizontal video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://library.revenuagency.io/videos/mobile</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.8</priority>
@@ -5994,6 +6034,46 @@
       <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/navan-1gnxyuqb28l29pn.webp</image:loc>
       <image:title>Product Demo — Mobile Video Ads example</image:title>
       <image:caption>Product Demo: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/mobile-12</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/vanta-1664463766.webp</image:loc>
+      <image:title>Hospital Bed — Mobile Video Ads example</image:title>
+      <image:caption>Hospital Bed: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/mobile-13</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/vanta-1678577086.webp</image:loc>
+      <image:title>Codat Interview — Mobile Video Ads example</image:title>
+      <image:caption>Codat Interview: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/mobile-14</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/vanta-1678616196.webp</image:loc>
+      <image:title>Noventiq Interview — Mobile Video Ads example</image:title>
+      <image:caption>Noventiq Interview: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/mobile-15</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/vanta-1678547926.webp</image:loc>
+      <image:title>Synthesia Interview — Mobile Video Ads example</image:title>
+      <image:caption>Synthesia Interview: a mobile video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
   <url>

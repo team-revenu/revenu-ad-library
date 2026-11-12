@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 592
-Generated: 2026-11-12T14:42:49.450Z
+Total entries: 600
+Generated: 2026-11-12T14:48:10.053Z
 
 ## Google Ads (158 examples)
 
@@ -649,9 +649,9 @@ Generated: 2026-11-12T14:42:49.450Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (12 examples)
+## Video Ads (20 examples)
 
-### Mobile — 11 examples
+### Mobile — 15 examples
 
 - **Floating Head** — [https://library.revenuagency.io/videos/mobile-1](https://library.revenuagency.io/videos/mobile-1)
 - **Company Meeting** — [https://library.revenuagency.io/videos/mobile-2](https://library.revenuagency.io/videos/mobile-2)
@@ -664,8 +664,16 @@ Generated: 2026-11-12T14:42:49.450Z
 - **Inbox Zero** — [https://library.revenuagency.io/videos/mobile-9](https://library.revenuagency.io/videos/mobile-9)
 - **Sticky Notes** — [https://library.revenuagency.io/videos/mobile-10](https://library.revenuagency.io/videos/mobile-10)
 - **Product Demo** — [https://library.revenuagency.io/videos/mobile-11](https://library.revenuagency.io/videos/mobile-11)
+- **Hospital Bed** — [https://library.revenuagency.io/videos/mobile-12](https://library.revenuagency.io/videos/mobile-12)
+- **Codat Interview** — [https://library.revenuagency.io/videos/mobile-13](https://library.revenuagency.io/videos/mobile-13)
+- **Noventiq Interview** — [https://library.revenuagency.io/videos/mobile-14](https://library.revenuagency.io/videos/mobile-14)
+- **Synthesia Interview** — [https://library.revenuagency.io/videos/mobile-15](https://library.revenuagency.io/videos/mobile-15)
 
-### Horizontal — 1 examples
+### Horizontal — 5 examples
 
 - **Devil Interview** — [https://library.revenuagency.io/videos/horizontal-1](https://library.revenuagency.io/videos/horizontal-1)
+- **Galaxy** — [https://library.revenuagency.io/videos/horizontal-2](https://library.revenuagency.io/videos/horizontal-2)
+- **Service Desk Manager** — [https://library.revenuagency.io/videos/horizontal-3](https://library.revenuagency.io/videos/horizontal-3)
+- **Quick Handoff** — [https://library.revenuagency.io/videos/horizontal-4](https://library.revenuagency.io/videos/horizontal-4)
+- **Old Phone** — [https://library.revenuagency.io/videos/horizontal-5](https://library.revenuagency.io/videos/horizontal-5)
 

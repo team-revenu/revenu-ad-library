@@ -1701,7 +1701,16 @@ window.ADS = [
   { image: "fyxer-u01hwnt2hab2ya6.webp", video: "fyxer-u01hwnt2hab2ya6.mp4", title: "Inbox Zero", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/u01hwnt2hab2ya6" },
   { image: "lastpass-ccoywsevzp6arw1.webp", video: "lastpass-ccoywsevzp6arw1.mp4", title: "Sticky Notes", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/ccoywsevzp6arw1" },
   { image: "navan-1gnxyuqb28l29pn.webp", video: "navan-1gnxyuqb28l29pn.mp4", title: "Product Demo", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/1gnxyuqb28l29pn" },
+  { image: "vanta-1664463766.webp", video: "vanta-1664463766.mp4", title: "Hospital Bed", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1664463766" },
+  // Square (1:1) feed ads sit in Mobile with their own card aspect.
+  { image: "vanta-1678577086.webp", video: "vanta-1678577086.mp4", title: "Codat Interview", formula: "", tag: "Mobile", category: "mobile", platform: "videos", aspect: "1 / 1", source: "https://www.linkedin.com/ad-library/detail/1678577086" },
+  { image: "vanta-1678616196.webp", video: "vanta-1678616196.mp4", title: "Noventiq Interview", formula: "", tag: "Mobile", category: "mobile", platform: "videos", aspect: "1 / 1", source: "https://www.linkedin.com/ad-library/detail/1678616196" },
+  { image: "vanta-1678547926.webp", video: "vanta-1678547926.mp4", title: "Synthesia Interview", formula: "", tag: "Mobile", category: "mobile", platform: "videos", aspect: "1 / 1", source: "https://www.linkedin.com/ad-library/detail/1678547926" },
 
   // ---------- Video Ads — Horizontal ----------
-  { image: "conveyor-nydkww5t5dby9jh.webp", video: "conveyor-nydkww5t5dby9jh.mp4", title: "Devil Interview", formula: "", tag: "Horizontal", category: "horizontal", platform: "videos", source: "https://www.adfolio.design/videos/nydkww5t5dby9jh" }
+  { image: "conveyor-nydkww5t5dby9jh.webp", video: "conveyor-nydkww5t5dby9jh.mp4", title: "Devil Interview", formula: "", tag: "Horizontal", category: "horizontal", platform: "videos", source: "https://www.adfolio.design/videos/nydkww5t5dby9jh" },
+  { image: "monday-1609769653.webp", video: "monday-1609769653.mp4", title: "Galaxy", formula: "", tag: "Horizontal", category: "horizontal", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1609769653" },
+  { image: "monday-1609827473.webp", video: "monday-1609827473.mp4", title: "Service Desk Manager", formula: "", tag: "Horizontal", category: "horizontal", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1609827473" },
+  { image: "monday-1609855933.webp", video: "monday-1609855933.mp4", title: "Quick Handoff", formula: "", tag: "Horizontal", category: "horizontal", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1609855933" },
+  { image: "monday-1594809493.webp", video: "monday-1594809493.mp4", title: "Old Phone", formula: "", tag: "Horizontal", category: "horizontal", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1594809493" }
 ];

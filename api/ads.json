@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T14:42:49.445Z",
-  "total": 592,
+  "generated": "2026-11-12T14:48:10.051Z",
+  "total": 600,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6539,6 +6539,54 @@
     },
     {
       "platform": "videos",
+      "category": "mobile",
+      "id": 12,
+      "title": "Hospital Bed",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "vanta-1664463766.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-12",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/vanta-1664463766.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/vanta-1664463766.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 13,
+      "title": "Codat Interview",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "vanta-1678577086.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-13",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/vanta-1678577086.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/vanta-1678577086.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 14,
+      "title": "Noventiq Interview",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "vanta-1678616196.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-14",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/vanta-1678616196.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/vanta-1678616196.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 15,
+      "title": "Synthesia Interview",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "vanta-1678547926.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-15",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/vanta-1678547926.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/vanta-1678547926.mp4"
+    },
+    {
+      "platform": "videos",
       "category": "horizontal",
       "id": 1,
       "title": "Devil Interview",
@@ -6548,6 +6596,54 @@
       "url": "https://library.revenuagency.io/videos/horizontal-1",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/conveyor-nydkww5t5dby9jh.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/conveyor-nydkww5t5dby9jh.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "horizontal",
+      "id": 2,
+      "title": "Galaxy",
+      "formula": "",
+      "tag": "Horizontal",
+      "image": "monday-1609769653.webp",
+      "url": "https://library.revenuagency.io/videos/horizontal-2",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/monday-1609769653.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/monday-1609769653.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "horizontal",
+      "id": 3,
+      "title": "Service Desk Manager",
+      "formula": "",
+      "tag": "Horizontal",
+      "image": "monday-1609827473.webp",
+      "url": "https://library.revenuagency.io/videos/horizontal-3",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/monday-1609827473.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/monday-1609827473.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "horizontal",
+      "id": 4,
+      "title": "Quick Handoff",
+      "formula": "",
+      "tag": "Horizontal",
+      "image": "monday-1609855933.webp",
+      "url": "https://library.revenuagency.io/videos/horizontal-4",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/monday-1609855933.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/monday-1609855933.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "horizontal",
+      "id": 5,
+      "title": "Old Phone",
+      "formula": "",
+      "tag": "Horizontal",
+      "image": "monday-1594809493.webp",
+      "url": "https://library.revenuagency.io/videos/horizontal-5",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/monday-1594809493.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Horizontal/monday-1594809493.mp4"
     }
   ]
 }
