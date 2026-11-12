@@ -32,9 +32,6 @@ function safeReplaceState(state, url) {
 const gallery = document.getElementById('gallery');
 const chooser = document.getElementById('chooser');
 const filtersWrap = document.getElementById('filters-wrap');
-// Column count the Video Ads mosaic was last packed with. Set by renderCards,
-// read by the resize listener so a resize only re-packs when the count changes.
-let _lastMasonryCols = null;
 const emptyState = document.getElementById('empty-state');
 const tabsContainer = document.getElementById('filters');
 const filterDropdown = document.getElementById('filter-dropdown');
@@ -713,33 +710,6 @@ function updateHeadline() {
 // hide the regular library chrome (filters, feature pills, gallery). Picking
 // a tile or a platform pill pushes the URL to /<platform> and reveals the
 // gallery again. Back-button to "/" re-shows the chooser.
-
-// ---------- Sticky top block ----------
-// The header, hero and filters bar are one sticky element (.top-stack). It is
-// pushed up by exactly the height of everything above the filters bar, so only
-// the bar stays pinned. That height depends on the viewport (hero wraps, pills
-// hide on phones), so it is measured here and re-measured whenever the block
-// changes size. See the .top-stack comment in styles.css for why this exists.
-// (Looked up inside the function rather than held in a top-level const:
-// applyHomepageMode() runs during start-up, before this part of the file.)
-function updateTopStackOffset() {
-  const stack = document.getElementById('top-stack');
-  if (!stack || !filtersWrap) return;
-  // Measured as a difference of viewport rects, so it is the same number
-  // whether the block is currently stuck or sitting at the top of the page.
-  const offset = filtersWrap.hidden
-    ? 0
-    : Math.max(0, Math.round(filtersWrap.getBoundingClientRect().top - stack.getBoundingClientRect().top));
-  stack.style.setProperty('--top-stack-offset', `${offset}px`);
-}
-(() => {
-  const stack = document.getElementById('top-stack');
-  if (stack && typeof ResizeObserver === 'function') {
-    new ResizeObserver(() => updateTopStackOffset()).observe(stack);
-  }
-  window.addEventListener('resize', updateTopStackOffset);
-})();
-
 function applyHomepageMode() {
   const home = isHomepage();
   // Body class so the chooser homepage can opt into a wider .container and
@@ -749,7 +719,6 @@ function applyHomepageMode() {
   if (filtersWrap) filtersWrap.hidden = home;
   if (gallery) gallery.hidden = home;
   if (featurePillsContainer) featurePillsContainer.hidden = home;
-  updateTopStackOffset();
   // Sync the chip active state:
   //  - on the chooser homepage  → only the Home chip lights up
   //  - on a library page        → the matching platform chip lights up
@@ -1268,7 +1237,6 @@ function renderCards(animate = false) {
   let columns = [], colHeights = [];
   if (masonry) {
     const n = masonryColumnCount();
-    _lastMasonryCols = n;
     const colWidth = Math.max(1, (gallery.clientWidth || 900) / n);
     for (let c = 0; c < n; c++) {
       const col = document.createElement('div');
@@ -1414,15 +1382,12 @@ function masonryColumnCount() {
 }
 // Re-pack the mosaic when the viewport crosses the phone breakpoint or the
 // column count otherwise changes (column toggle is handled in setColumns).
-// `_lastMasonryCols` is recorded by renderCards itself, so the first resize
-// event after a render is a no-op unless the column count really changed.
-// That matters on phones: iOS fires `resize` as soon as the browser toolbar
-// collapses on the first scroll, and rebuilding the whole gallery mid-scroll
-// throws the scroll position around under the stuck filters bar.
+let _lastMasonryCols = null;
 window.addEventListener('resize', () => {
   if (activePlatform !== 'videos' || !visibleAds.length) return;
   const n = masonryColumnCount();
   if (n === _lastMasonryCols) return;
+  _lastMasonryCols = n;
   renderCards(false);
 });
 
