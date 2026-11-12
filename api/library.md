@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 631
-Generated: 2026-11-12T20:03:01.167Z
+Total entries: 635
+Generated: 2026-11-12T20:07:18.516Z
 
 ## Google Ads (158 examples)
 
@@ -659,9 +659,9 @@ Generated: 2026-11-12T20:03:01.167Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (41 examples)
+## Video Ads (45 examples)
 
-### Professional — 26 examples
+### Professional — 30 examples
 
 - **Floating Head** — [https://library.revenuagency.io/videos/professional-1](https://library.revenuagency.io/videos/professional-1)
 - **Company Meeting** — [https://library.revenuagency.io/videos/professional-2](https://library.revenuagency.io/videos/professional-2)
@@ -689,6 +689,10 @@ Generated: 2026-11-12T20:03:01.167Z
 - **News Anchor** — [https://library.revenuagency.io/videos/professional-24](https://library.revenuagency.io/videos/professional-24)
 - **Explainers** — [https://library.revenuagency.io/videos/professional-25](https://library.revenuagency.io/videos/professional-25)
 - **Explainers** — [https://library.revenuagency.io/videos/professional-26](https://library.revenuagency.io/videos/professional-26)
+- **Counting Cash** — [https://library.revenuagency.io/videos/professional-27](https://library.revenuagency.io/videos/professional-27)
+- **Pillow Faces** — [https://library.revenuagency.io/videos/professional-28](https://library.revenuagency.io/videos/professional-28)
+- **Wiping Tears** — [https://library.revenuagency.io/videos/professional-29](https://library.revenuagency.io/videos/professional-29)
+- **Presenter** — [https://library.revenuagency.io/videos/professional-30](https://library.revenuagency.io/videos/professional-30)
 
 ### Social Proof — 5 examples
 

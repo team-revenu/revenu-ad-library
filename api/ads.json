@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T20:03:01.165Z",
-  "total": 631,
+  "generated": "2026-11-12T20:07:18.513Z",
+  "total": 635,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6826,6 +6826,54 @@
       "url": "https://library.revenuagency.io/videos/professional-26",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/beehiiv-1594509013.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/beehiiv-1594509013.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 27,
+      "title": "Counting Cash",
+      "formula": "",
+      "tag": "Professional",
+      "image": "monday-1615220113.webp",
+      "url": "https://library.revenuagency.io/videos/professional-27",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1615220113.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1615220113.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 28,
+      "title": "Pillow Faces",
+      "formula": "",
+      "tag": "Professional",
+      "image": "monday-1615180373.webp",
+      "url": "https://library.revenuagency.io/videos/professional-28",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1615180373.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1615180373.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 29,
+      "title": "Wiping Tears",
+      "formula": "",
+      "tag": "Professional",
+      "image": "monday-1610141443.webp",
+      "url": "https://library.revenuagency.io/videos/professional-29",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1610141443.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1610141443.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 30,
+      "title": "Presenter",
+      "formula": "",
+      "tag": "Professional",
+      "image": "monday-1603749053.webp",
+      "url": "https://library.revenuagency.io/videos/professional-30",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1603749053.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1603749053.mp4"
     },
     {
       "platform": "videos",
