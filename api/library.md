@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 613
-Generated: 2026-11-12T19:34:44.166Z
+Total entries: 609
+Generated: 2026-11-12T19:41:32.799Z
 
 ## Google Ads (158 examples)
 
@@ -179,7 +179,7 @@ Generated: 2026-11-12T19:34:44.166Z
 - **Tell a Good Story** (Problem · Solution · Benefit) — [https://library.revenuagency.io/google-ads/playbook-6](https://library.revenuagency.io/google-ads/playbook-6)
 - **The Formulas** (The playbook for ads that convert) — [https://library.revenuagency.io/google-ads/playbook-7](https://library.revenuagency.io/google-ads/playbook-7)
 
-## LinkedIn Ads (253 examples)
+## LinkedIn Ads (249 examples)
 
 ### The Playbook — 29 examples
 
@@ -317,7 +317,7 @@ Generated: 2026-11-12T19:34:44.166Z
 - **ChatGPT Answer** — [https://library.revenuagency.io/linkedin-ads/problem-109](https://library.revenuagency.io/linkedin-ads/problem-109)
 - **Falling Dominos** — [https://library.revenuagency.io/linkedin-ads/problem-110](https://library.revenuagency.io/linkedin-ads/problem-110)
 
-### Product — 45 examples
+### Product — 41 examples
 
 - **Step by Step** — [https://library.revenuagency.io/linkedin-ads/product-1](https://library.revenuagency.io/linkedin-ads/product-1)
 - **Platform Icons** — [https://library.revenuagency.io/linkedin-ads/product-2](https://library.revenuagency.io/linkedin-ads/product-2)
@@ -353,10 +353,6 @@ Generated: 2026-11-12T19:34:44.166Z
 - **With & Without** — [https://library.revenuagency.io/linkedin-ads/product-32](https://library.revenuagency.io/linkedin-ads/product-32)
 - **6 Steps** — [https://library.revenuagency.io/linkedin-ads/product-33](https://library.revenuagency.io/linkedin-ads/product-33)
 - **4 Points** — [https://library.revenuagency.io/linkedin-ads/product-34](https://library.revenuagency.io/linkedin-ads/product-34)
-- **Product UX** — [https://library.revenuagency.io/linkedin-ads/product-35](https://library.revenuagency.io/linkedin-ads/product-35)
-- **Product UX** — [https://library.revenuagency.io/linkedin-ads/product-36](https://library.revenuagency.io/linkedin-ads/product-36)
-- **Product UX** — [https://library.revenuagency.io/linkedin-ads/product-37](https://library.revenuagency.io/linkedin-ads/product-37)
-- **Product UX** — [https://library.revenuagency.io/linkedin-ads/product-38](https://library.revenuagency.io/linkedin-ads/product-38)
 - **Billboard Keys** — [https://library.revenuagency.io/linkedin-ads/product-39](https://library.revenuagency.io/linkedin-ads/product-39)
 - **From This To This** — [https://library.revenuagency.io/linkedin-ads/product-40](https://library.revenuagency.io/linkedin-ads/product-40)
 - **Step By Step** — [https://library.revenuagency.io/linkedin-ads/product-41](https://library.revenuagency.io/linkedin-ads/product-41)

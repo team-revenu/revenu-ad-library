@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T19:34:44.164Z",
-  "total": 613,
+  "generated": "2026-11-12T19:41:32.797Z",
+  "total": 609,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -3049,50 +3049,6 @@
       "image": "Product 34.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/product-34",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Product 34.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "product",
-      "id": 35,
-      "title": "Product UX",
-      "formula": "",
-      "tag": "Product",
-      "image": "Product 35.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/product-35",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Product 35.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "product",
-      "id": 36,
-      "title": "Product UX",
-      "formula": "",
-      "tag": "Product",
-      "image": "Product 36.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/product-36",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Product 36.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "product",
-      "id": 37,
-      "title": "Product UX",
-      "formula": "",
-      "tag": "Product",
-      "image": "Product 37.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/product-37",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Product 37.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "product",
-      "id": 38,
-      "title": "Product UX",
-      "formula": "",
-      "tag": "Product",
-      "image": "Product 38.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/product-38",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Product 38.webp"
     },
     {
       "platform": "linkedin",
