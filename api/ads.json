@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T19:29:13.536Z",
-  "total": 611,
+  "generated": "2026-11-12T19:31:05.926Z",
+  "total": 612,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6620,6 +6620,18 @@
       "url": "https://library.revenuagency.io/videos/professional-18",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/slack-B6zVzWU95Sw.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/slack-B6zVzWU95Sw.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 19,
+      "title": "Character Select",
+      "formula": "",
+      "tag": "Professional",
+      "image": "instantly-1594969333.webp",
+      "url": "https://library.revenuagency.io/videos/professional-19",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/instantly-1594969333.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/instantly-1594969333.mp4"
     },
     {
       "platform": "videos",

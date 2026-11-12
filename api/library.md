@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 611
-Generated: 2026-11-12T19:29:13.538Z
+Total entries: 612
+Generated: 2026-11-12T19:31:05.928Z
 
 ## Google Ads (158 examples)
 
@@ -649,9 +649,9 @@ Generated: 2026-11-12T19:29:13.538Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (31 examples)
+## Video Ads (32 examples)
 
-### Professional — 18 examples
+### Professional — 19 examples
 
 - **Floating Head** — [https://library.revenuagency.io/videos/professional-1](https://library.revenuagency.io/videos/professional-1)
 - **Company Meeting** — [https://library.revenuagency.io/videos/professional-2](https://library.revenuagency.io/videos/professional-2)
@@ -671,6 +671,7 @@ Generated: 2026-11-12T19:29:13.538Z
 - **Colour Studio** — [https://library.revenuagency.io/videos/professional-16](https://library.revenuagency.io/videos/professional-16)
 - **Old Couple** — [https://library.revenuagency.io/videos/professional-17](https://library.revenuagency.io/videos/professional-17)
 - **Office Interviews** — [https://library.revenuagency.io/videos/professional-18](https://library.revenuagency.io/videos/professional-18)
+- **Character Select** — [https://library.revenuagency.io/videos/professional-19](https://library.revenuagency.io/videos/professional-19)
 
 ### Social Proof — 3 examples
 
