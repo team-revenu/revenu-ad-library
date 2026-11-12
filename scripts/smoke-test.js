@@ -118,7 +118,7 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   const tabs = [...document.querySelectorAll('#filters .tab')].map(t => t.dataset.filter);
   check('tabs are All / Professional / Social Proof / UGC / B2C Inspiration', tabs.join(',') === 'all,professional,social-proof,ugc,b2c-inspiration');
   const cards = document.querySelectorAll('#gallery .card');
-  check(`All tab has video cards (${cards.length} found)`, cards.length === 30);
+  check(`All tab has video cards (${cards.length} found)`, cards.length === 31);
   check('every card is a video card showing a poster image and a play badge', [...cards].every(c => c.classList.contains('card-video') && c.querySelector('img.card-poster') && c.querySelector('.card-play')));
   check('no <video> in the grid before hover', !document.querySelector('#gallery video'));
   check('videos gallery is packed into mosaic columns', document.getElementById('gallery').classList.contains('is-masonry') && document.querySelectorAll('#gallery .masonry-col').length >= 1 && [...document.querySelectorAll('#gallery .masonry-col')].reduce((n, c) => n + c.children.length, 0) === cards.length);
@@ -137,7 +137,7 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   check('Social Proof tab shows 3 cards', document.querySelectorAll('#gallery .card').length === 3);
   check('URL is /videos/social-proof', dom.window.location.pathname === '/videos/social-proof');
   document.querySelector('#filters .tab[data-filter="ugc"]').click();
-  check('UGC tab shows 5 cards', document.querySelectorAll('#gallery .card').length === 5);
+  check('UGC tab shows 6 cards', document.querySelectorAll('#gallery .card').length === 6);
   document.querySelector('#filters .tab[data-filter="b2c-inspiration"]').click();
   check('B2C Inspiration tab shows 4 cards', document.querySelectorAll('#gallery .card').length === 4);
   check('URL is /videos/b2c-inspiration', dom.window.location.pathname === '/videos/b2c-inspiration');

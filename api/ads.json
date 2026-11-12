@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T16:16:35.232Z",
-  "total": 610,
+  "generated": "2026-11-12T19:29:13.536Z",
+  "total": 611,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6716,6 +6716,18 @@
       "url": "https://library.revenuagency.io/videos/ugc-5",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/UGC/instantly-rljg0e9bbqfhljp.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/UGC/instantly-rljg0e9bbqfhljp.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "ugc",
+      "id": 6,
+      "title": "Sofa Laptop",
+      "formula": "",
+      "tag": "UGC",
+      "image": "instantly-1615344113.webp",
+      "url": "https://library.revenuagency.io/videos/ugc-6",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/UGC/instantly-1615344113.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/UGC/instantly-1615344113.mp4"
     },
     {
       "platform": "videos",

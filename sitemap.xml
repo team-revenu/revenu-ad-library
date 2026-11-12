@@ -6266,4 +6266,14 @@
       <image:caption>Laptop Walkthrough: a ugc video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/ugc-6</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/UGC/instantly-1615344113.webp</image:loc>
+      <image:title>Sofa Laptop — UGC Video Ads example</image:title>
+      <image:caption>Sofa Laptop: a ugc video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
 </urlset>

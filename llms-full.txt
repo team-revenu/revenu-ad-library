@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 610
-Generated: 2026-11-12T16:16:35.234Z
+Total entries: 611
+Generated: 2026-11-12T19:29:13.538Z
 
 ## Google Ads (158 examples)
 
@@ -649,7 +649,7 @@ Generated: 2026-11-12T16:16:35.234Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (30 examples)
+## Video Ads (31 examples)
 
 ### Professional — 18 examples
 
@@ -678,13 +678,14 @@ Generated: 2026-11-12T16:16:35.234Z
 - **Noventiq Interview** — [https://library.revenuagency.io/videos/social-proof-2](https://library.revenuagency.io/videos/social-proof-2)
 - **Synthesia Interview** — [https://library.revenuagency.io/videos/social-proof-3](https://library.revenuagency.io/videos/social-proof-3)
 
-### UGC — 5 examples
+### UGC — 6 examples
 
 - **Comment Reply** — [https://library.revenuagency.io/videos/ugc-1](https://library.revenuagency.io/videos/ugc-1)
 - **Ask Alexa** — [https://library.revenuagency.io/videos/ugc-2](https://library.revenuagency.io/videos/ugc-2)
 - **Product Demo** — [https://library.revenuagency.io/videos/ugc-3](https://library.revenuagency.io/videos/ugc-3)
 - **Plane Window** — [https://library.revenuagency.io/videos/ugc-4](https://library.revenuagency.io/videos/ugc-4)
 - **Laptop Walkthrough** — [https://library.revenuagency.io/videos/ugc-5](https://library.revenuagency.io/videos/ugc-5)
+- **Sofa Laptop** — [https://library.revenuagency.io/videos/ugc-6](https://library.revenuagency.io/videos/ugc-6)
 
 ### B2C Inspiration — 4 examples
 
