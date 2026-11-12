@@ -5,7 +5,7 @@
 
 Site: https://library.revenuagency.io
 Total entries: 603
-Generated: 2026-11-12T15:03:34.421Z
+Generated: 2026-11-12T15:06:33.275Z
 
 ## Google Ads (158 examples)
 
@@ -667,7 +667,7 @@ Generated: 2026-11-12T15:03:34.421Z
 - **Service Desk Manager** — [https://library.revenuagency.io/videos/professional-12](https://library.revenuagency.io/videos/professional-12)
 - **Quick Handoff** — [https://library.revenuagency.io/videos/professional-13](https://library.revenuagency.io/videos/professional-13)
 - **Old Phone** — [https://library.revenuagency.io/videos/professional-14](https://library.revenuagency.io/videos/professional-14)
-- **Neon Lights** — [https://library.revenuagency.io/videos/professional-15](https://library.revenuagency.io/videos/professional-15)
+- **Mission** — [https://library.revenuagency.io/videos/professional-15](https://library.revenuagency.io/videos/professional-15)
 
 ### Social Proof — 3 examples
 
