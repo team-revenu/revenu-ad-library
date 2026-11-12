@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 612
-Generated: 2026-11-12T19:31:05.928Z
+Total entries: 613
+Generated: 2026-11-12T19:34:44.166Z
 
 ## Google Ads (158 examples)
 
@@ -179,7 +179,7 @@ Generated: 2026-11-12T19:31:05.928Z
 - **Tell a Good Story** (Problem · Solution · Benefit) — [https://library.revenuagency.io/google-ads/playbook-6](https://library.revenuagency.io/google-ads/playbook-6)
 - **The Formulas** (The playbook for ads that convert) — [https://library.revenuagency.io/google-ads/playbook-7](https://library.revenuagency.io/google-ads/playbook-7)
 
-## LinkedIn Ads (252 examples)
+## LinkedIn Ads (253 examples)
 
 ### The Playbook — 29 examples
 
@@ -317,7 +317,7 @@ Generated: 2026-11-12T19:31:05.928Z
 - **ChatGPT Answer** — [https://library.revenuagency.io/linkedin-ads/problem-109](https://library.revenuagency.io/linkedin-ads/problem-109)
 - **Falling Dominos** — [https://library.revenuagency.io/linkedin-ads/problem-110](https://library.revenuagency.io/linkedin-ads/problem-110)
 
-### Product — 44 examples
+### Product — 45 examples
 
 - **Step by Step** — [https://library.revenuagency.io/linkedin-ads/product-1](https://library.revenuagency.io/linkedin-ads/product-1)
 - **Platform Icons** — [https://library.revenuagency.io/linkedin-ads/product-2](https://library.revenuagency.io/linkedin-ads/product-2)
@@ -363,6 +363,7 @@ Generated: 2026-11-12T19:31:05.928Z
 - **Screenshots** — [https://library.revenuagency.io/linkedin-ads/product-42](https://library.revenuagency.io/linkedin-ads/product-42)
 - **Castle of Features** — [https://library.revenuagency.io/linkedin-ads/product-43](https://library.revenuagency.io/linkedin-ads/product-43)
 - **With & Without** — [https://library.revenuagency.io/linkedin-ads/product-44](https://library.revenuagency.io/linkedin-ads/product-44)
+- **Them vs You** — [https://library.revenuagency.io/linkedin-ads/product-45](https://library.revenuagency.io/linkedin-ads/product-45)
 
 ### GIFs — 10 examples
 

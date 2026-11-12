@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T19:31:05.926Z",
-  "total": 612,
+  "generated": "2026-11-12T19:34:44.164Z",
+  "total": 613,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -5315,6 +5315,17 @@
       "image": "With Without.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/product-44",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/With Without.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "product",
+      "id": 45,
+      "title": "Them vs You",
+      "formula": "",
+      "tag": "Product",
+      "image": "Them vs You.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-45",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Them vs You.webp"
     },
     {
       "platform": "linkedin",
