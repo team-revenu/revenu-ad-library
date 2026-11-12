@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 580
-Generated: 2026-11-11T22:17:37.466Z
+Total entries: 585
+Generated: 2026-11-12T14:11:24.806Z
 
 ## Google Ads (158 examples)
 
@@ -648,4 +648,14 @@ Generated: 2026-11-11T22:17:37.466Z
 - **Prompt + URL** (Targeting is a prompt plus a URL. Pick the URL carefully and describe the personas and keywords clearly) — [https://library.revenuagency.io/chatgpt/setup-9](https://library.revenuagency.io/chatgpt/setup-9)
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
+
+## Video Ads (5 examples)
+
+### Mobile — 5 examples
+
+- **Scytale – 1611575144** — [https://library.revenuagency.io/videos/mobile-1](https://library.revenuagency.io/videos/mobile-1)
+- **Scytale – 1611547124** — [https://library.revenuagency.io/videos/mobile-2](https://library.revenuagency.io/videos/mobile-2)
+- **Scytale – 1611739984** — [https://library.revenuagency.io/videos/mobile-3](https://library.revenuagency.io/videos/mobile-3)
+- **Scytale – 1611693444** — [https://library.revenuagency.io/videos/mobile-4](https://library.revenuagency.io/videos/mobile-4)
+- **Scytale – 1611693434** — [https://library.revenuagency.io/videos/mobile-5](https://library.revenuagency.io/videos/mobile-5)
 

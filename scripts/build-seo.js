@@ -74,6 +74,17 @@ const PLATFORMS = {
       { key: 'setup',    label: 'The Setup',    folder: 'Setup' },
     ],
   },
+  videos: {
+    path: '/videos',
+    label: 'Video Ads',
+    defaultTab: 'all',
+    folder: 'Video Ads',
+    tabs: [
+      { key: 'all',        label: 'All',        folder: '' },
+      { key: 'mobile',     label: 'Mobile',     folder: 'Mobile' },
+      { key: 'horizontal', label: 'Horizontal', folder: 'Horizontal' },
+    ],
+  },
 };
 
 // Load ads.js by faking `window` then evaluating the file in this scope.
@@ -207,6 +218,13 @@ fs.writeFileSync(
         PLATFORMS[ad.platform || 'google'].folder + '/' +
         (PLATFORMS[ad.platform || 'google'].tabs.find(t => t.key === ad.category)?.folder || '') + '/' +
         ad.image,
+      // Video ads: `imageUrl` above is the poster frame; the mp4 lives beside it.
+      ...(ad.video ? {
+        videoUrl: BASE_URL + '/images/' +
+          PLATFORMS[ad.platform || 'google'].folder + '/' +
+          (PLATFORMS[ad.platform || 'google'].tabs.find(t => t.key === ad.category)?.folder || '') + '/' +
+          ad.video,
+      } : {}),
     })),
   }, null, 2)
 );
@@ -229,6 +247,8 @@ const llmsShort = `# Revenu Ad Library
 - [LinkedIn Ads](${BASE_URL}/linkedin-ads) — ${(adsByPlatform.linkedin || []).length} examples across Problem, Product, Conversion, Conversation Ads, Gated Content, Animations, and Playbook insights
 - [Google Ads](${BASE_URL}/google-ads) — ${(adsByPlatform.google || []).length} examples across Brand, Non Brand, Competitor, and Playbook
 - [Landing Pages](${BASE_URL}/landing-pages) — ${(adsByPlatform.landing || []).length} examples across Above the Fold, Blocks, and Product Visuals
+- [ChatGPT Ads](${BASE_URL}/chatgpt) — ${(adsByPlatform.chatgpt || []).length} examples across The Playbook, Formulas, and The Setup
+- [Video Ads](${BASE_URL}/videos) — ${(adsByPlatform.videos || []).length} video examples across Mobile and Horizontal
 
 ## Browsing
 
@@ -313,6 +333,12 @@ function imagePathFor(ad) {
   const tabFolder = tab ? tab.folder : '';
   return `images/${cfg.folder}/${tabFolder}/${ad.image}`;
 }
+function videoPathFor(ad) {
+  const cfg = PLATFORMS[ad.platform || 'google'];
+  const tab = cfg.tabs.find(t => t.key === ad.category);
+  const tabFolder = tab ? tab.folder : '';
+  return `images/${cfg.folder}/${tabFolder}/${ad.video}`;
+}
 
 function buildBreadcrumbs(platform, category, ad) {
   const cfg = PLATFORMS[platform];
@@ -342,6 +368,22 @@ function buildJsonLdFor({ platform, category, ad, canonical }) {
   };
   if (ad) {
     const catLabel = (cfg.tabs.find(t => t.key === ad.category) || {}).label || ad.category;
+    if (ad.video) {
+      // Mirrors the VideoObject app.js emits at runtime for video ads.
+      return {
+        '@context': 'https://schema.org',
+        '@type': 'VideoObject',
+        '@id': canonical,
+        name: ad.title,
+        description: `${ad.title}: a ${catLabel.toLowerCase()} ${cfg.label.toLowerCase()} example curated in the Revenu Ad Library.`,
+        thumbnailUrl: BASE_URL + '/' + imagePathFor(ad),
+        contentUrl: BASE_URL + '/' + videoPathFor(ad),
+        uploadDate: ad.added || '2026-11-12',
+        keywords: [cfg.label, catLabel, ad.title, ad.formula, ad.tag, 'B2B SaaS', 'ad example'].filter(Boolean).join(', '),
+        isPartOf: { '@id': BASE_URL + '/#website' },
+        breadcrumb
+      };
+    }
     return {
       '@context': 'https://schema.org',
       '@type': 'ImageObject',
@@ -409,6 +451,9 @@ const PLATFORM_TIPS = {
       { icon: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 11v2.8h4.51c-.2 1.05-1.55 3.05-4.51 3.05-2.72 0-4.94-2.26-4.94-5.05S9.28 6.75 12 6.75c1.55 0 2.58.66 3.17 1.23l2.15-2.06C15.95 4.66 14.16 3.9 12 3.9 7.61 3.9 4.06 7.45 4.06 11.8s3.55 7.9 7.94 7.9c4.59 0 7.61-3.22 7.61-7.76 0-.52-.06-.91-.13-1.31H12z"/></svg>',
         label: 'Google Ads',
         blurb: '150+ Google Ads examples with Responsive Search Ad templates and copy inspiration.' },
+      { icon: 'rect:3 5 18 14 2 2|polygon:10 9 15 12 10 15 10 9',
+        label: 'Video Ads',
+        blurb: 'B2B SaaS video ad examples for LinkedIn, mobile vertical and horizontal, with sound.' },
     ],
   },
   linkedin: {
@@ -477,6 +522,23 @@ const PLATFORM_TIPS = {
       { icon: 'circle:12 12 3|M12 2v3|M12 19v3|M4.93 4.93l2.12 2.12|M16.95 16.95l2.12 2.12|M2 12h3|M19 12h3|M4.93 19.07l2.12-2.12|M16.95 7.05l2.12-2.12',
         label: 'ChatGPT ads setup guide',
         blurb: 'full ChatGPT campaign creation and conversion tracking walkthrough.' },
+    ],
+  },
+  videos: {
+    title: 'About this Video Ads library',
+    items: [
+      { icon: 'rect:3 5 18 14 2 2|polygon:10 9 15 12 10 15 10 9',
+        label: 'Real B2B SaaS video ads',
+        blurb: 'LinkedIn video ad examples you can watch in full, with sound, straight from the library.' },
+      { icon: 'rect:7 2 10 20 2 2|line:11 18 13 18',
+        label: 'Mobile vertical video',
+        blurb: '9:16 video ads built for the phone feed, where most LinkedIn scrolling happens.' },
+      { icon: 'rect:2 6 20 12 2 2|line:2 10 22 10',
+        label: 'Horizontal video',
+        blurb: '16:9 video ads for desktop and in-feed placements.' },
+      { icon: 'polyline:23 6 13.5 15.5 8.5 10.5 1 18|polyline:17 6 23 6 23 12',
+        label: 'Video ad swipe file',
+        blurb: 'hooks, captions and pacing from video campaigns that stop the scroll.' },
     ],
   },
 };
@@ -612,6 +674,7 @@ const PLATFORM_OG_IMAGE = {
   google:   '/og/google-ads.png',
   landing:  '/og/landing-pages.png',
   chatgpt:  '/og/chatgpt.png',
+  videos:   '/og/videos.png',
 };
 // Per-platform title + description overrides — keyword-rich, unique per library
 // so search results distinguish them cleanly. Counts are pinned in the copy so
@@ -633,6 +696,10 @@ const PLATFORM_META = {
     title: 'ChatGPT Ads Library | Examples + How to Advertise | Revenu',
     description: '38 real ChatGPT ad examples plus how to advertise on ChatGPT. The first ChatGPT ads library with OpenAI advertising formulas, playbook, and full campaign setup guide.',
   },
+  videos: {
+    title: 'Video Ads Library | B2B SaaS Video Ad Examples | Revenu',
+    description: 'Real B2B SaaS video ad examples from LinkedIn, mobile vertical and horizontal, playable with sound. Free video ad swipe file for hooks, captions and pacing.',
+  },
 };
 // Platform-level pages (/google-ads, /linkedin-ads, /landing-pages, /chatgpt)
 for (const [platform, cfg] of Object.entries(PLATFORMS)) {
@@ -648,8 +715,12 @@ for (const [platform, cfg] of Object.entries(PLATFORMS)) {
 }
 // Category pages — inherit the platform's OG image so shares of /chatgpt/playbook,
 // /linkedin-ads/conversion, etc. show the correct library cover, not the LinkedIn default.
-for (const [platform, cats] of Object.entries(categoriesByPlatform)) {
-  const cfg = PLATFORMS[platform];
+// Every configured tab gets a page, including tabs with no ads yet (e.g. Video
+// Ads → Horizontal), so the URL resolves to the library's own empty state
+// instead of the 404 page. The sitemap above still lists only tabs with content.
+for (const [platform, cfg] of Object.entries(PLATFORMS)) {
+  const cats = new Set(cfg.tabs.map(t => t.key));
+  for (const c of (categoriesByPlatform[platform] || [])) cats.add(c);
   const ogImage = BASE_URL + (PLATFORM_OG_IMAGE[platform] || '/og-image.png');
   // explicit /all
   {

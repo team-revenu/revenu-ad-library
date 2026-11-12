@@ -4,10 +4,12 @@
     { "source": "/linkedin-ads",      "destination": "/linkedin-ads.html" },
     { "source": "/landing-pages",     "destination": "/landing-pages.html" },
     { "source": "/chatgpt",           "destination": "/chatgpt.html" },
+    { "source": "/videos",            "destination": "/videos.html" },
     { "source": "/saved",             "destination": "/saved.html" },
     { "source": "/google-ads/:rest",    "destination": "/google-ads/:rest.html" },
     { "source": "/linkedin-ads/:rest",  "destination": "/linkedin-ads/:rest.html" },
     { "source": "/landing-pages/:rest", "destination": "/landing-pages/:rest.html" },
-    { "source": "/chatgpt/:rest",       "destination": "/chatgpt/:rest.html" }
+    { "source": "/chatgpt/:rest",       "destination": "/chatgpt/:rest.html" },
+    { "source": "/videos/:rest",        "destination": "/videos/:rest.html" }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-11T22:17:37.463Z",
-  "total": 580,
+  "generated": "2026-11-12T14:11:24.803Z",
+  "total": 585,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -18,6 +18,10 @@
     "chatgpt": {
       "label": "ChatGPT Ads",
       "path": "/chatgpt"
+    },
+    "videos": {
+      "label": "Video Ads",
+      "path": "/videos"
     }
   },
   "ads": [
@@ -6400,6 +6404,66 @@
       "image": "Short and Small.webp",
       "url": "https://library.revenuagency.io/chatgpt/setup-11",
       "imageUrl": "https://library.revenuagency.io/images/ChatGPT Ads/Setup/Short and Small.webp"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 1,
+      "title": "Scytale – 1611575144",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "scytale-1611575144.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-1",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611575144.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611575144.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 2,
+      "title": "Scytale – 1611547124",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "scytale-1611547124.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-2",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611547124.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611547124.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 3,
+      "title": "Scytale – 1611739984",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "scytale-1611739984.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-3",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611739984.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611739984.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 4,
+      "title": "Scytale – 1611693444",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "scytale-1611693444.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-4",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611693444.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611693444.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 5,
+      "title": "Scytale – 1611693434",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "scytale-1611693434.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-5",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611693434.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/scytale-1611693434.mp4"
     }
   ]
 }

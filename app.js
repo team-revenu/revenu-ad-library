@@ -48,6 +48,7 @@ const heroTitle = document.getElementById('hero-title');
 
 const lightbox = document.getElementById('lightbox');
 const lbImage = document.getElementById('lb-image');
+const lbVideo = document.getElementById('lb-video');
 const lbCaption = document.getElementById('lb-caption');
 const lbClose = document.getElementById('lb-close');
 const lbPrev = document.getElementById('lb-prev');
@@ -112,6 +113,22 @@ const platforms = {
       { key: 'setup',     label: 'The Setup',    folder: 'Setup' }
     ]
   },
+  // Video Ads. Entries carry a `video` (mp4) plus an `image` (webp poster
+  // frame) — the poster drives every image-based code path (cards, og:image,
+  // sitemap) and the mp4 is swapped in by the card hover and the lightbox.
+  // `aspect` on a tab sets the card thumb ratio (vertical for Mobile, 16:9
+  // for Horizontal); the All tab leaves it to each ad's own category.
+  videos: {
+    label: 'Video Ads',
+    folder: 'Video Ads',
+    features: ['Hook In 3 Seconds', 'Built For Mobile', 'Stop The Scroll'],
+    defaultTab: 'all',
+    tabs: [
+      { key: 'all',        label: 'All',        folder: '' },
+      { key: 'mobile',     label: 'Mobile',     folder: 'Mobile',     aspect: '9 / 16' },
+      { key: 'horizontal', label: 'Horizontal', folder: 'Horizontal', aspect: '16 / 9' }
+    ]
+  },
   // Pseudo-platform: cross-library "Saved" view. Same gallery + lightbox UI
   // as a real platform, but visibleAds is filtered from the user's favorites
   // (localStorage) and the "category" tabs are the source platforms.
@@ -125,7 +142,8 @@ const platforms = {
       { key: 'linkedin', label: 'LinkedIn Ads',  folder: '' },
       { key: 'google',   label: 'Google Ads',    folder: '' },
       { key: 'landing',  label: 'Landing Pages', folder: '' },
-      { key: 'chatgpt',  label: 'ChatGPT Ads',   folder: '' }
+      { key: 'chatgpt',  label: 'ChatGPT Ads',   folder: '' },
+      { key: 'videos',   label: 'Video Ads',     folder: '' }
     ]
   }
 };
@@ -172,6 +190,9 @@ const PLATFORM_TIPS = {
       { icon: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 11v2.8h4.51c-.2 1.05-1.55 3.05-4.51 3.05-2.72 0-4.94-2.26-4.94-5.05S9.28 6.75 12 6.75c1.55 0 2.58.66 3.17 1.23l2.15-2.06C15.95 4.66 14.16 3.9 12 3.9 7.61 3.9 4.06 7.45 4.06 11.8s3.55 7.9 7.94 7.9c4.59 0 7.61-3.22 7.61-7.76 0-.52-.06-.91-.13-1.31H12z"/></svg>',
         label: 'Google Ads',
         blurb: '150+ Google Ads examples with Responsive Search Ad templates and copy inspiration.' },
+      { icon: 'rect:3 5 18 14 2 2|polygon:10 9 15 12 10 15 10 9',
+        label: 'Video Ads',
+        blurb: 'B2B SaaS video ad examples for LinkedIn, mobile vertical and horizontal, with sound.' },
     ],
   },
   linkedin: {
@@ -242,6 +263,23 @@ const PLATFORM_TIPS = {
         blurb: 'full ChatGPT campaign creation and conversion tracking walkthrough.' },
     ],
   },
+  videos: {
+    title: 'About this Video Ads library',
+    items: [
+      { icon: 'rect:3 5 18 14 2 2|polygon:10 9 15 12 10 15 10 9',
+        label: 'Real B2B SaaS video ads',
+        blurb: 'LinkedIn video ad examples you can watch in full, with sound, straight from the library.' },
+      { icon: 'rect:7 2 10 20 2 2|line:11 18 13 18',
+        label: 'Mobile vertical video',
+        blurb: '9:16 video ads built for the phone feed, where most LinkedIn scrolling happens.' },
+      { icon: 'rect:2 6 20 12 2 2|line:2 10 22 10',
+        label: 'Horizontal video',
+        blurb: '16:9 video ads for desktop and in-feed placements.' },
+      { icon: 'polyline:23 6 13.5 15.5 8.5 10.5 1 18|polyline:17 6 23 6 23 12',
+        label: 'Video ad swipe file',
+        blurb: 'hooks, captions and pacing from video campaigns that stop the scroll.' },
+    ],
+  },
 };
 // Build the inner HTML of #library-info-popover for a given platform.
 function _renderTipIcon(spec) {
@@ -291,7 +329,7 @@ function applyLibraryTip(platform) {
 // the desktop filter bar restricts the gallery to only favorited ads.
 // The filter state is tracked PER-PLATFORM so switching libraries doesn't
 // drag the toggle with you, but coming back to a library restores its state.
-const favoritesModeByPlatform = { google: false, linkedin: false, landing: false };
+const favoritesModeByPlatform = { google: false, linkedin: false, landing: false, chatgpt: false, videos: false };
 function getFavoritesMode() { return !!favoritesModeByPlatform[activePlatform]; }
 const favorites = new Set();
 try {
@@ -333,6 +371,7 @@ const PATH_TO_PLATFORM = {
   '/linkedin-ads': 'linkedin',
   '/landing-pages': 'landing',
   '/chatgpt': 'chatgpt',
+  '/videos': 'videos',
   '/saved': 'saved'
 };
 const PLATFORM_TO_PATH = {
@@ -340,6 +379,7 @@ const PLATFORM_TO_PATH = {
   linkedin: '/linkedin-ads',
   landing:  '/landing-pages',
   chatgpt:  '/chatgpt',
+  videos:   '/videos',
   saved:    '/saved'
 };
 
@@ -348,7 +388,7 @@ function parsePath() {
   // /saved has no sub-paths (categories are JS-only state, not URLs).
   if (path === '/saved') return { platform: 'saved', category: null, adId: null };
   // /platform or /platform/category[-id]
-  const m = path.match(/^\/(google-ads|linkedin-ads|landing-pages|chatgpt)(?:\/(.+))?$/);
+  const m = path.match(/^\/(google-ads|linkedin-ads|landing-pages|chatgpt|videos)(?:\/(.+))?$/);
   if (!m) return { platform: 'linkedin', category: null, adId: null };
   const platform = PATH_TO_PLATFORM['/' + m[1]];
   if (!m[2]) return { platform, category: null, adId: null };
@@ -406,6 +446,22 @@ function imagePath(ad) {
   // /linkedin-ads/problem-3 still find the right images. Locally (file://),
   // <base> is skipped and the path resolves from the document's directory.
   return `images/${cfg.folder}/${tabFolder}/${ad.image}`;
+}
+
+// Video ads: `image` is the poster frame (used by imagePath above) and
+// `video` is the mp4 in the same folder.
+function isVideoAd(ad) { return !!(ad && ad.video); }
+function videoPath(ad) {
+  const cfg = platforms[ad.platform || 'google'] || platforms.google;
+  const tab = cfg.tabs.find(t => t.key === ad.category);
+  const tabFolder = tab ? tab.folder : '';
+  return `images/${cfg.folder}/${tabFolder}/${ad.video}`;
+}
+// Card thumb aspect for an ad, taken from its own category tab (so the All
+// tab mixes vertical and 16:9 cards correctly). Null = use the CSS default.
+function adAspect(ad) {
+  const tab = findTab(ad.platform || 'google', ad.category);
+  return tab && tab.aspect ? tab.aspect : null;
 }
 
 // ---------- Column count toggle (desktop) ----------
@@ -847,7 +903,8 @@ function _updateSEOTagsImpl() {
         { '@type': 'CollectionPage', name: 'LinkedIn Ads Library',  url: SITE_ORIGIN + '/linkedin-ads' },
         { '@type': 'CollectionPage', name: 'ChatGPT Ads Library',   url: SITE_ORIGIN + '/chatgpt' },
         { '@type': 'CollectionPage', name: 'Landing Pages Library', url: SITE_ORIGIN + '/landing-pages' },
-        { '@type': 'CollectionPage', name: 'Google Ads Library',    url: SITE_ORIGIN + '/google-ads' }
+        { '@type': 'CollectionPage', name: 'Google Ads Library',    url: SITE_ORIGIN + '/google-ads' },
+        { '@type': 'CollectionPage', name: 'Video Ads Library',     url: SITE_ORIGIN + '/videos' }
       ]
     });
     return;
@@ -884,19 +941,34 @@ function _updateSEOTagsImpl() {
         ? `${ad.title}: ${ad.formula}. A real ${cfg.label} example from the Revenu Ad Library.`
         : `${ad.title}: a real ${catLabel} ${cfg.label} example from the Revenu Ad Library. A curated collection of high-performing B2B SaaS ad and landing page templates.`
     );
-    setJsonLd({
+    const breadcrumbLd = { '@type': 'BreadcrumbList', itemListElement: breadcrumbItems.map((b, i) => ({
+      '@type': 'ListItem', position: i + 1, name: b.name, item: b.item
+    })) };
+    const adDescription = `${ad.title}: a ${catLabel.toLowerCase()} ${cfg.label.toLowerCase()} example curated in the Revenu Ad Library.`;
+    const adKeywords = [cfg.label, catLabel, ad.title, ad.formula, ad.tag, 'B2B SaaS', 'ad example'].filter(Boolean).join(', ');
+    setJsonLd(isVideoAd(ad) ? {
+      '@context': 'https://schema.org',
+      '@type': 'VideoObject',
+      '@id': canonical,
+      name: ad.title,
+      description: adDescription,
+      thumbnailUrl: SITE_ORIGIN + '/' + imagePath(ad).replace(/^\//, ''),
+      contentUrl: SITE_ORIGIN + '/' + videoPath(ad).replace(/^\//, ''),
+      uploadDate: ad.added || '2026-11-12',
+      keywords: adKeywords,
+      isPartOf: { '@id': SITE_ORIGIN + '/#website' },
+      breadcrumb: breadcrumbLd
+    } : {
       '@context': 'https://schema.org',
       '@type': 'ImageObject',
       '@id': canonical,
       name: ad.title,
       caption: ad.title + (ad.formula ? ': ' + ad.formula : ''),
-      description: `${ad.title}: a ${catLabel.toLowerCase()} ${cfg.label.toLowerCase()} example curated in the Revenu Ad Library.`,
+      description: adDescription,
       contentUrl: SITE_ORIGIN + '/' + imagePath(ad).replace(/^\//, ''),
-      keywords: [cfg.label, catLabel, ad.title, ad.formula, ad.tag, 'B2B SaaS', 'ad example'].filter(Boolean).join(', '),
+      keywords: adKeywords,
       isPartOf: { '@id': SITE_ORIGIN + '/#website' },
-      breadcrumb: { '@type': 'BreadcrumbList', itemListElement: breadcrumbItems.map((b, i) => ({
-        '@type': 'ListItem', position: i + 1, name: b.name, item: b.item
-      })) }
+      breadcrumb: breadcrumbLd
     });
     return;
   }
@@ -942,6 +1014,10 @@ function _updateSEOTagsImpl() {
     chatgpt: {
       title: 'ChatGPT Ads Library | Examples + How to Advertise | Revenu',
       description: '38 real ChatGPT ad examples plus how to advertise on ChatGPT. The first ChatGPT ads library with OpenAI advertising formulas, playbook, and full campaign setup guide.',
+    },
+    videos: {
+      title: 'Video Ads Library | B2B SaaS Video Ad Examples | Revenu',
+      description: 'Real B2B SaaS video ad examples from LinkedIn, mobile vertical and horizontal, playable with sound. Free video ad swipe file for hooks, captions and pacing.',
     },
   }[platform] || {
     title: `${cfg.label} Library | Revenu`,
@@ -1130,12 +1206,13 @@ function renderCards(animate = false) {
       emptyState.innerHTML = `<strong>No favorites yet.</strong><br>Tap the <span aria-label="heart">❤</span> on any ${itemWord} to save it here for later.`;
       return;
     }
-    // Truly empty category (no ads at all) — this is a dev-only state since
-    // every category ships with content, but keep a sane fallback just in case.
-    const cfg = currentPlatform();
+    // Truly empty category (no ads at all yet). Some tabs ship ahead of their
+    // content (e.g. Video Ads → Horizontal), so this is a visitor-facing
+    // message, not a developer hint.
     const tab = findTab(activePlatform, activeFilter);
-    const tabFolder = tab ? tab.folder : activeFilter;
-    emptyState.innerHTML = `No ads in <code>${escapeHtml(cfg.label)} → ${escapeHtml(tabFolder)}</code> yet. Drop images into <code>images/${escapeHtml(cfg.folder)}/${escapeHtml(tabFolder)}/</code> and add an entry to <code>ads.js</code> with <code>platform: "${activePlatform}"</code> and <code>category: "${activeFilter}"</code>.`;
+    const tabLabel = tab ? tab.label : activeFilter;
+    const itemWord = activePlatform === 'videos' ? 'videos' : activePlatform === 'landing' ? 'blocks' : 'ads';
+    emptyState.innerHTML = `<strong>No ${escapeHtml(tabLabel)} ${itemWord} yet.</strong><br>We are adding to this library. Check back soon or try the All tab.`;
     return;
   }
   emptyState.hidden = true;
@@ -1158,9 +1235,20 @@ function renderCards(animate = false) {
     const hideCardSub =
       (ad.platform === 'chatgpt' && (ad.category === 'playbook' || ad.category === 'setup')) ||
       (ad.platform === 'linkedin' && ad.category === 'convo-ads');
+    const video = isVideoAd(ad);
+    if (video) card.classList.add('card-video');
+    // Video thumbs: a muted, looping <video> with the poster frame showing
+    // until hover (desktop) starts playback. preload="none" keeps the grid
+    // light — nothing downloads until the visitor hovers or opens the ad.
+    const aspect = adAspect(ad);
+    const thumbStyle = aspect ? ` style="aspect-ratio: ${aspect}"` : '';
+    const thumbInner = video
+      ? `<video class="card-video-el" src="${videoPath(ad)}" poster="${imagePath(ad)}" preload="none" muted loop playsinline aria-label="${escapeHtml(ad.title)}"></video>
+         <span class="card-play" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5z"/></svg></span>`
+      : `<img src="${imagePath(ad)}" alt="${escapeHtml(ad.title)}" loading="lazy" />`;
     card.innerHTML = `
-      <div class="card-thumb">
-        <img src="${imagePath(ad)}" alt="${escapeHtml(ad.title)}" loading="lazy" />
+      <div class="card-thumb"${thumbStyle}>
+        ${thumbInner}
       </div>
       <div class="card-body">
         <div class="card-text">
@@ -1182,6 +1270,24 @@ function renderCards(animate = false) {
         openLightbox(i);
       }
     });
+    // Hover-to-preview (desktop, mouse only). Silent and looping; the
+    // lightbox is where it plays with sound. Leaving the card rewinds to the
+    // poster so the grid never ends up full of mid-frame stills.
+    if (video) {
+      const el = card.querySelector('.card-video-el');
+      card.addEventListener('mouseenter', () => {
+        const p = el.play();
+        if (p && p.catch) p.catch(() => {});
+        card.classList.add('is-playing');
+      });
+      card.addEventListener('mouseleave', () => {
+        el.pause();
+        try { el.currentTime = 0; } catch (e) {}
+        // Reloading drops the decoded frame so the poster shows again.
+        el.load();
+        card.classList.remove('is-playing');
+      });
+    }
     // Heart toggle — stop propagation so it doesn't also open the lightbox
     const heart = card.querySelector('.card-heart');
     if (heart) {
@@ -1397,6 +1503,37 @@ function updateCaption(ad) {
   lbCaption.textContent = parts.join(' — ');
 }
 
+// Swap the lightbox between its <img> and <video>. Images keep every existing
+// code path (drag, swipe, slide-in) untouched; video ads show the <video>
+// with native controls and sound instead. Clearing src on the way out stops
+// audio and any in-flight download the moment the visitor moves on.
+function showLightboxMedia(ad) {
+  const video = isVideoAd(ad);
+  lightbox.classList.toggle('is-video', video);
+  if (!lbVideo) return;
+  if (video) {
+    lbImage.hidden = true;
+    lbVideo.hidden = false;
+    lbVideo.poster = imagePath(ad);
+    lbVideo.src = videoPath(ad);
+    lbVideo.setAttribute('aria-label', ad.title);
+    const p = lbVideo.play();
+    if (p && p.catch) p.catch(() => { /* autoplay blocked — controls are visible, the visitor can press play */ });
+  } else {
+    stopLightboxVideo();
+    lbVideo.hidden = true;
+    lbImage.hidden = false;
+  }
+}
+function stopLightboxVideo() {
+  if (!lbVideo) return;
+  try { lbVideo.pause(); } catch (e) {}
+  if (lbVideo.getAttribute('src')) {
+    lbVideo.removeAttribute('src');
+    lbVideo.load();
+  }
+}
+
 function syncUrlToCurrentAd() {
   const ad = visibleAds[currentIndex];
   if (!ad || ad.id == null) return;
@@ -1421,6 +1558,7 @@ async function openLightbox(index, opts = {}) {
   lbImage.src = imagePath(ad);
   lbImage.alt = ad.title;
   updateCaption(ad);
+  showLightboxMedia(ad);
 
   lightbox.hidden = false;
   document.body.style.overflow = 'hidden';
@@ -1433,7 +1571,10 @@ async function openLightbox(index, opts = {}) {
   ]);
   if (mySeq !== navSeq) return; // user already navigated past this
 
-  if (opts.slideIn) {
+  if (isVideoAd(ad)) {
+    // Video plays in its own element; the image animations below don't apply.
+    lbImage.style.opacity = '';
+  } else if (opts.slideIn) {
     // Position off-screen left, then spring to center
     lbImage.style.transition = 'none';
     lbImage.style.transform = 'translateX(-110vw) rotate(-4deg)';
@@ -1470,6 +1611,8 @@ async function openLightbox(index, opts = {}) {
 function closeLightbox(opts = {}) {
   navSeq++; // cancel any in-flight transition
   lightbox.hidden = true;
+  lightbox.classList.remove('is-video');
+  stopLightboxVideo();
   document.body.style.overflow = '';
   // Reset any in-flight drag / slide transform so next open is clean
   lbImage.style.transition = 'none';
@@ -1506,6 +1649,7 @@ function step(delta) {
   lbImage.src = imagePath(ad);
   lbImage.alt = ad.title;
   updateCaption(ad);
+  showLightboxMedia(ad);
   syncUrlToCurrentAd();
   preloadNeighbors();
 }
@@ -1587,6 +1731,7 @@ async function commitSwipe(direction) {
   lbImage.src = targetSrc;
   lbImage.alt = targetAd.title;
   updateCaption(targetAd);
+  showLightboxMedia(targetAd);
   syncUrlToCurrentAd();
 
   // Decode the now-attached element too, belt-and-braces against any final blink

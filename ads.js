@@ -1686,4 +1686,13 @@ window.ADS = [
   { image: "Prompt URL.webp", title: "Prompt + URL", formula: "Targeting is a prompt plus a URL. Pick the URL carefully and describe the personas and keywords clearly", tag: "Setup", category: "setup", platform: "chatgpt" },
   { image: "Four Components.webp", title: "Four Components", formula: "The ads are short and have 4 components: URL, headline, description, image", tag: "Setup", category: "setup", platform: "chatgpt" },
   { image: "Short and Small.webp", title: "Short and Small", formula: "Focus on short copy as you don't get much. Use an image which is simple as it's very small", tag: "Setup", category: "setup", platform: "chatgpt" },
+
+  // ---------- Video Ads — Mobile ----------
+  // `video` is the mp4, `image` is its poster frame (both in images/Video Ads/Mobile/).
+  // Append only: URL numbers (/videos/mobile-N) come from position in this block.
+  { image: "scytale-1611575144.webp", video: "scytale-1611575144.mp4", title: "Scytale – 1611575144", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611575144" },
+  { image: "scytale-1611547124.webp", video: "scytale-1611547124.mp4", title: "Scytale – 1611547124", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611547124" },
+  { image: "scytale-1611739984.webp", video: "scytale-1611739984.mp4", title: "Scytale – 1611739984", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611739984" },
+  { image: "scytale-1611693444.webp", video: "scytale-1611693444.mp4", title: "Scytale – 1611693444", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611693444" },
+  { image: "scytale-1611693434.webp", video: "scytale-1611693434.mp4", title: "Scytale – 1611693434", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611693434" }
 ];

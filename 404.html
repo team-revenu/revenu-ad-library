@@ -72,6 +72,12 @@
             <path d="M12 11v2.8h4.51c-.2 1.05-1.55 3.05-4.51 3.05-2.72 0-4.94-2.26-4.94-5.05S9.28 6.75 12 6.75c1.55 0 2.58.66 3.17 1.23l2.15-2.06C15.95 4.66 14.16 3.9 12 3.9 7.61 3.9 4.06 7.45 4.06 11.8s3.55 7.9 7.94 7.9c4.59 0 7.61-3.22 7.61-7.76 0-.52-.06-.91-.13-1.31H12z"/>
           </svg>
         </a>
+        <a href="/videos" class="platform-pill" data-platform="videos" aria-label="Video Ads" title="Video Ads">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="3" y="5" width="18" height="14" rx="2"/>
+            <polygon points="10 9 15 12 10 15 10 9" fill="currentColor" stroke="none"/>
+          </svg>
+        </a>
         <a href="/saved" class="platform-pill platform-pill-saved" data-platform="saved" aria-label="Saved ads" title="Saved ads">
           <svg class="platform-pill-saved-icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="none" aria-hidden="true">
             <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
@@ -207,6 +213,9 @@
       <a class="chooser-tile" href="/google-ads" data-platform="google" aria-label="Browse the Google Ads library">
         <img src="images/Homepage/google-ads.webp" alt="Google Ads library" loading="eager" />
       </a>
+      <a class="chooser-tile" href="/videos" data-platform="videos" aria-label="Browse the Video Ads library">
+        <img src="images/Homepage/video-ads.webp" alt="Video Ads library" loading="eager" />
+      </a>
     </section>
     <div id="gallery" class="gallery" aria-live="polite"></div>
     <p id="empty-state" class="empty-state" hidden></p>
@@ -225,6 +234,7 @@
     <button class="lb-nav lb-next" id="lb-next" aria-label="Next">›</button>
     <figure class="lb-figure">
       <img id="lb-image" alt="" />
+      <video id="lb-video" controls playsinline preload="metadata" hidden></video>
       <figcaption id="lb-caption"></figcaption>
     </figure>
   </div>
