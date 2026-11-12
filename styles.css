@@ -448,6 +448,9 @@ a { color: inherit; }
   text-align: center; /* centers the inline-flex .tabs row on desktop */
 }
 .filters-wrap .container { position: relative; }
+/* Spacer that stands in for the bar while it is pinned on phones (app.js). */
+.filters-spacer { display: none; }
+.filters-spacer.is-active { display: block; }
 
 /* ---------- View toggle (desktop only) ---------- */
 .view-toggle {
@@ -1187,7 +1190,12 @@ body.lb-dragging .lb-figure img { cursor: grabbing; }
      out of their absolute positioning and join the dropdown in a flex row,
      pinned to the left so they live next to the filter selector. */
   .tabs { display: none; }
-  .filters-wrap { padding: 10px 0; }
+  /* Phones: no sticky positioning. Chrome on iPhone rubber-bands back to a
+     sticky bar's resting spot, so the top of the page became unreachable.
+     app.js pins the bar with position: fixed once it reaches the top and
+     shows the spacer so the layout keeps its height ("Pinned filters bar"). */
+  .filters-wrap { position: static; padding: 10px 0; }
+  .filters-wrap.is-pinned { position: fixed; top: 0; left: 0; right: 0; }
   .filters-wrap .container {
     display: flex;
     align-items: center;
