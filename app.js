@@ -72,7 +72,7 @@ const platforms = {
       { key: 'convo-ads',     label: 'Conversation Ads',     folder: 'Conversation Ads', shortLabel: 'Convo Ads' },
       { key: 'gated-content', label: 'Gated Content', folder: 'Gated Content' },
       { key: 'playbook',      label: 'The Playbook',  folder: 'The Playbook' },
-      { key: 'animations',    label: 'Animations',    folder: 'Animations' }
+      { key: 'animations',    label: 'GIFs',          folder: 'Animations' }
     ]
   },
   google: {

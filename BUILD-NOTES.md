@@ -10,7 +10,7 @@ This document was generated at the end of a long, iterative build session. It su
 
 A free, public library of high-performing B2B SaaS ad examples and landing-page templates, curated and built by Revenu Agency. As of writing: **544 ads** across four libraries:
 
-- **LinkedIn Ads** — Problem, Product, Conversion, Conversation Ads, Gated Content, Animations, The Playbook
+- **LinkedIn Ads** — Problem, Product, Conversion, Conversation Ads, Gated Content, GIFs, The Playbook
 - **Google Ads** — Brand, Non Brand, Competitor, The Playbook
 - **Landing Pages** — Above the Fold, Blocks, Product Visuals
 - **ChatGPT Ads** — Playbook, Setup (route: `/chatgpt`)

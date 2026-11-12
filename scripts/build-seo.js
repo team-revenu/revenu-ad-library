@@ -33,7 +33,7 @@ const PLATFORMS = {
       { key: 'convo-ads',     label: 'Conversation Ads',     folder: 'Conversation Ads', shortLabel: 'Convo Ads' },
       { key: 'gated-content', label: 'Gated Content', folder: 'Gated Content' },
       { key: 'playbook',      label: 'The Playbook',  folder: 'The Playbook' },
-      { key: 'animations',    label: 'Animations',    folder: 'Animations' },
+      { key: 'animations',    label: 'GIFs',          folder: 'Animations' },
     ],
   },
   google: {
@@ -246,7 +246,7 @@ const llmsShort = `# Revenu Ad Library
 
 ## Libraries
 
-- [LinkedIn Ads](${BASE_URL}/linkedin-ads) — ${(adsByPlatform.linkedin || []).length} examples across Problem, Product, Conversion, Conversation Ads, Gated Content, Animations, and Playbook insights
+- [LinkedIn Ads](${BASE_URL}/linkedin-ads) — ${(adsByPlatform.linkedin || []).length} examples across Problem, Product, Conversion, Conversation Ads, Gated Content, GIFs, and Playbook insights
 - [Google Ads](${BASE_URL}/google-ads) — ${(adsByPlatform.google || []).length} examples across Brand, Non Brand, Competitor, and Playbook
 - [Landing Pages](${BASE_URL}/landing-pages) — ${(adsByPlatform.landing || []).length} examples across Above the Fold, Blocks, and Product Visuals
 - [ChatGPT Ads](${BASE_URL}/chatgpt) — ${(adsByPlatform.chatgpt || []).length} examples across The Playbook, Formulas, and The Setup

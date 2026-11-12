@@ -1,6 +1,6 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T15:24:18.341Z",
+  "generated": "2026-11-12T16:16:35.232Z",
   "total": 610,
   "platforms": {
     "linkedin": {
@@ -3199,7 +3199,7 @@
       "id": 1,
       "title": "Gift Card",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "Gift card.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-1",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Gift card.webp"
@@ -3210,7 +3210,7 @@
       "id": 2,
       "title": "Rubik's Cube",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "Rubiks cube.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-2",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Rubiks cube.webp"
@@ -5905,7 +5905,7 @@
       "id": 3,
       "title": "Wheel of Fortune",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "Wheel of Fortune.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-3",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Wheel of Fortune.webp"
@@ -5916,7 +5916,7 @@
       "id": 4,
       "title": "GIF in Message",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "GIF in Message.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-4",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/GIF in Message.webp"
@@ -5927,7 +5927,7 @@
       "id": 5,
       "title": "GIF in Message",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "GIF in Message 2.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-5",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/GIF in Message 2.webp"
@@ -5938,7 +5938,7 @@
       "id": 6,
       "title": "Scroll Through",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "Scroll Through.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-6",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Scroll Through.webp"
@@ -5949,7 +5949,7 @@
       "id": 7,
       "title": "Transformation",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "Transformation.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-7",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Transformation.webp"
@@ -5960,7 +5960,7 @@
       "id": 8,
       "title": "Before and After",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "Before and After.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-8",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Before and After.webp"
@@ -5971,7 +5971,7 @@
       "id": 9,
       "title": "Animated Maze",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "Animated Maze.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-9",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Animated Maze.webp"
@@ -5982,7 +5982,7 @@
       "id": 10,
       "title": "Word Search",
       "formula": "",
-      "tag": "Animation",
+      "tag": "GIF",
       "image": "Word Search.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-10",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Word Search.webp"

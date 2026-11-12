@@ -8,7 +8,7 @@ Live at **[library.revenuagency.io](https://library.revenuagency.io)**.
 
 Four libraries, each broken down by category:
 
-- **LinkedIn Ads** — Problem · Product · Conversion · Conversation Ads · Gated Content · Animations · The Playbook
+- **LinkedIn Ads** — Problem · Product · Conversion · Conversation Ads · Gated Content · GIFs · The Playbook
 - **Google Ads** — Brand · Non Brand · Competitor · The Playbook
 - **Landing Pages** — Above the Fold · Blocks · Product Visuals
 - **ChatGPT Ads** — Playbook · Setup

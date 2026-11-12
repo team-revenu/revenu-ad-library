@@ -5,7 +5,7 @@
 
 Site: https://library.revenuagency.io
 Total entries: 610
-Generated: 2026-11-12T15:24:18.344Z
+Generated: 2026-11-12T16:16:35.234Z
 
 ## Google Ads (158 examples)
 
@@ -364,7 +364,7 @@ Generated: 2026-11-12T15:24:18.344Z
 - **Castle of Features** — [https://library.revenuagency.io/linkedin-ads/product-43](https://library.revenuagency.io/linkedin-ads/product-43)
 - **With & Without** — [https://library.revenuagency.io/linkedin-ads/product-44](https://library.revenuagency.io/linkedin-ads/product-44)
 
-### Animations — 10 examples
+### GIFs — 10 examples
 
 - **Gift Card** — [https://library.revenuagency.io/linkedin-ads/animations-1](https://library.revenuagency.io/linkedin-ads/animations-1)
 - **Rubik's Cube** — [https://library.revenuagency.io/linkedin-ads/animations-2](https://library.revenuagency.io/linkedin-ads/animations-2)

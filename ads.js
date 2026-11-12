@@ -1326,7 +1326,7 @@ window.ADS = [
     image: "Gift card.webp",
     title: "Gift Card",
     formula: "",
-    tag: "Animation",
+    tag: "GIF",
     category: "animations",
     priority: { animations: 7, conversion: 1 },
     platform: "linkedin"
@@ -1335,7 +1335,7 @@ window.ADS = [
     image: "Rubiks cube.webp",
     title: "Rubik's Cube",
     formula: "",
-    tag: "Animation",
+    tag: "GIF",
     category: "animations",
     priority: { product: 2, all: 10 },
     platform: "linkedin"
@@ -1634,14 +1634,14 @@ window.ADS = [
   { image: "Playbook 29.webp", title: "Be Extreme, Tap Pain, Offer Free", formula: "Three angles that get convo ads opened",            tag: "Playbook", category: "playbook", platform: "linkedin" },
 
   // ---------- LinkedIn — Animations (continued) ----------
-  { image: "Wheel of Fortune.webp",  title: "Wheel of Fortune", formula: "", tag: "Animation", category: "animations", priority: { animations: 4, product: 5, all: 3 },  platform: "linkedin" },
-  { image: "GIF in Message.webp",    title: "GIF in Message",   formula: "", tag: "Animation", category: "animations", priority: { problem: 4 },                          platform: "linkedin" },
-  { image: "GIF in Message 2.webp",  title: "GIF in Message",   formula: "", tag: "Animation", category: "animations", priority: { problem: 20 },                         platform: "linkedin" },
-  { image: "Scroll Through.webp",    title: "Scroll Through",   formula: "", tag: "Animation", category: "animations", priority: { animations: 5, "gated-content": 2 },   platform: "linkedin" },
-  { image: "Transformation.webp",    title: "Transformation",   formula: "", tag: "Animation", category: "animations", priority: { product: 6 },                          platform: "linkedin" },
-  { image: "Before and After.webp", title: "Before and After", formula: "", tag: "Animation", category: "animations", priority: { animations: 1 }, platform: "linkedin" },
-  { image: "Animated Maze.webp",    title: "Animated Maze",    formula: "", tag: "Animation", category: "animations", priority: { animations: 2 }, platform: "linkedin" },
-  { image: "Word Search.webp",      title: "Word Search",      formula: "", tag: "Animation", category: "animations", priority: { animations: 3 }, platform: "linkedin" },
+  { image: "Wheel of Fortune.webp",  title: "Wheel of Fortune", formula: "", tag: "GIF", category: "animations", priority: { animations: 4, product: 5, all: 3 },  platform: "linkedin" },
+  { image: "GIF in Message.webp",    title: "GIF in Message",   formula: "", tag: "GIF", category: "animations", priority: { problem: 4 },                          platform: "linkedin" },
+  { image: "GIF in Message 2.webp",  title: "GIF in Message",   formula: "", tag: "GIF", category: "animations", priority: { problem: 20 },                         platform: "linkedin" },
+  { image: "Scroll Through.webp",    title: "Scroll Through",   formula: "", tag: "GIF", category: "animations", priority: { animations: 5, "gated-content": 2 },   platform: "linkedin" },
+  { image: "Transformation.webp",    title: "Transformation",   formula: "", tag: "GIF", category: "animations", priority: { product: 6 },                          platform: "linkedin" },
+  { image: "Before and After.webp", title: "Before and After", formula: "", tag: "GIF", category: "animations", priority: { animations: 1 }, platform: "linkedin" },
+  { image: "Animated Maze.webp",    title: "Animated Maze",    formula: "", tag: "GIF", category: "animations", priority: { animations: 2 }, platform: "linkedin" },
+  { image: "Word Search.webp",      title: "Word Search",      formula: "", tag: "GIF", category: "animations", priority: { animations: 3 }, platform: "linkedin" },
   // ====================== ChatGPT Ads ======================
   // ---------- ChatGPT — The Playbook ----------
   { image: "30 of ChatGPT users are mobile Make sure youre page Is ready.webp", title: "Mobile-Ready Pages", formula: "30% of ChatGPT users are on mobile, make sure your landing page is ready", tag: "Playbook", category: "playbook", platform: "chatgpt" },
