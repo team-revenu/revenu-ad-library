@@ -676,7 +676,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 39, all: 52 },
+    priority: { problem: 39, all: 53 },
     platform: "linkedin"
   },
   {
@@ -685,7 +685,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 40, all: 53 },
+    priority: { problem: 40, all: 54 },
     platform: "linkedin"
   },
   {
@@ -694,7 +694,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 41, all: 54 },
+    priority: { problem: 41, all: 55 },
     platform: "linkedin"
   },
   {
@@ -703,7 +703,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 42, all: 55 },
+    priority: { problem: 42, all: 56 },
     platform: "linkedin"
   },
   {
@@ -712,7 +712,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 43, all: 56 },
+    priority: { problem: 43, all: 57 },
     platform: "linkedin"
   },
   {
@@ -721,7 +721,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 44, all: 57 },
+    priority: { problem: 44, all: 58 },
     platform: "linkedin"
   },
   {
@@ -730,7 +730,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 45, all: 58 },
+    priority: { problem: 45, all: 59 },
     platform: "linkedin"
   },
   {
@@ -739,7 +739,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 46, all: 59 },
+    priority: { problem: 46, all: 60 },
     platform: "linkedin"
   },
   {
@@ -748,7 +748,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 47, all: 60 },
+    priority: { problem: 47, all: 61 },
     platform: "linkedin"
   },
   {
@@ -757,7 +757,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 48, all: 61 },
+    priority: { problem: 48, all: 62 },
     platform: "linkedin"
   },
   {
@@ -766,7 +766,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 49, all: 62 },
+    priority: { problem: 49, all: 63 },
     platform: "linkedin"
   },
   {
@@ -775,7 +775,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 50, all: 63 },
+    priority: { problem: 50, all: 64 },
     platform: "linkedin"
   },
   {
@@ -784,7 +784,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 51, all: 64 },
+    priority: { problem: 51, all: 65 },
     platform: "linkedin"
   },
   {
@@ -793,7 +793,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 52, all: 65 },
+    priority: { problem: 52, all: 66 },
     platform: "linkedin"
   },
   {
@@ -802,7 +802,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 53, all: 67 },
+    priority: { problem: 53, all: 68 },
     platform: "linkedin"
   },
   {
@@ -811,7 +811,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 55, all: 68 },
+    priority: { problem: 55, all: 69 },
     platform: "linkedin"
   },
   {
@@ -820,7 +820,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 56, all: 69 },
+    priority: { problem: 56, all: 70 },
     platform: "linkedin"
   },
   {
@@ -829,7 +829,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 57, all: 70 },
+    priority: { problem: 57, all: 71 },
     platform: "linkedin"
   },
   {
@@ -838,7 +838,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 58, all: 71 },
+    priority: { problem: 58, all: 72 },
     platform: "linkedin"
   },
   {
@@ -847,7 +847,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 59, all: 72 },
+    priority: { problem: 59, all: 73 },
     platform: "linkedin"
   },
   {
@@ -856,7 +856,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 60, all: 73 },
+    priority: { problem: 60, all: 74 },
     platform: "linkedin"
   },
   {
@@ -865,7 +865,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 61, all: 74 },
+    priority: { problem: 61, all: 75 },
     platform: "linkedin"
   },
   {
@@ -874,7 +874,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 62, all: 75 },
+    priority: { problem: 62, all: 76 },
     platform: "linkedin"
   },
   {
@@ -883,7 +883,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 63, all: 76 },
+    priority: { problem: 63, all: 77 },
     platform: "linkedin"
   },
   {
@@ -892,7 +892,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 64, all: 77 },
+    priority: { problem: 64, all: 78 },
     platform: "linkedin"
   },
   {
@@ -901,7 +901,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 65, all: 78 },
+    priority: { problem: 65, all: 79 },
     platform: "linkedin"
   },
   {
@@ -910,7 +910,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 66, all: 79 },
+    priority: { problem: 66, all: 80 },
     platform: "linkedin"
   },
   {
@@ -919,7 +919,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 67, all: 80 },
+    priority: { problem: 67, all: 81 },
     platform: "linkedin"
   },
   {
@@ -928,7 +928,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 68, all: 81 },
+    priority: { problem: 68, all: 82 },
     platform: "linkedin"
   },
   {
@@ -937,7 +937,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 69, all: 82 },
+    priority: { problem: 69, all: 83 },
     platform: "linkedin"
   },
   {
@@ -946,7 +946,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 70, all: 83 },
+    priority: { problem: 70, all: 84 },
     platform: "linkedin"
   },
   {
@@ -955,7 +955,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 71, all: 84 },
+    priority: { problem: 71, all: 85 },
     platform: "linkedin"
   },
   {
@@ -964,7 +964,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 72, all: 85 },
+    priority: { problem: 72, all: 86 },
     platform: "linkedin"
   },
   {
@@ -973,7 +973,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 73, all: 86 },
+    priority: { problem: 73, all: 87 },
     platform: "linkedin"
   },
   {
@@ -982,7 +982,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 74, all: 87 },
+    priority: { problem: 74, all: 88 },
     platform: "linkedin"
   },
   {
@@ -991,7 +991,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 75, all: 88 },
+    priority: { problem: 75, all: 89 },
     platform: "linkedin"
   },
   {
@@ -1000,7 +1000,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 77, all: 89 },
+    priority: { problem: 77, all: 90 },
     platform: "linkedin"
   },
   {
@@ -1009,7 +1009,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 78, all: 90 },
+    priority: { problem: 78, all: 91 },
     platform: "linkedin"
   },
   {
@@ -1018,7 +1018,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 79, all: 91 },
+    priority: { problem: 79, all: 92 },
     platform: "linkedin"
   },
   {
@@ -1027,7 +1027,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 80, all: 93 },
+    priority: { problem: 80, all: 94 },
     platform: "linkedin"
   },
   {
@@ -1036,7 +1036,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 81, all: 94 },
+    priority: { problem: 81, all: 95 },
     platform: "linkedin"
   },
   {
@@ -1045,7 +1045,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 82, all: 95 },
+    priority: { problem: 82, all: 96 },
     platform: "linkedin"
   },
   {
@@ -1054,7 +1054,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 83, all: 96 },
+    priority: { problem: 83, all: 97 },
     platform: "linkedin"
   },
   {
@@ -1063,7 +1063,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 84, all: 97 },
+    priority: { problem: 84, all: 98 },
     platform: "linkedin"
   },
   {
@@ -1072,7 +1072,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 85, all: 98 },
+    priority: { problem: 85, all: 99 },
     platform: "linkedin"
   },
   {
@@ -1081,7 +1081,7 @@ window.ADS = [
     formula: "",
     tag: "Problem",
     category: "problem",
-    priority: { problem: 86, all: 99 },
+    priority: { problem: 86, all: 100 },
     platform: "linkedin"
   },
   {
@@ -1090,7 +1090,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 9, all: 100 },
+    priority: { product: 9, all: 101 },
     platform: "linkedin"
   },
   {
@@ -1099,7 +1099,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 10, all: 101 },
+    priority: { product: 10, all: 102 },
     platform: "linkedin"
   },
   {
@@ -1108,7 +1108,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 12, all: 102 },
+    priority: { product: 12, all: 103 },
     platform: "linkedin"
   },
   {
@@ -1117,7 +1117,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 13, all: 103 },
+    priority: { product: 13, all: 104 },
     platform: "linkedin"
   },
   {
@@ -1126,7 +1126,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 15, all: 104 },
+    priority: { product: 15, all: 105 },
     platform: "linkedin"
   },
   {
@@ -1144,7 +1144,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 16, all: 105 },
+    priority: { product: 16, all: 106 },
     platform: "linkedin"
   },
   {
@@ -1153,7 +1153,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 17, all: 106 },
+    priority: { product: 17, all: 107 },
     platform: "linkedin"
   },
   {
@@ -1162,7 +1162,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 18, all: 107 },
+    priority: { product: 18, all: 108 },
     platform: "linkedin"
   },
   {
@@ -1171,7 +1171,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 19, all: 108 },
+    priority: { product: 19, all: 109 },
     platform: "linkedin"
   },
   {
@@ -1189,7 +1189,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 20, all: 109 },
+    priority: { product: 20, all: 110 },
     platform: "linkedin"
   },
   {
@@ -1198,7 +1198,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 21, all: 110 },
+    priority: { product: 21, all: 111 },
     platform: "linkedin"
   },
   {
@@ -1207,7 +1207,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 6, all: 111 },
+    priority: { product: 6, all: 112 },
     platform: "linkedin"
   },
   {
@@ -1216,7 +1216,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 22, all: 112 },
+    priority: { product: 22, all: 113 },
     platform: "linkedin"
   },
   {
@@ -1225,7 +1225,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 23, all: 113 },
+    priority: { product: 23, all: 114 },
     platform: "linkedin"
   },
   {
@@ -1234,7 +1234,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 24, all: 114 },
+    priority: { product: 24, all: 115 },
     platform: "linkedin"
   },
   {
@@ -1243,7 +1243,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 25, all: 115 },
+    priority: { product: 25, all: 116 },
     platform: "linkedin"
   },
   {
@@ -1252,7 +1252,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 26, all: 116 },
+    priority: { product: 26, all: 117 },
     platform: "linkedin"
   },
   {
@@ -1261,7 +1261,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 27, all: 117 },
+    priority: { product: 27, all: 118 },
     platform: "linkedin"
   },
   {
@@ -1270,7 +1270,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 28, all: 119 },
+    priority: { product: 28, all: 120 },
     platform: "linkedin"
   },
   {
@@ -1279,7 +1279,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 29, all: 120 },
+    priority: { product: 29, all: 121 },
     platform: "linkedin"
   },
   {
@@ -1288,7 +1288,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 30, all: 121 },
+    priority: { product: 30, all: 122 },
     platform: "linkedin"
   },
   {
@@ -1297,7 +1297,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 31, all: 122 },
+    priority: { product: 31, all: 123 },
     platform: "linkedin"
   },
   {
@@ -1306,7 +1306,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 32, all: 123 },
+    priority: { product: 32, all: 124 },
     platform: "linkedin"
   },
   {
@@ -1315,7 +1315,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 33, all: 124 },
+    priority: { product: 33, all: 125 },
     platform: "linkedin"
   },
   {
@@ -1324,7 +1324,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { product: 34, all: 125 },
+    priority: { product: 34, all: 126 },
     platform: "linkedin"
   },
   {
@@ -1333,7 +1333,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { all: 126 },
+    priority: { all: 127 },
     platform: "linkedin"
   },
   {
@@ -1342,7 +1342,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { all: 127 },
+    priority: { all: 128 },
     platform: "linkedin"
   },
   {
@@ -1351,7 +1351,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { all: 128 },
+    priority: { all: 129 },
     platform: "linkedin"
   },
   {
@@ -1360,7 +1360,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { all: 129 },
+    priority: { all: 130 },
     platform: "linkedin"
   },
   {
@@ -1369,7 +1369,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { all: 130 },
+    priority: { all: 131 },
     platform: "linkedin"
   },
   {
@@ -1378,7 +1378,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { all: 131 },
+    priority: { all: 132 },
     platform: "linkedin"
   },
   {
@@ -1387,7 +1387,7 @@ window.ADS = [
     formula: "",
     tag: "Product",
     category: "product",
-    priority: { all: 132 },
+    priority: { all: 133 },
     platform: "linkedin"
   },
   {
@@ -1426,22 +1426,22 @@ window.ADS = [
     hidden: true,
     platform: "linkedin"
   },
-  { image: "Billboard Keys.webp", title: "Billboard Keys", formula: "", tag: "Product", category: "product", priority: { all: 133 }, platform: "linkedin" },
-  { image: "From This To This.webp", title: "From This To This", formula: "", tag: "Product", category: "product", priority: { all: 134 }, platform: "linkedin" },
-  { image: "Step By Step.webp", title: "Step By Step", formula: "", tag: "Product", category: "product", priority: { all: 135 }, platform: "linkedin" },
-  { image: "Video Game.webp", title: "Video Game", formula: "", tag: "Problem", category: "problem", priority: { problem: 7, all: 136 }, platform: "linkedin" },
-  { image: "Calendar.webp", title: "Calendar", formula: "", tag: "Problem", category: "problem", priority: { problem: 12, all: 137 }, platform: "linkedin" },
-  { image: "Deck of Cards.webp", title: "Deck of Cards", formula: "", tag: "Problem", category: "problem", priority: { problem: 9, all: 138 }, platform: "linkedin" },
-  { image: "Not Quite.webp", title: "Not Quite", formula: "", tag: "Problem", category: "problem", priority: { problem: 14, all: 139 }, platform: "linkedin" },
-  { image: "Mona Lisa.webp", title: "Mona Lisa", formula: "", tag: "Problem", category: "problem", priority: { problem: 16, all: 140 }, platform: "linkedin" },
-  { image: "Screenshots.webp", title: "Screenshots", formula: "", tag: "Product", category: "product", priority: { product: 3, all: 141 }, platform: "linkedin" },
+  { image: "Billboard Keys.webp", title: "Billboard Keys", formula: "", tag: "Product", category: "product", priority: { all: 134 }, platform: "linkedin" },
+  { image: "From This To This.webp", title: "From This To This", formula: "", tag: "Product", category: "product", priority: { all: 135 }, platform: "linkedin" },
+  { image: "Step By Step.webp", title: "Step By Step", formula: "", tag: "Product", category: "product", priority: { all: 136 }, platform: "linkedin" },
+  { image: "Video Game.webp", title: "Video Game", formula: "", tag: "Problem", category: "problem", priority: { problem: 7, all: 137 }, platform: "linkedin" },
+  { image: "Calendar.webp", title: "Calendar", formula: "", tag: "Problem", category: "problem", priority: { problem: 12, all: 138 }, platform: "linkedin" },
+  { image: "Deck of Cards.webp", title: "Deck of Cards", formula: "", tag: "Problem", category: "problem", priority: { problem: 9, all: 139 }, platform: "linkedin" },
+  { image: "Not Quite.webp", title: "Not Quite", formula: "", tag: "Problem", category: "problem", priority: { problem: 14, all: 140 }, platform: "linkedin" },
+  { image: "Mona Lisa.webp", title: "Mona Lisa", formula: "", tag: "Problem", category: "problem", priority: { problem: 16, all: 141 }, platform: "linkedin" },
+  { image: "Screenshots.webp", title: "Screenshots", formula: "", tag: "Product", category: "product", priority: { product: 3, all: 142 }, platform: "linkedin" },
   {
     image: "Gift card.webp",
     title: "Gift Card",
     formula: "",
     tag: "GIF",
     category: "animations",
-    priority: { animations: 8, conversion: 1, all: 142 },
+    priority: { animations: 9, conversion: 1, all: 143 },
     platform: "linkedin"
   },
   {
@@ -1450,7 +1450,7 @@ window.ADS = [
     formula: "",
     tag: "GIF",
     category: "animations",
-    priority: { product: 4, all: 10, animations: 10 },
+    priority: { product: 4, all: 10, animations: 11 },
     platform: "linkedin"
   },
 
@@ -1619,134 +1619,134 @@ window.ADS = [
   { image: "Problem 68.webp", title: "Pop Culture Meme", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },
   { image: "Problem 69.webp", title: "Brand Background", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },
   { image: "Problem 70.webp", title: "Meme Storyboard", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },
-  { image: "Problem 71.webp", title: "Animal Memes", formula: "", tag: "Problem", category: "problem", priority: { problem: 87, all: 144 }, platform: "linkedin" },
+  { image: "Problem 71.webp", title: "Animal Memes", formula: "", tag: "Problem", category: "problem", priority: { problem: 87, all: 145 }, platform: "linkedin" },
   { image: "Problem 72.webp", title: "Movie Memes", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },
   { image: "Problem 73.webp", title: "Quiz Show Meme", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },
   { image: "Problem 74.webp", title: "Quadrant Meme", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },
-  { image: "Problem 75.webp", title: "Cartoon Meme", formula: "", tag: "Problem", category: "problem", priority: { problem: 88, all: 145 }, platform: "linkedin" },
-  { image: "Problem 76.webp", title: "Quadrant Meme", formula: "", tag: "Problem", category: "problem", priority: { problem: 89, all: 146 }, platform: "linkedin" },
-  { image: "Problem 77.webp", title: "Branded Meme", formula: "", tag: "Problem", category: "problem", priority: { problem: 90, all: 147 }, platform: "linkedin" },
-  { image: "Problem 78.webp", title: "Star Wars", formula: "", tag: "Problem", category: "problem", priority: { problem: 91, all: 148 }, platform: "linkedin" },
-  { image: "Problem 79.webp", title: "Board Game", formula: "", tag: "Problem", category: "problem", priority: { problem: 92, all: 149 }, platform: "linkedin" },
-  { image: "Problem 80.webp", title: "Arcade", formula: "", tag: "Problem", category: "problem", priority: { problem: 93, all: 150 }, platform: "linkedin" },
+  { image: "Problem 75.webp", title: "Cartoon Meme", formula: "", tag: "Problem", category: "problem", priority: { problem: 88, all: 146 }, platform: "linkedin" },
+  { image: "Problem 76.webp", title: "Quadrant Meme", formula: "", tag: "Problem", category: "problem", priority: { problem: 89, all: 147 }, platform: "linkedin" },
+  { image: "Problem 77.webp", title: "Branded Meme", formula: "", tag: "Problem", category: "problem", priority: { problem: 90, all: 148 }, platform: "linkedin" },
+  { image: "Problem 78.webp", title: "Star Wars", formula: "", tag: "Problem", category: "problem", priority: { problem: 91, all: 149 }, platform: "linkedin" },
+  { image: "Problem 79.webp", title: "Board Game", formula: "", tag: "Problem", category: "problem", priority: { problem: 92, all: 150 }, platform: "linkedin" },
+  { image: "Problem 80.webp", title: "Arcade", formula: "", tag: "Problem", category: "problem", priority: { problem: 93, all: 151 }, platform: "linkedin" },
   { image: "Problem 81.webp", title: "Starter Pack", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },
-  { image: "Problem 82.webp", title: "Countdown", formula: "", tag: "Problem", category: "problem", priority: { problem: 94, all: 151 }, platform: "linkedin" },
+  { image: "Problem 82.webp", title: "Countdown", formula: "", tag: "Problem", category: "problem", priority: { problem: 94, all: 152 }, platform: "linkedin" },
   { image: "Problem 83.webp", title: "Pokemon", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },
   { image: "Problem 84.webp", title: "Change My Mind", formula: "", tag: "Problem", category: "problem", hidden: true, platform: "linkedin" },
-  { image: "From This To This.webp", title: "From This To This", formula: "", tag: "Problem", category: "problem", priority: { problem: 95, all: 152 }, platform: "linkedin" },
-  { image: "Dominos.webp", title: "Dominos", formula: "", tag: "Problem", category: "problem", priority: { problem: 2, all: 153 }, platform: "linkedin" },
-  { image: "Text Message.webp", title: "Text Message", formula: "", tag: "Problem", category: "problem", priority: { problem: 6, all: 154 }, platform: "linkedin" },
-  { image: "Old Script.webp", title: "Old Script", formula: "", tag: "Problem", category: "problem", priority: { problem: 18, all: 155 }, platform: "linkedin" },
-  { image: "ChatGPT.webp", title: "ChatGPT", formula: "", tag: "Problem", category: "problem", priority: { problem: 10, all: 156 }, platform: "linkedin" },
-  { image: "Journey.webp", title: "Journey", formula: "", tag: "Problem", category: "problem", priority: { problem: 15, all: 157 }, platform: "linkedin" },
+  { image: "From This To This.webp", title: "From This To This", formula: "", tag: "Problem", category: "problem", priority: { problem: 95, all: 153 }, platform: "linkedin" },
+  { image: "Dominos.webp", title: "Dominos", formula: "", tag: "Problem", category: "problem", priority: { problem: 2, all: 154 }, platform: "linkedin" },
+  { image: "Text Message.webp", title: "Text Message", formula: "", tag: "Problem", category: "problem", priority: { problem: 6, all: 155 }, platform: "linkedin" },
+  { image: "Old Script.webp", title: "Old Script", formula: "", tag: "Problem", category: "problem", priority: { problem: 18, all: 156 }, platform: "linkedin" },
+  { image: "ChatGPT.webp", title: "ChatGPT", formula: "", tag: "Problem", category: "problem", priority: { problem: 10, all: 157 }, platform: "linkedin" },
+  { image: "Journey.webp", title: "Journey", formula: "", tag: "Problem", category: "problem", priority: { problem: 15, all: 158 }, platform: "linkedin" },
 
   // ---------- LinkedIn — Gated Content ----------
-  { image: "Gated 1.webp",  title: "Ebook Highlights",   formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 158 }, platform: "linkedin" },
+  { image: "Gated 1.webp",  title: "Ebook Highlights",   formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 159 }, platform: "linkedin" },
   { image: "Gated 2.webp",  title: "Book Tiles",         formula: "", tag: "Gated Content", category: "gated-content", priority: { "gated-content": 1, all: 5 }, platform: "linkedin" },
-  { image: "Gated 3.webp",  title: "Front & Open",       formula: "", tag: "Gated Content", category: "gated-content", priority: { "gated-content": 4, all: 159 }, platform: "linkedin" },
-  { image: "Gated 4.webp",  title: "Front Cover",        formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 160 }, platform: "linkedin" },
-  { image: "Gated 5.webp",  title: "Statistics Cover",   formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 161 }, platform: "linkedin" },
+  { image: "Gated 3.webp",  title: "Front & Open",       formula: "", tag: "Gated Content", category: "gated-content", priority: { "gated-content": 4, all: 160 }, platform: "linkedin" },
+  { image: "Gated 4.webp",  title: "Front Cover",        formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 161 }, platform: "linkedin" },
+  { image: "Gated 5.webp",  title: "Statistics Cover",   formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 162 }, platform: "linkedin" },
   { image: "Gated 6.webp",  title: "Multiple Hardbacks", formula: "", tag: "Gated Content", category: "gated-content", priority: { "gated-content": 3, all: 16 }, platform: "linkedin" },
-  { image: "Gated 7.webp",  title: "Front & Open",       formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 162 }, platform: "linkedin" },
-  { image: "Gated 8.webp",  title: "Paperback Title",    formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 163 }, platform: "linkedin" },
-  { image: "Gated 9.webp",  title: "Paperback Details",  formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 164 }, platform: "linkedin" },
-  { image: "Gated 10.webp", title: "Hardback",           formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 165 }, platform: "linkedin" },
-  { image: "Gated 11.webp", title: "Open Book",          formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 166 }, platform: "linkedin" },
-  { image: "Gated 12.webp", title: "Book Tiles",         formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 167 }, platform: "linkedin" },
-  { image: "Gated 13.webp", title: "Tablet Guide",       formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 168 }, platform: "linkedin" },
-  { image: "Gated 14.webp", title: "Phone Guide",        formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 170 }, platform: "linkedin" },
-  { image: "Gated 15.webp", title: "One Pager",          formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 171 }, platform: "linkedin" },
-  { image: "Gated 16.webp", title: "Chart",              formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 172 }, platform: "linkedin" },
-  { image: "Gated 17.webp", title: "Infographic",        formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 173 }, platform: "linkedin" },
+  { image: "Gated 7.webp",  title: "Front & Open",       formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 163 }, platform: "linkedin" },
+  { image: "Gated 8.webp",  title: "Paperback Title",    formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 164 }, platform: "linkedin" },
+  { image: "Gated 9.webp",  title: "Paperback Details",  formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 165 }, platform: "linkedin" },
+  { image: "Gated 10.webp", title: "Hardback",           formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 166 }, platform: "linkedin" },
+  { image: "Gated 11.webp", title: "Open Book",          formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 167 }, platform: "linkedin" },
+  { image: "Gated 12.webp", title: "Book Tiles",         formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 168 }, platform: "linkedin" },
+  { image: "Gated 13.webp", title: "Tablet Guide",       formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 169 }, platform: "linkedin" },
+  { image: "Gated 14.webp", title: "Phone Guide",        formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 171 }, platform: "linkedin" },
+  { image: "Gated 15.webp", title: "One Pager",          formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 172 }, platform: "linkedin" },
+  { image: "Gated 16.webp", title: "Chart",              formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 173 }, platform: "linkedin" },
+  { image: "Gated 17.webp", title: "Infographic",        formula: "", tag: "Gated Content", category: "gated-content", priority: { all: 174 }, platform: "linkedin" },
 
   // ---------- LinkedIn — Conversion ----------,
   { image: "Conversion 1.webp",  title: "Demo Slides",        formula: "", tag: "Conversion", category: "conversion", priority: { all: 4 }, platform: "linkedin" },
   { image: "Conversion 2.webp",  title: "3 Step Trial",       formula: "", tag: "Conversion", category: "conversion", priority: { all: 11 }, platform: "linkedin" },
-  { image: "Conversion 3.webp",  title: "Platform Demo",      formula: "", tag: "Conversion", category: "conversion", priority: { all: 174 }, platform: "linkedin" },
-  { image: "Conversion 4.webp",  title: "Price Slider",       formula: "", tag: "Conversion", category: "conversion", priority: { all: 175 }, platform: "linkedin" },
-  { image: "Conversion 5.webp",  title: "Price Calculator",   formula: "", tag: "Conversion", category: "conversion", priority: { all: 176 }, platform: "linkedin" },
-  { image: "Conversion 6.webp",  title: "Social Proof Demo",  formula: "", tag: "Conversion", category: "conversion", priority: { all: 177 }, platform: "linkedin" },
-  { image: "Conversion 7.webp",  title: "Process Pitch",      formula: "", tag: "Conversion", category: "conversion", priority: { all: 178 }, platform: "linkedin" },
-  { image: "Conversion 8.webp",  title: "Customer Offer",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 179 }, platform: "linkedin" },
-  { image: "Conversion 9.webp",  title: "ROI Promise",        formula: "", tag: "Conversion", category: "conversion", priority: { all: 180 }, platform: "linkedin" },
-  { image: "Conversion 10.webp", title: "Outcome Promise",    formula: "", tag: "Conversion", category: "conversion", priority: { all: 181 }, platform: "linkedin" },
-  { image: "Conversion 11.webp", title: "Meeting Rep",        formula: "", tag: "Conversion", category: "conversion", priority: { all: 182 }, platform: "linkedin" },
-  { image: "Conversion 12.webp", title: "UberEats Gift Card", formula: "", tag: "Conversion", category: "conversion", priority: { all: 183 }, platform: "linkedin" },
-  { image: "Conversion 13.webp", title: "Before & After",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 184 }, platform: "linkedin" },
-  { image: "Conversion 14.webp", title: "Before & After",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 185 }, platform: "linkedin" },
-  { image: "Conversion 15.webp", title: "Before & After",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 186 }, platform: "linkedin" },
-  { image: "Conversion 16.webp", title: "No. Of Hours",       formula: "", tag: "Conversion", category: "conversion", priority: { all: 187 }, platform: "linkedin" },
-  { image: "Conversion 17.webp", title: "Product Diagram",    formula: "", tag: "Conversion", category: "conversion", priority: { all: 188 }, platform: "linkedin" },
-  { image: "Conversion 18.webp", title: "Notifications",      formula: "", tag: "Conversion", category: "conversion", priority: { all: 189 }, platform: "linkedin" },
-  { image: "Conversion 19.webp", title: "Graph",              formula: "", tag: "Conversion", category: "conversion", priority: { all: 190 }, platform: "linkedin" },
-  { image: "Conversion 20.webp", title: "Amazon Gift Card",   formula: "", tag: "Conversion", category: "conversion", priority: { all: 191 }, platform: "linkedin" },
-  { image: "Conversion 21.webp", title: "Nike Gift Card",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 192 }, platform: "linkedin" },
-  { image: "Conversion 22.webp", title: "Audit Offer",        formula: "", tag: "Conversion", category: "conversion", priority: { all: 193 }, platform: "linkedin" },
-  { image: "Conversion 23.webp", title: "AirBnB Gift Card",   formula: "", tag: "Conversion", category: "conversion", priority: { all: 194 }, platform: "linkedin" },
-  { image: "Message Snake.webp", title: "Message Snake", formula: "", tag: "Conversion", category: "conversion", priority: { all: 196 }, platform: "linkedin" },
-  { image: "Billboard.webp", title: "Billboard", formula: "", tag: "Problem", category: "problem", priority: { problem: 17, all: 197 }, platform: "linkedin" },
-  { image: "Tick List.webp", title: "Tick List", formula: "", tag: "Problem", category: "problem", priority: { problem: 13, all: 198 }, platform: "linkedin" },
-  { image: "Castle of Features.webp", title: "Castle of Features", formula: "", tag: "Product", category: "product", priority: { product: 2, all: 199 }, platform: "linkedin" },
-  { image: "With Without.webp", title: "With & Without", formula: "", tag: "Product", category: "product", priority: { all: 200 }, platform: "linkedin" },
+  { image: "Conversion 3.webp",  title: "Platform Demo",      formula: "", tag: "Conversion", category: "conversion", priority: { all: 175 }, platform: "linkedin" },
+  { image: "Conversion 4.webp",  title: "Price Slider",       formula: "", tag: "Conversion", category: "conversion", priority: { all: 176 }, platform: "linkedin" },
+  { image: "Conversion 5.webp",  title: "Price Calculator",   formula: "", tag: "Conversion", category: "conversion", priority: { all: 177 }, platform: "linkedin" },
+  { image: "Conversion 6.webp",  title: "Social Proof Demo",  formula: "", tag: "Conversion", category: "conversion", priority: { all: 178 }, platform: "linkedin" },
+  { image: "Conversion 7.webp",  title: "Process Pitch",      formula: "", tag: "Conversion", category: "conversion", priority: { all: 179 }, platform: "linkedin" },
+  { image: "Conversion 8.webp",  title: "Customer Offer",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 181 }, platform: "linkedin" },
+  { image: "Conversion 9.webp",  title: "ROI Promise",        formula: "", tag: "Conversion", category: "conversion", priority: { all: 182 }, platform: "linkedin" },
+  { image: "Conversion 10.webp", title: "Outcome Promise",    formula: "", tag: "Conversion", category: "conversion", priority: { all: 183 }, platform: "linkedin" },
+  { image: "Conversion 11.webp", title: "Meeting Rep",        formula: "", tag: "Conversion", category: "conversion", priority: { all: 184 }, platform: "linkedin" },
+  { image: "Conversion 12.webp", title: "UberEats Gift Card", formula: "", tag: "Conversion", category: "conversion", priority: { all: 185 }, platform: "linkedin" },
+  { image: "Conversion 13.webp", title: "Before & After",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 186 }, platform: "linkedin" },
+  { image: "Conversion 14.webp", title: "Before & After",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 187 }, platform: "linkedin" },
+  { image: "Conversion 15.webp", title: "Before & After",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 188 }, platform: "linkedin" },
+  { image: "Conversion 16.webp", title: "No. Of Hours",       formula: "", tag: "Conversion", category: "conversion", priority: { all: 189 }, platform: "linkedin" },
+  { image: "Conversion 17.webp", title: "Product Diagram",    formula: "", tag: "Conversion", category: "conversion", priority: { all: 190 }, platform: "linkedin" },
+  { image: "Conversion 18.webp", title: "Notifications",      formula: "", tag: "Conversion", category: "conversion", priority: { all: 191 }, platform: "linkedin" },
+  { image: "Conversion 19.webp", title: "Graph",              formula: "", tag: "Conversion", category: "conversion", priority: { all: 192 }, platform: "linkedin" },
+  { image: "Conversion 20.webp", title: "Amazon Gift Card",   formula: "", tag: "Conversion", category: "conversion", priority: { all: 193 }, platform: "linkedin" },
+  { image: "Conversion 21.webp", title: "Nike Gift Card",     formula: "", tag: "Conversion", category: "conversion", priority: { all: 194 }, platform: "linkedin" },
+  { image: "Conversion 22.webp", title: "Audit Offer",        formula: "", tag: "Conversion", category: "conversion", priority: { all: 195 }, platform: "linkedin" },
+  { image: "Conversion 23.webp", title: "AirBnB Gift Card",   formula: "", tag: "Conversion", category: "conversion", priority: { all: 196 }, platform: "linkedin" },
+  { image: "Message Snake.webp", title: "Message Snake", formula: "", tag: "Conversion", category: "conversion", priority: { all: 198 }, platform: "linkedin" },
+  { image: "Billboard.webp", title: "Billboard", formula: "", tag: "Problem", category: "problem", priority: { problem: 17, all: 199 }, platform: "linkedin" },
+  { image: "Tick List.webp", title: "Tick List", formula: "", tag: "Problem", category: "problem", priority: { problem: 13, all: 200 }, platform: "linkedin" },
+  { image: "Castle of Features.webp", title: "Castle of Features", formula: "", tag: "Product", category: "product", priority: { product: 2, all: 201 }, platform: "linkedin" },
+  { image: "With Without.webp", title: "With & Without", formula: "", tag: "Product", category: "product", priority: { all: 202 }, platform: "linkedin" },
   { image: "Them vs You.webp", title: "Them vs You", formula: "", tag: "Product", category: "product", priority: { product: 11, all: 17 }, platform: "linkedin" },
-  { image: "Them vs You 2.webp", title: "Them vs You", formula: "", tag: "Product", category: "product", priority: { product: 35, all: 143 }, platform: "linkedin" },
-  { image: "Tool Stack.webp", title: "Tool Stack", formula: "", tag: "Product", category: "product", priority: { product: 14, all: 66 }, platform: "linkedin" },
-  { image: "Story Messages.webp", title: "Story Messages", formula: "", tag: "Problem", category: "problem", priority: { problem: 4, all: 201 }, platform: "linkedin" },
-  { image: "Calendar Before After.webp", title: "Calendar Before After", formula: "", tag: "Problem", category: "problem", priority: { problem: 96, all: 202 }, platform: "linkedin" },
-  { image: "Crossed Out List.webp", title: "Crossed Out List", formula: "", tag: "Problem", category: "problem", priority: { all: 203 }, platform: "linkedin" },
-  { image: "Event Pit Stop.webp", title: "Event Pit Stop", formula: "", tag: "Problem", category: "problem", priority: { all: 204 }, platform: "linkedin" },
-  { image: "Event Booth Map.webp", title: "Event Booth Map", formula: "", tag: "Problem", category: "problem", priority: { all: 205 }, platform: "linkedin" },
-  { image: "Gmail Search.webp", title: "Gmail Search", formula: "", tag: "Problem", category: "problem", priority: { all: 206 }, platform: "linkedin" },
-  { image: "Email Compose.webp", title: "Email Compose", formula: "", tag: "Problem", category: "problem", priority: { all: 207 }, platform: "linkedin" },
-  { image: "Slack Chat.webp", title: "Slack Chat", formula: "", tag: "Problem", category: "problem", priority: { all: 208 }, platform: "linkedin" },
-  { image: "CEO Question.webp", title: "CEO Question", formula: "", tag: "Problem", category: "problem", priority: { all: 209 }, platform: "linkedin" },
-  { image: "Notification Stack.webp", title: "Notification Stack", formula: "", tag: "Problem", category: "problem", priority: { all: 210 }, platform: "linkedin" },
-  { image: "Email Inbox.webp", title: "Email Inbox", formula: "", tag: "Problem", category: "problem", priority: { all: 211 }, platform: "linkedin" },
-  { image: "ChatGPT Answer.webp", title: "ChatGPT Answer", formula: "", tag: "Problem", category: "problem", priority: { all: 212 }, platform: "linkedin" },
-  { image: "Falling Dominos.webp", title: "Falling Dominos", formula: "", tag: "Problem", category: "problem", priority: { all: 213 }, platform: "linkedin" },
+  { image: "Them vs You 2.webp", title: "Them vs You", formula: "", tag: "Product", category: "product", priority: { product: 35, all: 144 }, platform: "linkedin" },
+  { image: "Tool Stack.webp", title: "Tool Stack", formula: "", tag: "Product", category: "product", priority: { product: 14, all: 67 }, platform: "linkedin" },
+  { image: "Story Messages.webp", title: "Story Messages", formula: "", tag: "Problem", category: "problem", priority: { problem: 4, all: 203 }, platform: "linkedin" },
+  { image: "Calendar Before After.webp", title: "Calendar Before After", formula: "", tag: "Problem", category: "problem", priority: { problem: 96, all: 204 }, platform: "linkedin" },
+  { image: "Crossed Out List.webp", title: "Crossed Out List", formula: "", tag: "Problem", category: "problem", priority: { all: 205 }, platform: "linkedin" },
+  { image: "Event Pit Stop.webp", title: "Event Pit Stop", formula: "", tag: "Problem", category: "problem", priority: { all: 206 }, platform: "linkedin" },
+  { image: "Event Booth Map.webp", title: "Event Booth Map", formula: "", tag: "Problem", category: "problem", priority: { all: 207 }, platform: "linkedin" },
+  { image: "Gmail Search.webp", title: "Gmail Search", formula: "", tag: "Problem", category: "problem", priority: { all: 208 }, platform: "linkedin" },
+  { image: "Email Compose.webp", title: "Email Compose", formula: "", tag: "Problem", category: "problem", priority: { all: 209 }, platform: "linkedin" },
+  { image: "Slack Chat.webp", title: "Slack Chat", formula: "", tag: "Problem", category: "problem", priority: { all: 210 }, platform: "linkedin" },
+  { image: "CEO Question.webp", title: "CEO Question", formula: "", tag: "Problem", category: "problem", priority: { all: 211 }, platform: "linkedin" },
+  { image: "Notification Stack.webp", title: "Notification Stack", formula: "", tag: "Problem", category: "problem", priority: { all: 212 }, platform: "linkedin" },
+  { image: "Email Inbox.webp", title: "Email Inbox", formula: "", tag: "Problem", category: "problem", priority: { all: 213 }, platform: "linkedin" },
+  { image: "ChatGPT Answer.webp", title: "ChatGPT Answer", formula: "", tag: "Problem", category: "problem", priority: { all: 214 }, platform: "linkedin" },
+  { image: "Falling Dominos.webp", title: "Falling Dominos", formula: "", tag: "Problem", category: "problem", priority: { all: 215 }, platform: "linkedin" },
   { image: "Billboard 2.webp", title: "Billboard", formula: "", tag: "Problem", category: "problem", priority: { problem: 11, all: 13 }, platform: "linkedin" },
-  { image: "Before After.webp", title: "Before After", formula: "", tag: "Problem", category: "problem", priority: { problem: 32, all: 92 }, platform: "linkedin" },
-  { image: "Apple Note List.webp", title: "Apple Note List", formula: "", tag: "Problem", category: "problem", priority: { problem: 76, all: 169 }, platform: "linkedin" },
-  { image: "Mona Lisa 2.webp", title: "Mona Lisa", formula: "", tag: "Problem", category: "problem", priority: { problem: 54, all: 221 }, platform: "linkedin" },
-  { image: "Comment Reply.webp", title: "Comment Reply", formula: "", tag: "Problem", category: "problem", priority: { problem: 97, all: 247 }, platform: "linkedin" },
+  { image: "Before After.webp", title: "Before After", formula: "", tag: "Problem", category: "problem", priority: { problem: 32, all: 93 }, platform: "linkedin" },
+  { image: "Apple Note List.webp", title: "Apple Note List", formula: "", tag: "Problem", category: "problem", priority: { problem: 76, all: 170 }, platform: "linkedin" },
+  { image: "Mona Lisa 2.webp", title: "Mona Lisa", formula: "", tag: "Problem", category: "problem", priority: { problem: 54, all: 223 }, platform: "linkedin" },
+  { image: "Comment Reply.webp", title: "Comment Reply", formula: "", tag: "Problem", category: "problem", priority: { problem: 97, all: 249 }, platform: "linkedin" },
 
   // ---------- LinkedIn — Conversation Ads ----------,
   { image: "Convo 1.webp",  title: "AirPods",             formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 6 }, platform: "linkedin" },
   { image: "Convo 2.webp",  title: "Lunch",               formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 12 }, platform: "linkedin" },
-  { image: "Convo 3.webp",  title: "Retargeting",         formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 214 }, platform: "linkedin" },
-  { image: "Convo 4.webp",  title: "Retargeting",         formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 215 }, platform: "linkedin" },
-  { image: "Convo 5.webp",  title: "Problem Profanity",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 216 }, platform: "linkedin" },
-  { image: "Convo 6.webp",  title: "Problem Profanity",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 217 }, platform: "linkedin" },
-  { image: "Convo 7.webp",  title: "Problem Profanity",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 218 }, platform: "linkedin" },
-  { image: "Convo 8.webp",  title: "Need Something?",     formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 219 }, platform: "linkedin" },
-  { image: "Convo 9.webp",  title: "Lunch",               formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 220 }, platform: "linkedin" },
-  { image: "Convo 10.webp", title: "Coffee",              formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 222 }, platform: "linkedin" },
-  { image: "Convo 11.webp", title: "Brand Retargeting",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 223 }, platform: "linkedin" },
-  { image: "Convo 12.webp", title: "Retargeting Options", formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 224 }, platform: "linkedin" },
-  { image: "Convo 13.webp", title: "White Lie",           formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 225 }, platform: "linkedin" },
-  { image: "Convo 14.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 226 }, platform: "linkedin" },
-  { image: "Convo 15.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 227 }, platform: "linkedin" },
-  { image: "Convo 16.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 228 }, platform: "linkedin" },
-  { image: "Convo 17.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 229 }, platform: "linkedin" },
-  { image: "Convo 18.webp", title: "Social Proof",        formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 230 }, platform: "linkedin" },
-  { image: "Convo 19.webp", title: "Social Proof",        formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 231 }, platform: "linkedin" },
-  { image: "Convo 20.webp", title: "Social Proof",        formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 232 }, platform: "linkedin" },
-  { image: "Convo 21.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 233 }, platform: "linkedin" },
-  { image: "Convo 22.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 234 }, platform: "linkedin" },
-  { image: "Convo 23.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 235 }, platform: "linkedin" },
-  { image: "Convo 24.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 236 }, platform: "linkedin" },
-  { image: "Convo 25.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 237 }, platform: "linkedin" },
-  { image: "Broken Taxonomy.webp", title: "Audit", formula: "White Lie audit script that reveals a broken product taxonomy", tag: "Conversation Ads", category: "convo-ads", priority: { all: 238 }, platform: "linkedin" },
-  { image: "ChatGPT Audit.webp",   title: "Audit",   formula: "Fear-based ChatGPT audit script targeting visibility in AI search", tag: "Conversation Ads", category: "convo-ads", priority: { all: 239 }, platform: "linkedin" },
+  { image: "Convo 3.webp",  title: "Retargeting",         formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 216 }, platform: "linkedin" },
+  { image: "Convo 4.webp",  title: "Retargeting",         formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 217 }, platform: "linkedin" },
+  { image: "Convo 5.webp",  title: "Problem Profanity",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 218 }, platform: "linkedin" },
+  { image: "Convo 6.webp",  title: "Problem Profanity",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 219 }, platform: "linkedin" },
+  { image: "Convo 7.webp",  title: "Problem Profanity",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 220 }, platform: "linkedin" },
+  { image: "Convo 8.webp",  title: "Need Something?",     formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 221 }, platform: "linkedin" },
+  { image: "Convo 9.webp",  title: "Lunch",               formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 222 }, platform: "linkedin" },
+  { image: "Convo 10.webp", title: "Coffee",              formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 224 }, platform: "linkedin" },
+  { image: "Convo 11.webp", title: "Brand Retargeting",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 225 }, platform: "linkedin" },
+  { image: "Convo 12.webp", title: "Retargeting Options", formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 226 }, platform: "linkedin" },
+  { image: "Convo 13.webp", title: "White Lie",           formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 227 }, platform: "linkedin" },
+  { image: "Convo 14.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 228 }, platform: "linkedin" },
+  { image: "Convo 15.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 229 }, platform: "linkedin" },
+  { image: "Convo 16.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 230 }, platform: "linkedin" },
+  { image: "Convo 17.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 231 }, platform: "linkedin" },
+  { image: "Convo 18.webp", title: "Social Proof",        formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 232 }, platform: "linkedin" },
+  { image: "Convo 19.webp", title: "Social Proof",        formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 233 }, platform: "linkedin" },
+  { image: "Convo 20.webp", title: "Social Proof",        formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 234 }, platform: "linkedin" },
+  { image: "Convo 21.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 235 }, platform: "linkedin" },
+  { image: "Convo 22.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 236 }, platform: "linkedin" },
+  { image: "Convo 23.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 237 }, platform: "linkedin" },
+  { image: "Convo 24.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 238 }, platform: "linkedin" },
+  { image: "Convo 25.webp", title: "Problem Statement",   formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 239 }, platform: "linkedin" },
+  { image: "Broken Taxonomy.webp", title: "Audit", formula: "White Lie audit script that reveals a broken product taxonomy", tag: "Conversation Ads", category: "convo-ads", priority: { all: 240 }, platform: "linkedin" },
+  { image: "ChatGPT Audit.webp",   title: "Audit",   formula: "Fear-based ChatGPT audit script targeting visibility in AI search", tag: "Conversation Ads", category: "convo-ads", priority: { all: 241 }, platform: "linkedin" },
 
   // ---------- LinkedIn — Playbook (chart slides) ----------
-  { image: "Playbook 17.webp", title: "Incentive Headlines",             formula: "50%+ open rate with an incentive in the subject",   tag: "Playbook", category: "playbook", priority: { all: 240 }, platform: "linkedin" },
-  { image: "Playbook 18.webp", title: "Problem → Solution",              formula: "Open with a problem, follow with a solution",       tag: "Playbook", category: "playbook", priority: { all: 241 }, platform: "linkedin" },
-  { image: "Playbook 19.webp", title: "Incentive + Guarantee",           formula: "Pair the incentive with a guarantee to lift CTR",   tag: "Playbook", category: "playbook", priority: { all: 242 }, platform: "linkedin" },
-  { image: "Playbook 20.webp", title: "Keep It Short",                   formula: "Don't lose readers to too much text after they open", tag: "Playbook", category: "playbook", priority: { all: 243 }, platform: "linkedin" },
-  { image: "Playbook 21.webp", title: "Clear CTA + Value Prop",          formula: "Spell out the action and the value to raise CVR",    tag: "Playbook", category: "playbook", priority: { all: 244 }, platform: "linkedin" },
-  { image: "Playbook 22.webp", title: "Scale Demos With Incentives",     formula: "Add an incentive when you need to scale demo flow",  tag: "Playbook", category: "playbook", priority: { all: 245 }, platform: "linkedin" },
-  { image: "Playbook 23.webp", title: "More Than Just An Incentive",     formula: "Pair the incentive with a strong second reason",    tag: "Playbook", category: "playbook", priority: { all: 246 }, platform: "linkedin" },
+  { image: "Playbook 17.webp", title: "Incentive Headlines",             formula: "50%+ open rate with an incentive in the subject",   tag: "Playbook", category: "playbook", priority: { all: 242 }, platform: "linkedin" },
+  { image: "Playbook 18.webp", title: "Problem → Solution",              formula: "Open with a problem, follow with a solution",       tag: "Playbook", category: "playbook", priority: { all: 243 }, platform: "linkedin" },
+  { image: "Playbook 19.webp", title: "Incentive + Guarantee",           formula: "Pair the incentive with a guarantee to lift CTR",   tag: "Playbook", category: "playbook", priority: { all: 244 }, platform: "linkedin" },
+  { image: "Playbook 20.webp", title: "Keep It Short",                   formula: "Don't lose readers to too much text after they open", tag: "Playbook", category: "playbook", priority: { all: 245 }, platform: "linkedin" },
+  { image: "Playbook 21.webp", title: "Clear CTA + Value Prop",          formula: "Spell out the action and the value to raise CVR",    tag: "Playbook", category: "playbook", priority: { all: 246 }, platform: "linkedin" },
+  { image: "Playbook 22.webp", title: "Scale Demos With Incentives",     formula: "Add an incentive when you need to scale demo flow",  tag: "Playbook", category: "playbook", priority: { all: 247 }, platform: "linkedin" },
+  { image: "Playbook 23.webp", title: "More Than Just An Incentive",     formula: "Pair the incentive with a strong second reason",    tag: "Playbook", category: "playbook", priority: { all: 248 }, platform: "linkedin" },
   { image: "Playbook 24.webp", title: "The Subject Line",                formula: "First part of a well-written convo ad",              tag: "Playbook", category: "playbook", platform: "linkedin" },
   { image: "Playbook 25.webp", title: "The Primary Message",             formula: "Short and punchy, the second part of the ad",       tag: "Playbook", category: "playbook", platform: "linkedin" },
   { image: "Playbook 26.webp", title: "The Secondary Message",           formula: "Reinforce the previous message in a new way",        tag: "Playbook", category: "playbook", platform: "linkedin" },
@@ -1755,18 +1755,20 @@ window.ADS = [
   { image: "Playbook 29.webp", title: "Be Extreme, Tap Pain, Offer Free", formula: "Three angles that get convo ads opened",            tag: "Playbook", category: "playbook", platform: "linkedin" },
 
   // ---------- LinkedIn — Animations (continued) ----------
-  { image: "Wheel of Fortune.webp",  title: "Wheel of Fortune", formula: "", tag: "GIF", category: "animations", priority: { animations: 5, product: 7, all: 3 },  platform: "linkedin" },
-  { image: "GIF in Message.webp",    title: "GIF in Message",   formula: "", tag: "GIF", category: "animations", priority: { problem: 8, animations: 11 },                          platform: "linkedin" },
-  { image: "GIF in Message 2.webp",  title: "GIF in Message",   formula: "", tag: "GIF", category: "animations", priority: { problem: 19 },                         platform: "linkedin" },
-  { image: "Scroll Through.webp",    title: "Scroll Through",   formula: "", tag: "GIF", category: "animations", priority: { animations: 6, "gated-content": 2 },   platform: "linkedin" },
+  { image: "Wheel of Fortune.webp",  title: "Wheel of Fortune", formula: "", tag: "GIF", category: "animations", priority: { animations: 6, product: 7, all: 3 },  platform: "linkedin" },
+  { image: "GIF in Message.webp",    title: "GIF in Message",   formula: "", tag: "GIF", category: "animations", priority: { problem: 8, animations: 12 },                          platform: "linkedin" },
+  { image: "GIF in Message 2.webp",  title: "GIF in Message",   formula: "", tag: "GIF", category: "animations", priority: { problem: 19, animations: 14 },                         platform: "linkedin" },
+  { image: "Scroll Through.webp",    title: "Scroll Through",   formula: "", tag: "GIF", category: "animations", priority: { animations: 7, "gated-content": 2 },   platform: "linkedin" },
   { image: "Transformation.webp",    title: "Transformation",   formula: "", tag: "GIF", category: "animations", priority: { product: 8 },                          platform: "linkedin" },
   { image: "Before and After.webp", title: "Before and After", formula: "", tag: "GIF", category: "animations", priority: { animations: 1 }, platform: "linkedin" },
   { image: "Animated Maze.webp",    title: "Animated Maze",    formula: "", tag: "GIF", category: "animations", priority: { animations: 2 }, platform: "linkedin" },
   { image: "Word Search.webp",      title: "Word Search",      formula: "", tag: "GIF", category: "animations", priority: { animations: 4 }, platform: "linkedin" },
   { image: "Word Swap.webp", title: "Word Swap", formula: "", tag: "GIF", category: "animations", priority: { animations: 3, all: 40 }, platform: "linkedin" },
-  { image: "Type It In.webp", title: "Type It In", formula: "", tag: "GIF", category: "animations", priority: { animations: 12, all: 195 }, platform: "linkedin" },
-  { image: "Paint Reveal.webp", title: "Paint Reveal", formula: "", tag: "GIF", category: "animations", priority: { animations: 7, all: 118 }, platform: "linkedin" },
-  { image: "Before and After 2.webp", title: "Before and After", formula: "", tag: "GIF", category: "animations", priority: { animations: 9, all: 26 }, platform: "linkedin" },
+  { image: "Type It In.webp", title: "Type It In", formula: "", tag: "GIF", category: "animations", priority: { animations: 13, all: 197 }, platform: "linkedin" },
+  { image: "Paint Reveal.webp", title: "Paint Reveal", formula: "", tag: "GIF", category: "animations", priority: { animations: 8, all: 119 }, platform: "linkedin" },
+  { image: "Before and After 2.webp", title: "Before and After", formula: "", tag: "GIF", category: "animations", priority: { animations: 10, all: 26 }, platform: "linkedin" },
+  { image: "ChatGPT Answer.webp", title: "ChatGPT Answer", formula: "", tag: "GIF", category: "animations", priority: { animations: 15, all: 180 }, platform: "linkedin" },
+  { image: "Brick Breaker.webp", title: "Brick Breaker", formula: "", tag: "GIF", category: "animations", priority: { animations: 5, all: 52 }, platform: "linkedin" },
   // ====================== ChatGPT Ads ======================
   // ---------- ChatGPT — The Playbook ----------
   { image: "30 of ChatGPT users are mobile Make sure youre page Is ready.webp", title: "Mobile-Ready Pages", formula: "30% of ChatGPT users are on mobile, make sure your landing page is ready", tag: "Playbook", category: "playbook", platform: "chatgpt" },

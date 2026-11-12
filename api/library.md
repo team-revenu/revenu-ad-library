@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 629
-Generated: 2026-11-12T19:58:56.850Z
+Total entries: 631
+Generated: 2026-11-12T20:03:01.167Z
 
 ## Google Ads (158 examples)
 
@@ -179,7 +179,7 @@ Generated: 2026-11-12T19:58:56.850Z
 - **Tell a Good Story** (Problem · Solution · Benefit) — [https://library.revenuagency.io/google-ads/playbook-6](https://library.revenuagency.io/google-ads/playbook-6)
 - **The Formulas** (The playbook for ads that convert) — [https://library.revenuagency.io/google-ads/playbook-7](https://library.revenuagency.io/google-ads/playbook-7)
 
-## LinkedIn Ads (260 examples)
+## LinkedIn Ads (262 examples)
 
 ### The Playbook — 29 examples
 
@@ -368,7 +368,7 @@ Generated: 2026-11-12T19:58:56.850Z
 - **Them vs You** — [https://library.revenuagency.io/linkedin-ads/product-46](https://library.revenuagency.io/linkedin-ads/product-46)
 - **Tool Stack** — [https://library.revenuagency.io/linkedin-ads/product-47](https://library.revenuagency.io/linkedin-ads/product-47)
 
-### GIFs — 14 examples
+### GIFs — 16 examples
 
 - **Gift Card** — [https://library.revenuagency.io/linkedin-ads/animations-1](https://library.revenuagency.io/linkedin-ads/animations-1)
 - **Rubik's Cube** — [https://library.revenuagency.io/linkedin-ads/animations-2](https://library.revenuagency.io/linkedin-ads/animations-2)
@@ -384,6 +384,8 @@ Generated: 2026-11-12T19:58:56.850Z
 - **Type It In** — [https://library.revenuagency.io/linkedin-ads/animations-12](https://library.revenuagency.io/linkedin-ads/animations-12)
 - **Paint Reveal** — [https://library.revenuagency.io/linkedin-ads/animations-13](https://library.revenuagency.io/linkedin-ads/animations-13)
 - **Before and After** — [https://library.revenuagency.io/linkedin-ads/animations-14](https://library.revenuagency.io/linkedin-ads/animations-14)
+- **ChatGPT Answer** — [https://library.revenuagency.io/linkedin-ads/animations-15](https://library.revenuagency.io/linkedin-ads/animations-15)
+- **Brick Breaker** — [https://library.revenuagency.io/linkedin-ads/animations-16](https://library.revenuagency.io/linkedin-ads/animations-16)
 
 ### Gated Content — 17 examples
 

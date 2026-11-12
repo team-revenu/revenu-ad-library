@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T19:58:56.847Z",
-  "total": 629,
+  "generated": "2026-11-12T20:03:01.165Z",
+  "total": 631,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6074,6 +6074,28 @@
       "image": "Before and After 2.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-14",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Before and After 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 15,
+      "title": "ChatGPT Answer",
+      "formula": "",
+      "tag": "GIF",
+      "image": "ChatGPT Answer.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-15",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/ChatGPT Answer.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 16,
+      "title": "Brick Breaker",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Brick Breaker.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-16",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Brick Breaker.webp"
     },
     {
       "platform": "chatgpt",
