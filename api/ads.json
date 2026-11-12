@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T19:44:57.386Z",
-  "total": 615,
+  "generated": "2026-11-12T19:49:09.028Z",
+  "total": 625,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -5285,6 +5285,28 @@
     },
     {
       "platform": "linkedin",
+      "category": "product",
+      "id": 46,
+      "title": "Them vs You",
+      "formula": "",
+      "tag": "Product",
+      "image": "Them vs You 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-46",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Them vs You 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "product",
+      "id": 47,
+      "title": "Tool Stack",
+      "formula": "",
+      "tag": "Product",
+      "image": "Tool Stack.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-47",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Tool Stack.webp"
+    },
+    {
+      "platform": "linkedin",
       "category": "problem",
       "id": 98,
       "title": "Story Messages",
@@ -5425,6 +5447,61 @@
       "image": "Falling Dominos.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/problem-110",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Falling Dominos.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 111,
+      "title": "Billboard",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Billboard 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-111",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Billboard 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 112,
+      "title": "Before After",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Before After.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-112",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Before After.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 113,
+      "title": "Apple Note List",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Apple Note List.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-113",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Apple Note List.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 114,
+      "title": "Mona Lisa",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Mona Lisa 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-114",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Mona Lisa 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 115,
+      "title": "Comment Reply",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Comment Reply.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-115",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Comment Reply.webp"
     },
     {
       "platform": "linkedin",
@@ -5953,6 +6030,39 @@
       "image": "Word Search.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-10",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Word Search.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 11,
+      "title": "Word Swap",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Word Swap.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-11",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Word Swap.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 12,
+      "title": "Type It In",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Type It In.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-12",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Type It In.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 13,
+      "title": "Paint Reveal",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Paint Reveal.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-13",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Paint Reveal.webp"
     },
     {
       "platform": "chatgpt",
