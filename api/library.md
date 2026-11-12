@@ -5,7 +5,7 @@
 
 Site: https://library.revenuagency.io
 Total entries: 585
-Generated: 2026-11-12T14:11:24.806Z
+Generated: 2026-11-12T14:23:56.761Z
 
 ## Google Ads (158 examples)
 
@@ -653,9 +653,9 @@ Generated: 2026-11-12T14:11:24.806Z
 
 ### Mobile — 5 examples
 
-- **Scytale – 1611575144** — [https://library.revenuagency.io/videos/mobile-1](https://library.revenuagency.io/videos/mobile-1)
-- **Scytale – 1611547124** — [https://library.revenuagency.io/videos/mobile-2](https://library.revenuagency.io/videos/mobile-2)
-- **Scytale – 1611739984** — [https://library.revenuagency.io/videos/mobile-3](https://library.revenuagency.io/videos/mobile-3)
-- **Scytale – 1611693444** — [https://library.revenuagency.io/videos/mobile-4](https://library.revenuagency.io/videos/mobile-4)
-- **Scytale – 1611693434** — [https://library.revenuagency.io/videos/mobile-5](https://library.revenuagency.io/videos/mobile-5)
+- **Floating Head** — [https://library.revenuagency.io/videos/mobile-1](https://library.revenuagency.io/videos/mobile-1)
+- **Company Meeting** — [https://library.revenuagency.io/videos/mobile-2](https://library.revenuagency.io/videos/mobile-2)
+- **Close Up** — [https://library.revenuagency.io/videos/mobile-3](https://library.revenuagency.io/videos/mobile-3)
+- **Video Game** — [https://library.revenuagency.io/videos/mobile-4](https://library.revenuagency.io/videos/mobile-4)
+- **Video Game** — [https://library.revenuagency.io/videos/mobile-5](https://library.revenuagency.io/videos/mobile-5)
 
