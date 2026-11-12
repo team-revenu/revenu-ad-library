@@ -1697,6 +1697,10 @@ window.ADS = [
   { image: "scytale-1611693434.webp", video: "scytale-1611693434.mp4", title: "Video Game", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.linkedin.com/ad-library/detail/1611693434" },
   { image: "hibob-exukmvuntylilmg.webp", video: "hibob-exukmvuntylilmg.mp4", title: "Smashing Glass", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/exukmvuntylilmg" },
   { image: "juicebox-w6pd6rhb3ouzz6d.webp", video: "juicebox-w6pd6rhb3ouzz6d.mp4", title: "Comment Reply", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/w6pd6rhb3ouzz6d" },
+  { image: "fyxer-zlux2au3o30xa01.webp", video: "fyxer-zlux2au3o30xa01.mp4", title: "Ask Alexa", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/zlux2au3o30xa01" },
+  { image: "fyxer-u01hwnt2hab2ya6.webp", video: "fyxer-u01hwnt2hab2ya6.mp4", title: "Inbox Zero", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/u01hwnt2hab2ya6" },
+  { image: "lastpass-ccoywsevzp6arw1.webp", video: "lastpass-ccoywsevzp6arw1.mp4", title: "Sticky Notes", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/ccoywsevzp6arw1" },
+  { image: "navan-1gnxyuqb28l29pn.webp", video: "navan-1gnxyuqb28l29pn.mp4", title: "Product Demo", formula: "", tag: "Mobile", category: "mobile", platform: "videos", source: "https://www.adfolio.design/videos/1gnxyuqb28l29pn" },
 
   // ---------- Video Ads — Horizontal ----------
   { image: "conveyor-nydkww5t5dby9jh.webp", video: "conveyor-nydkww5t5dby9jh.mp4", title: "Devil Interview", formula: "", tag: "Horizontal", category: "horizontal", platform: "videos", source: "https://www.adfolio.design/videos/nydkww5t5dby9jh" }

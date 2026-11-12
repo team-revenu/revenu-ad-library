@@ -5977,6 +5977,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://library.revenuagency.io/videos/mobile-10</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/lastpass-ccoywsevzp6arw1.webp</image:loc>
+      <image:title>Sticky Notes — Mobile Video Ads example</image:title>
+      <image:caption>Sticky Notes: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/mobile-11</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/navan-1gnxyuqb28l29pn.webp</image:loc>
+      <image:title>Product Demo — Mobile Video Ads example</image:title>
+      <image:caption>Product Demo: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://library.revenuagency.io/videos/mobile-2</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.6</priority>
@@ -6034,6 +6054,26 @@
       <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/juicebox-w6pd6rhb3ouzz6d.webp</image:loc>
       <image:title>Comment Reply — Mobile Video Ads example</image:title>
       <image:caption>Comment Reply: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/mobile-8</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/fyxer-zlux2au3o30xa01.webp</image:loc>
+      <image:title>Ask Alexa — Mobile Video Ads example</image:title>
+      <image:caption>Ask Alexa: a mobile video ads example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://library.revenuagency.io/videos/mobile-9</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Video%20Ads/Mobile/fyxer-u01hwnt2hab2ya6.webp</image:loc>
+      <image:title>Inbox Zero — Mobile Video Ads example</image:title>
+      <image:caption>Inbox Zero: a mobile video ads example from the Revenu Ad Library.</image:caption>
     </image:image>
   </url>
 </urlset>

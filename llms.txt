@@ -1,6 +1,6 @@
 # Revenu Ad Library
 
-> A free library of 588+ high-performing B2B SaaS ad and landing page examples, curated and built by Revenu Agency. Browse the actual creative — categorized by platform and formula — to learn what's working in LinkedIn ads, Google ads, and landing pages.
+> A free library of 592+ high-performing B2B SaaS ad and landing page examples, curated and built by Revenu Agency. Browse the actual creative — categorized by platform and formula — to learn what's working in LinkedIn ads, Google ads, and landing pages.
 
 ## Libraries
 
@@ -8,7 +8,7 @@
 - [Google Ads](https://library.revenuagency.io/google-ads) — 158 examples across Brand, Non Brand, Competitor, and Playbook
 - [Landing Pages](https://library.revenuagency.io/landing-pages) — 132 examples across Above the Fold, Blocks, and Product Visuals
 - [ChatGPT Ads](https://library.revenuagency.io/chatgpt) — 38 examples across The Playbook, Formulas, and The Setup
-- [Video Ads](https://library.revenuagency.io/videos) — 8 video examples across Mobile and Horizontal
+- [Video Ads](https://library.revenuagency.io/videos) — 12 video examples across Mobile and Horizontal
 
 ## Browsing
 

@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T14:38:54.047Z",
-  "total": 588,
+  "generated": "2026-11-12T14:42:49.445Z",
+  "total": 592,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6488,6 +6488,54 @@
       "url": "https://library.revenuagency.io/videos/mobile-7",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/juicebox-w6pd6rhb3ouzz6d.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/juicebox-w6pd6rhb3ouzz6d.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 8,
+      "title": "Ask Alexa",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "fyxer-zlux2au3o30xa01.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-8",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/fyxer-zlux2au3o30xa01.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/fyxer-zlux2au3o30xa01.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 9,
+      "title": "Inbox Zero",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "fyxer-u01hwnt2hab2ya6.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-9",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/fyxer-u01hwnt2hab2ya6.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/fyxer-u01hwnt2hab2ya6.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 10,
+      "title": "Sticky Notes",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "lastpass-ccoywsevzp6arw1.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-10",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/lastpass-ccoywsevzp6arw1.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/lastpass-ccoywsevzp6arw1.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "mobile",
+      "id": 11,
+      "title": "Product Demo",
+      "formula": "",
+      "tag": "Mobile",
+      "image": "navan-1gnxyuqb28l29pn.webp",
+      "url": "https://library.revenuagency.io/videos/mobile-11",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/navan-1gnxyuqb28l29pn.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Mobile/navan-1gnxyuqb28l29pn.mp4"
     },
     {
       "platform": "videos",
