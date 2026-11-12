@@ -118,7 +118,7 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   const tabs = [...document.querySelectorAll('#filters .tab')].map(t => t.dataset.filter);
   check('tabs are All / Professional / Social Proof / UGC / B2C Inspiration', tabs.join(',') === 'all,professional,social-proof,ugc,b2c-inspiration');
   const cards = document.querySelectorAll('#gallery .card');
-  check(`All tab has video cards (${cards.length} found)`, cards.length === 38);
+  check(`All tab has video cards (${cards.length} found)`, cards.length === 41);
   check('every card is a video card showing a poster image and a play badge', [...cards].every(c => c.classList.contains('card-video') && c.querySelector('img.card-poster') && c.querySelector('.card-play')));
   check('no <video> in the grid before hover', !document.querySelector('#gallery video'));
   check('videos gallery is packed into mosaic columns', document.getElementById('gallery').classList.contains('is-masonry') && document.querySelectorAll('#gallery .masonry-col').length >= 1 && [...document.querySelectorAll('#gallery .masonry-col')].reduce((n, c) => n + c.children.length, 0) === cards.length);
@@ -131,10 +131,10 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   check('leaving removes the hover video', !first.querySelector('video'));
   check('every card has a width / height shape from its entry', [...cards].every(c => /^\s*aspect-ratio:\s*[0-9.]+\s*\/\s*[0-9.]+/.test(c.querySelector('.card-thumb').getAttribute('style') || '')));
   document.querySelector('#filters .tab[data-filter="professional"]').click();
-  check('Professional tab shows 24 cards', document.querySelectorAll('#gallery .card').length === 24);
+  check('Professional tab shows 26 cards', document.querySelectorAll('#gallery .card').length === 26);
   check('URL is /videos/professional', dom.window.location.pathname === '/videos/professional');
   document.querySelector('#filters .tab[data-filter="social-proof"]').click();
-  check('Social Proof tab shows 4 cards', document.querySelectorAll('#gallery .card').length === 4);
+  check('Social Proof tab shows 5 cards', document.querySelectorAll('#gallery .card').length === 5);
   check('URL is /videos/social-proof', dom.window.location.pathname === '/videos/social-proof');
   document.querySelector('#filters .tab[data-filter="ugc"]').click();
   check('UGC tab shows 6 cards', document.querySelectorAll('#gallery .card').length === 6);

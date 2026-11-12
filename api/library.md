@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 626
-Generated: 2026-11-12T19:53:35.726Z
+Total entries: 629
+Generated: 2026-11-12T19:58:56.850Z
 
 ## Google Ads (158 examples)
 
@@ -657,9 +657,9 @@ Generated: 2026-11-12T19:53:35.726Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (38 examples)
+## Video Ads (41 examples)
 
-### Professional — 24 examples
+### Professional — 26 examples
 
 - **Floating Head** — [https://library.revenuagency.io/videos/professional-1](https://library.revenuagency.io/videos/professional-1)
 - **Company Meeting** — [https://library.revenuagency.io/videos/professional-2](https://library.revenuagency.io/videos/professional-2)
@@ -685,13 +685,16 @@ Generated: 2026-11-12T19:53:35.726Z
 - **Newspaper** — [https://library.revenuagency.io/videos/professional-22](https://library.revenuagency.io/videos/professional-22)
 - **Head Massager** — [https://library.revenuagency.io/videos/professional-23](https://library.revenuagency.io/videos/professional-23)
 - **News Anchor** — [https://library.revenuagency.io/videos/professional-24](https://library.revenuagency.io/videos/professional-24)
+- **Explainers** — [https://library.revenuagency.io/videos/professional-25](https://library.revenuagency.io/videos/professional-25)
+- **Explainers** — [https://library.revenuagency.io/videos/professional-26](https://library.revenuagency.io/videos/professional-26)
 
-### Social Proof — 4 examples
+### Social Proof — 5 examples
 
 - **Codat Interview** — [https://library.revenuagency.io/videos/social-proof-1](https://library.revenuagency.io/videos/social-proof-1)
 - **Noventiq Interview** — [https://library.revenuagency.io/videos/social-proof-2](https://library.revenuagency.io/videos/social-proof-2)
 - **Synthesia Interview** — [https://library.revenuagency.io/videos/social-proof-3](https://library.revenuagency.io/videos/social-proof-3)
 - **Head of People Interview** — [https://library.revenuagency.io/videos/social-proof-4](https://library.revenuagency.io/videos/social-proof-4)
+- **Founder Interview** — [https://library.revenuagency.io/videos/social-proof-5](https://library.revenuagency.io/videos/social-proof-5)
 
 ### UGC — 6 examples
 

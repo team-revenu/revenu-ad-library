@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T19:53:35.724Z",
-  "total": 626,
+  "generated": "2026-11-12T19:58:56.847Z",
+  "total": 629,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6783,6 +6783,30 @@
     },
     {
       "platform": "videos",
+      "category": "professional",
+      "id": 25,
+      "title": "Explainers",
+      "formula": "",
+      "tag": "Professional",
+      "image": "beehiiv-1584511133.webp",
+      "url": "https://library.revenuagency.io/videos/professional-25",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/beehiiv-1584511133.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/beehiiv-1584511133.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 26,
+      "title": "Explainers",
+      "formula": "",
+      "tag": "Professional",
+      "image": "beehiiv-1594509013.webp",
+      "url": "https://library.revenuagency.io/videos/professional-26",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/beehiiv-1594509013.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/beehiiv-1594509013.mp4"
+    },
+    {
+      "platform": "videos",
       "category": "social-proof",
       "id": 1,
       "title": "Codat Interview",
@@ -6828,6 +6852,18 @@
       "url": "https://library.revenuagency.io/videos/social-proof-4",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/Social Proof/hibob-1603563703.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/Social Proof/hibob-1603563703.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "social-proof",
+      "id": 5,
+      "title": "Founder Interview",
+      "formula": "",
+      "tag": "Social Proof",
+      "image": "beehiiv-1543012453.webp",
+      "url": "https://library.revenuagency.io/videos/social-proof-5",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Social Proof/beehiiv-1543012453.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Social Proof/beehiiv-1543012453.mp4"
     },
     {
       "platform": "videos",
