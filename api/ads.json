@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T14:55:29.481Z",
-  "total": 602,
+  "generated": "2026-11-12T15:03:34.419Z",
+  "total": 603,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6572,6 +6572,18 @@
       "url": "https://library.revenuagency.io/videos/professional-14",
       "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1594809493.webp",
       "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/monday-1594809493.mp4"
+    },
+    {
+      "platform": "videos",
+      "category": "professional",
+      "id": 15,
+      "title": "Neon Lights",
+      "formula": "",
+      "tag": "Professional",
+      "image": "abnormal-1576441726.webp",
+      "url": "https://library.revenuagency.io/videos/professional-15",
+      "imageUrl": "https://library.revenuagency.io/images/Video Ads/Professional/abnormal-1576441726.webp",
+      "videoUrl": "https://library.revenuagency.io/images/Video Ads/Professional/abnormal-1576441726.mp4"
     },
     {
       "platform": "videos",

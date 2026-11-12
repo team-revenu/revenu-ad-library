@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 602
-Generated: 2026-11-12T14:55:29.483Z
+Total entries: 603
+Generated: 2026-11-12T15:03:34.421Z
 
 ## Google Ads (158 examples)
 
@@ -649,9 +649,9 @@ Generated: 2026-11-12T14:55:29.483Z
 - **Four Components** (The ads are short and have 4 components: URL, headline, description, image) — [https://library.revenuagency.io/chatgpt/setup-10](https://library.revenuagency.io/chatgpt/setup-10)
 - **Short and Small** (Focus on short copy as you don't get much. Use an image which is simple as it's very small) — [https://library.revenuagency.io/chatgpt/setup-11](https://library.revenuagency.io/chatgpt/setup-11)
 
-## Video Ads (22 examples)
+## Video Ads (23 examples)
 
-### Professional — 14 examples
+### Professional — 15 examples
 
 - **Floating Head** — [https://library.revenuagency.io/videos/professional-1](https://library.revenuagency.io/videos/professional-1)
 - **Company Meeting** — [https://library.revenuagency.io/videos/professional-2](https://library.revenuagency.io/videos/professional-2)
@@ -667,6 +667,7 @@ Generated: 2026-11-12T14:55:29.483Z
 - **Service Desk Manager** — [https://library.revenuagency.io/videos/professional-12](https://library.revenuagency.io/videos/professional-12)
 - **Quick Handoff** — [https://library.revenuagency.io/videos/professional-13](https://library.revenuagency.io/videos/professional-13)
 - **Old Phone** — [https://library.revenuagency.io/videos/professional-14](https://library.revenuagency.io/videos/professional-14)
+- **Neon Lights** — [https://library.revenuagency.io/videos/professional-15](https://library.revenuagency.io/videos/professional-15)
 
 ### Social Proof — 3 examples
 

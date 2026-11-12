@@ -118,7 +118,7 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   const tabs = [...document.querySelectorAll('#filters .tab')].map(t => t.dataset.filter);
   check('tabs are All / Professional / Social Proof / UGC', tabs.join(',') === 'all,professional,social-proof,ugc');
   const cards = document.querySelectorAll('#gallery .card');
-  check(`All tab has video cards (${cards.length} found)`, cards.length === 22);
+  check(`All tab has video cards (${cards.length} found)`, cards.length === 23);
   check('every card is a video card showing a poster image and a play badge', [...cards].every(c => c.classList.contains('card-video') && c.querySelector('img.card-poster') && c.querySelector('.card-play')));
   check('no <video> in the grid before hover', !document.querySelector('#gallery video'));
   // Hovering creates a muted preload="none" <video>; leaving removes it again
@@ -130,7 +130,7 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   check('leaving removes the hover video', !first.querySelector('video'));
   check('every card has a 9:16, 1:1 or 16:9 shape from its entry', [...cards].every(c => /(9\s*\/\s*16|1\s*\/\s*1|16\s*\/\s*9)/.test(c.querySelector('.card-thumb').getAttribute('style') || '')));
   document.querySelector('#filters .tab[data-filter="professional"]').click();
-  check('Professional tab shows 14 cards', document.querySelectorAll('#gallery .card').length === 14);
+  check('Professional tab shows 15 cards', document.querySelectorAll('#gallery .card').length === 15);
   check('URL is /videos/professional', dom.window.location.pathname === '/videos/professional');
   document.querySelector('#filters .tab[data-filter="social-proof"]').click();
   check('Social Proof tab shows 3 cards', document.querySelectorAll('#gallery .card').length === 3);
