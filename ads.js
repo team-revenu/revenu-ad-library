@@ -1690,31 +1690,31 @@ window.ADS = [
   // ---------- Video Ads — Professional ----------
   // `video` is the mp4, `image` is its poster frame, `aspect` is the card shape.
   // Append only within each block: URL numbers (/videos/<category>-N) come from position.
-  { image: "scytale-1611575144.webp", video: "scytale-1611575144.mp4", title: "Floating Head", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16" },
-  { image: "scytale-1611547124.webp", video: "scytale-1611547124.mp4", title: "Company Meeting", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16" },
-  { image: "scytale-1611739984.webp", video: "scytale-1611739984.mp4", title: "Close Up", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16" },
-  { image: "scytale-1611693444.webp", video: "scytale-1611693444.mp4", title: "Video Game", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16" },
-  { image: "scytale-1611693434.webp", video: "scytale-1611693434.mp4", title: "Video Game", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16" },
-  { image: "hibob-exukmvuntylilmg.webp", video: "hibob-exukmvuntylilmg.mp4", title: "Smashing Glass", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16" },
-  { image: "fyxer-u01hwnt2hab2ya6.webp", video: "fyxer-u01hwnt2hab2ya6.mp4", title: "Inbox Zero", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16" },
-  { image: "lastpass-ccoywsevzp6arw1.webp", video: "lastpass-ccoywsevzp6arw1.mp4", title: "Sticky Notes", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16" },
-  { image: "vanta-1664463766.webp", video: "vanta-1664463766.mp4", title: "Hospital Bed", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16" },
-  { image: "conveyor-nydkww5t5dby9jh.webp", video: "conveyor-nydkww5t5dby9jh.mp4", title: "Devil Interview", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9" },
-  { image: "monday-1609769653.webp", video: "monday-1609769653.mp4", title: "Galaxy", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9" },
-  { image: "monday-1609827473.webp", video: "monday-1609827473.mp4", title: "Service Desk Manager", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9" },
-  { image: "monday-1609855933.webp", video: "monday-1609855933.mp4", title: "Quick Handoff", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9" },
-  { image: "monday-1594809493.webp", video: "monday-1594809493.mp4", title: "Old Phone", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9" },
-  { image: "abnormal-1576441726.webp", video: "abnormal-1576441726.mp4", title: "Mission", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9" },
+  { image: "scytale-1611575144.webp", video: "scytale-1611575144.mp4", title: "Floating Head", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16", priority: { all: 1 } },
+  { image: "scytale-1611547124.webp", video: "scytale-1611547124.mp4", title: "Company Meeting", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16", priority: { all: 6 } },
+  { image: "scytale-1611739984.webp", video: "scytale-1611739984.mp4", title: "Close Up", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16", priority: { all: 15 } },
+  { image: "scytale-1611693444.webp", video: "scytale-1611693444.mp4", title: "Video Game", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16", priority: { all: 7 } },
+  { image: "scytale-1611693434.webp", video: "scytale-1611693434.mp4", title: "Video Game", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16", priority: { all: 20 } },
+  { image: "hibob-exukmvuntylilmg.webp", video: "hibob-exukmvuntylilmg.mp4", title: "Smashing Glass", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16", priority: { all: 11 } },
+  { image: "fyxer-u01hwnt2hab2ya6.webp", video: "fyxer-u01hwnt2hab2ya6.mp4", title: "Inbox Zero", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16", priority: { all: 22 } },
+  { image: "lastpass-ccoywsevzp6arw1.webp", video: "lastpass-ccoywsevzp6arw1.mp4", title: "Sticky Notes", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16", priority: { all: 21 } },
+  { image: "vanta-1664463766.webp", video: "vanta-1664463766.mp4", title: "Hospital Bed", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "9 / 16", priority: { all: 17 } },
+  { image: "conveyor-nydkww5t5dby9jh.webp", video: "conveyor-nydkww5t5dby9jh.mp4", title: "Devil Interview", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9", priority: { all: 3 } },
+  { image: "monday-1609769653.webp", video: "monday-1609769653.mp4", title: "Galaxy", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9", priority: { all: 8 } },
+  { image: "monday-1609827473.webp", video: "monday-1609827473.mp4", title: "Service Desk Manager", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9", priority: { all: 13 } },
+  { image: "monday-1609855933.webp", video: "monday-1609855933.mp4", title: "Quick Handoff", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9", priority: { all: 10 } },
+  { image: "monday-1594809493.webp", video: "monday-1594809493.mp4", title: "Old Phone", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9", priority: { all: 9 } },
+  { image: "abnormal-1576441726.webp", video: "abnormal-1576441726.mp4", title: "Mission", formula: "", tag: "Professional", category: "professional", platform: "videos", aspect: "16 / 9", priority: { all: 2 } },
 
   // ---------- Video Ads — Social Proof ----------
-  { image: "vanta-1678577086.webp", video: "vanta-1678577086.mp4", title: "Codat Interview", formula: "", tag: "Social Proof", category: "social-proof", platform: "videos", aspect: "1 / 1" },
-  { image: "vanta-1678616196.webp", video: "vanta-1678616196.mp4", title: "Noventiq Interview", formula: "", tag: "Social Proof", category: "social-proof", platform: "videos", aspect: "1 / 1" },
-  { image: "vanta-1678547926.webp", video: "vanta-1678547926.mp4", title: "Synthesia Interview", formula: "", tag: "Social Proof", category: "social-proof", platform: "videos", aspect: "1 / 1" },
+  { image: "vanta-1678577086.webp", video: "vanta-1678577086.mp4", title: "Codat Interview", formula: "", tag: "Social Proof", category: "social-proof", platform: "videos", aspect: "1 / 1", priority: { all: 12 } },
+  { image: "vanta-1678616196.webp", video: "vanta-1678616196.mp4", title: "Noventiq Interview", formula: "", tag: "Social Proof", category: "social-proof", platform: "videos", aspect: "1 / 1", priority: { all: 18 } },
+  { image: "vanta-1678547926.webp", video: "vanta-1678547926.mp4", title: "Synthesia Interview", formula: "", tag: "Social Proof", category: "social-proof", platform: "videos", aspect: "1 / 1", priority: { all: 23 } },
 
   // ---------- Video Ads — UGC ----------
-  { image: "juicebox-w6pd6rhb3ouzz6d.webp", video: "juicebox-w6pd6rhb3ouzz6d.mp4", title: "Comment Reply", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16" },
-  { image: "fyxer-zlux2au3o30xa01.webp", video: "fyxer-zlux2au3o30xa01.mp4", title: "Ask Alexa", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16" },
-  { image: "navan-1gnxyuqb28l29pn.webp", video: "navan-1gnxyuqb28l29pn.mp4", title: "Product Demo", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16" },
-  { image: "navan-nq4oc9grp8x8h2u.webp", video: "navan-nq4oc9grp8x8h2u.mp4", title: "Plane Window", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16" },
-  { image: "instantly-rljg0e9bbqfhljp.webp", video: "instantly-rljg0e9bbqfhljp.mp4", title: "Laptop Walkthrough", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16" }
+  { image: "juicebox-w6pd6rhb3ouzz6d.webp", video: "juicebox-w6pd6rhb3ouzz6d.mp4", title: "Comment Reply", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 19 } },
+  { image: "fyxer-zlux2au3o30xa01.webp", video: "fyxer-zlux2au3o30xa01.mp4", title: "Ask Alexa", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 14 } },
+  { image: "navan-1gnxyuqb28l29pn.webp", video: "navan-1gnxyuqb28l29pn.mp4", title: "Product Demo", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 4 } },
+  { image: "navan-nq4oc9grp8x8h2u.webp", video: "navan-nq4oc9grp8x8h2u.mp4", title: "Plane Window", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 5 } },
+  { image: "instantly-rljg0e9bbqfhljp.webp", video: "instantly-rljg0e9bbqfhljp.mp4", title: "Laptop Walkthrough", formula: "", tag: "UGC", category: "ugc", platform: "videos", aspect: "9 / 16", priority: { all: 16 } }
 ];
