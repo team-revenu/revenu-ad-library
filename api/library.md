@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 635
-Generated: 2026-11-12T20:07:18.516Z
+Total entries: 636
+Generated: 2026-11-12T20:10:36.499Z
 
 ## Google Ads (158 examples)
 
@@ -179,7 +179,7 @@ Generated: 2026-11-12T20:07:18.516Z
 - **Tell a Good Story** (Problem · Solution · Benefit) — [https://library.revenuagency.io/google-ads/playbook-6](https://library.revenuagency.io/google-ads/playbook-6)
 - **The Formulas** (The playbook for ads that convert) — [https://library.revenuagency.io/google-ads/playbook-7](https://library.revenuagency.io/google-ads/playbook-7)
 
-## LinkedIn Ads (262 examples)
+## LinkedIn Ads (263 examples)
 
 ### The Playbook — 29 examples
 
@@ -368,7 +368,7 @@ Generated: 2026-11-12T20:07:18.516Z
 - **Them vs You** — [https://library.revenuagency.io/linkedin-ads/product-46](https://library.revenuagency.io/linkedin-ads/product-46)
 - **Tool Stack** — [https://library.revenuagency.io/linkedin-ads/product-47](https://library.revenuagency.io/linkedin-ads/product-47)
 
-### GIFs — 16 examples
+### GIFs — 17 examples
 
 - **Gift Card** — [https://library.revenuagency.io/linkedin-ads/animations-1](https://library.revenuagency.io/linkedin-ads/animations-1)
 - **Rubik's Cube** — [https://library.revenuagency.io/linkedin-ads/animations-2](https://library.revenuagency.io/linkedin-ads/animations-2)
@@ -386,6 +386,7 @@ Generated: 2026-11-12T20:07:18.516Z
 - **Before and After** — [https://library.revenuagency.io/linkedin-ads/animations-14](https://library.revenuagency.io/linkedin-ads/animations-14)
 - **ChatGPT Answer** — [https://library.revenuagency.io/linkedin-ads/animations-15](https://library.revenuagency.io/linkedin-ads/animations-15)
 - **Brick Breaker** — [https://library.revenuagency.io/linkedin-ads/animations-16](https://library.revenuagency.io/linkedin-ads/animations-16)
+- **Before and After** — [https://library.revenuagency.io/linkedin-ads/animations-17](https://library.revenuagency.io/linkedin-ads/animations-17)
 
 ### Gated Content — 17 examples
 
