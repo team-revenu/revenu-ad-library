@@ -3247,6 +3247,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://library.revenuagency.io/landing-pages/experiences-4</loc>
+    <lastmod>2026-11-12</lastmod>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://library.revenuagency.io/images/Landing%20Pages/Experiences/Sign%20Up%20Gateway.webp</image:loc>
+      <image:title>Sign Up Gateway — Experiences Landing Pages example</image:title>
+      <image:caption>Sign Up Gateway: a experiences landing pages example from the Revenu Ad Library.</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://library.revenuagency.io/landing-pages/product-visuals</loc>
     <lastmod>2026-11-12</lastmod>
     <priority>0.8</priority>

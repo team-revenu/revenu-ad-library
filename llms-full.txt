@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 636
-Generated: 2026-11-12T20:10:36.499Z
+Total entries: 637
+Generated: 2026-11-12T20:58:47.582Z
 
 ## Google Ads (158 examples)
 
@@ -465,7 +465,7 @@ Generated: 2026-11-12T20:10:36.499Z
 - **Audit** (White Lie audit script that reveals a broken product taxonomy) — [https://library.revenuagency.io/linkedin-ads/convo-ads-26](https://library.revenuagency.io/linkedin-ads/convo-ads-26)
 - **Audit** (Fear-based ChatGPT audit script targeting visibility in AI search) — [https://library.revenuagency.io/linkedin-ads/convo-ads-27](https://library.revenuagency.io/linkedin-ads/convo-ads-27)
 
-## Landing Pages (132 examples)
+## Landing Pages (133 examples)
 
 ### Above the Fold — 43 examples
 
@@ -605,11 +605,12 @@ Generated: 2026-11-12T20:10:36.499Z
 - **Screenshot** — [https://library.revenuagency.io/landing-pages/product-visuals-11](https://library.revenuagency.io/landing-pages/product-visuals-11)
 - **Diagram** — [https://library.revenuagency.io/landing-pages/product-visuals-12](https://library.revenuagency.io/landing-pages/product-visuals-12)
 
-### Experiences — 3 examples
+### Experiences — 4 examples
 
 - **Tour Gateway** — [https://library.revenuagency.io/landing-pages/experiences-1](https://library.revenuagency.io/landing-pages/experiences-1)
 - **Tour Gateway** — [https://library.revenuagency.io/landing-pages/experiences-2](https://library.revenuagency.io/landing-pages/experiences-2)
 - **Test Gateway** — [https://library.revenuagency.io/landing-pages/experiences-3](https://library.revenuagency.io/landing-pages/experiences-3)
+- **Sign Up Gateway** — [https://library.revenuagency.io/landing-pages/experiences-4](https://library.revenuagency.io/landing-pages/experiences-4)
 
 ## ChatGPT Ads (38 examples)
 

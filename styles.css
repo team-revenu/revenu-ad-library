@@ -438,11 +438,24 @@ a { color: inherit; }
   border-bottom-width: 3px;
 }
 
-/* ---------- Sticky filters bar ---------- */
-.filters-wrap {
+/* ---------- Sticky top block (header + hero + filters bar) ----------
+   The filters bar used to be sticky on its own. On Chrome for iPhone that
+   left the page unable to scroll back above the bar's natural position: a
+   swipe towards the top rubber-banded and sprang back to the point where the
+   bar sticks, so the header and its library icons were unreachable. Making
+   the whole top block the sticky element moves that natural position to the
+   real top of the page. The block is offset upward by the header + hero
+   height (--top-stack-offset, measured by app.js), so once the page scrolls
+   only the filters bar stays pinned, exactly as before. */
+.top-stack {
   position: sticky;
-  top: 0;
+  top: calc(-1 * var(--top-stack-offset, 0px));
   z-index: 50;
+  background: var(--bg);
+}
+/* On the chooser homepage there is no filters bar, so nothing sticks. */
+body.is-chooser .top-stack { position: static; }
+.filters-wrap {
   background: var(--bg);
   padding: 14px 0;
   text-align: center; /* centers the inline-flex .tabs row on desktop */

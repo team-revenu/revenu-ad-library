@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T20:10:36.492Z",
-  "total": 636,
+  "generated": "2026-11-12T20:58:47.580Z",
+  "total": 637,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -4622,6 +4622,17 @@
       "image": "Test Gateway.webp",
       "url": "https://library.revenuagency.io/landing-pages/experiences-3",
       "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Experiences/Test Gateway.webp"
+    },
+    {
+      "platform": "landing",
+      "category": "experiences",
+      "id": 4,
+      "title": "Sign Up Gateway",
+      "formula": "",
+      "tag": "Experiences",
+      "image": "Sign Up Gateway.webp",
+      "url": "https://library.revenuagency.io/landing-pages/experiences-4",
+      "imageUrl": "https://library.revenuagency.io/images/Landing Pages/Experiences/Sign Up Gateway.webp"
     },
     {
       "platform": "linkedin",
