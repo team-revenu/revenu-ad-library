@@ -1346,3 +1346,24 @@ body.lb-dragging .lb-figure img { cursor: grabbing; }
   .lightbox.is-video .lb-next { right: 16px; }
   .lightbox.is-video .lb-figure video { max-height: 74vh; }
 }
+
+/* ---------- Video Ads mosaic ----------
+   app.js swaps the grid for N flex columns on /videos and packs each card
+   into the shortest column (see renderCards). Gaps mirror the grid's. */
+.gallery.is-masonry {
+  display: flex;
+  align-items: flex-start;
+}
+.gallery.is-masonry .masonry-col {
+  flex: 1 1 0;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+.gallery.is-masonry.cols-2 .masonry-col { gap: 26px; }
+.gallery.is-masonry.cols-3 .masonry-col { gap: 24px; }
+@media (max-width: 960px) {
+  .gallery.is-masonry .masonry-col { gap: 16px; }
+  .gallery.is-masonry.cols-2 .masonry-col { gap: 10px; }
+}

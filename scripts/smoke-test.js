@@ -121,6 +121,7 @@ console.log('\n== Scenario F: Video Ads library (/videos, /videos/professional, 
   check(`All tab has video cards (${cards.length} found)`, cards.length === 23);
   check('every card is a video card showing a poster image and a play badge', [...cards].every(c => c.classList.contains('card-video') && c.querySelector('img.card-poster') && c.querySelector('.card-play')));
   check('no <video> in the grid before hover', !document.querySelector('#gallery video'));
+  check('videos gallery is packed into mosaic columns', document.getElementById('gallery').classList.contains('is-masonry') && document.querySelectorAll('#gallery .masonry-col').length >= 1 && [...document.querySelectorAll('#gallery .masonry-col')].reduce((n, c) => n + c.children.length, 0) === cards.length);
   // Hovering creates a muted preload="none" <video>; leaving removes it again
   const first = cards[0];
   first.dispatchEvent(new dom.window.Event('mouseenter'));

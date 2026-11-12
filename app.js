@@ -479,6 +479,11 @@ function setColumns(n) {
     b.classList.toggle('is-active', b.dataset.cols === cols);
   });
   try { localStorage.setItem(COLS_KEY, cols); } catch (e) {}
+  // The video mosaic is packed per column, so a new column count means a
+  // fresh pack (guarded: this also runs once at startup before ads load).
+  if (typeof visibleAds !== 'undefined' && visibleAds.length && activePlatform === 'videos' && gallery.classList.contains('is-masonry')) {
+    renderCards(false);
+  }
 }
 
 // Restore saved preference. Mobile only allows 1 or 2 columns; desktop allows 1/2/3.
@@ -1220,6 +1225,36 @@ function renderCards(animate = false) {
   }
   emptyState.hidden = true;
 
+  // Mosaic packing for the Video Ads library. Cards there are 9:16, 1:1 and
+  // 16:9, so a plain grid row is as tall as its tallest card and leaves big
+  // gaps under the short ones. Instead we build one column per grid column
+  // and drop each card into the column that is currently shortest, using its
+  // known aspect to estimate height (no measuring, so it works before images
+  // load). Two wide cards then stack beside one tall card, mosaic-style.
+  const masonry = activePlatform === 'videos';
+  gallery.classList.toggle('is-masonry', masonry);
+  let columns = [], colHeights = [];
+  if (masonry) {
+    const n = masonryColumnCount();
+    const colWidth = Math.max(1, (gallery.clientWidth || 900) / n);
+    for (let c = 0; c < n; c++) {
+      const col = document.createElement('div');
+      col.className = 'masonry-col';
+      gallery.appendChild(col);
+      columns.push(col);
+      colHeights.push(0);
+    }
+    var placeInMosaic = (card, ad) => {
+      let best = 0;
+      for (let c = 1; c < columns.length; c++) if (colHeights[c] < colHeights[best]) best = c;
+      columns[best].appendChild(card);
+      const aspect = adAspect(ad) || '2600 / 2158';
+      const [w, h] = aspect.split('/').map(s => parseFloat(s));
+      const thumbH = colWidth * ((h || 1) / (w || 1));
+      colHeights[best] += thumbH + 78; // + card body (title row)
+    };
+  }
+
   visibleAds.forEach((ad, i) => {
     const card = document.createElement('article');
     card.className = `card card-${ad.platform || 'google'}`;
@@ -1330,10 +1365,30 @@ function renderCards(animate = false) {
         if (e.key === 'Enter' || e.key === ' ') e.stopPropagation();
       });
     }
-    gallery.appendChild(card);
+    if (masonry) placeInMosaic(card, ad);
+    else gallery.appendChild(card);
   });
   isFirstRender = false;
 }
+
+// How many columns the gallery is actually showing: the saved 1/2/3 choice on
+// desktop, and 1 or 2 on phones (where the 3-column option falls back to 1).
+function masonryColumnCount() {
+  const cls = gallery.className.match(/cols-(\d)/);
+  const cols = cls ? parseInt(cls[1], 10) : 2;
+  if (window.matchMedia('(max-width: 960px)').matches) return cols === 2 ? 2 : 1;
+  return cols;
+}
+// Re-pack the mosaic when the viewport crosses the phone breakpoint or the
+// column count otherwise changes (column toggle is handled in setColumns).
+let _lastMasonryCols = null;
+window.addEventListener('resize', () => {
+  if (activePlatform !== 'videos' || !visibleAds.length) return;
+  const n = masonryColumnCount();
+  if (n === _lastMasonryCols) return;
+  _lastMasonryCols = n;
+  renderCards(false);
+});
 
 // ---------- Platform switching ----------
 const platformNav = document.querySelector('.platform-nav');
