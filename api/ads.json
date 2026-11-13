@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-12T21:03:00.877Z",
-  "total": 637,
+  "generated": "2026-11-13T17:22:50.975Z",
+  "total": 648,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -5318,6 +5318,39 @@
     },
     {
       "platform": "linkedin",
+      "category": "product",
+      "id": 48,
+      "title": "Puzzle Pieces",
+      "formula": "",
+      "tag": "Product",
+      "image": "Puzzle Pieces.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-48",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Puzzle Pieces.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "product",
+      "id": 49,
+      "title": "Integration Diagram",
+      "formula": "",
+      "tag": "Product",
+      "image": "Integration Diagram.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-49",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Integration Diagram.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "product",
+      "id": 50,
+      "title": "Product Diagram",
+      "formula": "",
+      "tag": "Product",
+      "image": "Product Diagram.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-50",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Product Diagram.webp"
+    },
+    {
+      "platform": "linkedin",
       "category": "problem",
       "id": 98,
       "title": "Story Messages",
@@ -5513,6 +5546,72 @@
       "image": "Comment Reply.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/problem-115",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Comment Reply.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 116,
+      "title": "Receipt",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Receipt.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-116",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Receipt.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 117,
+      "title": "With & Without",
+      "formula": "",
+      "tag": "Problem",
+      "image": "With Without.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-117",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/With Without.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 118,
+      "title": "Spreadsheets",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Spreadsheets.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-118",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Spreadsheets.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 119,
+      "title": "Iceberg",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Iceberg.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-119",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Iceberg.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 120,
+      "title": "Text Message",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Text Message 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-120",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Text Message 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 121,
+      "title": "Notification Stack",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Notification Stack 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-121",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Notification Stack 2.webp"
     },
     {
       "platform": "linkedin",
@@ -6118,6 +6217,28 @@
       "image": "Before and After 3.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-17",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Before and After 3.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 18,
+      "title": "Reveal Slider",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Reveal Slider.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-18",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Reveal Slider.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 19,
+      "title": "UberEats Gift Card",
+      "formula": "",
+      "tag": "GIF",
+      "image": "UberEats Gift Card.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-19",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/UberEats Gift Card.webp"
     },
     {
       "platform": "chatgpt",
