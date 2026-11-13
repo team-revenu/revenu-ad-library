@@ -32,6 +32,14 @@ function safeReplaceState(state, url) {
 const gallery = document.getElementById('gallery');
 const chooser = document.getElementById('chooser');
 const filtersWrap = document.getElementById('filters-wrap');
+// Pinned filters bar on phones — see "Pinned filters bar" further down.
+const filtersSpacer = document.getElementById('filters-spacer');
+const pinBarMedia = window.matchMedia('(max-width: 960px)');
+let pinBarThreshold = 0; // page y at which the bar's own top reaches the viewport top
+let pinBarHeight = 0;
+// Column count the Video Ads mosaic was last packed with. Set by renderCards,
+// read by the resize listener so a resize only re-packs when the count changes.
+let _lastMasonryCols = null;
 const emptyState = document.getElementById('empty-state');
 const tabsContainer = document.getElementById('filters');
 const filterDropdown = document.getElementById('filter-dropdown');
@@ -710,6 +718,44 @@ function updateHeadline() {
 // hide the regular library chrome (filters, feature pills, gallery). Picking
 // a tile or a platform pill pushes the URL to /<platform> and reveals the
 // gallery again. Back-button to "/" re-shows the chooser.
+// ---------- Pinned filters bar (phones) ----------
+// On desktop the filters bar is position: sticky (styles.css). On phones that
+// broke scrolling in Chrome for iPhone: a swipe back towards the top sprang
+// back to the bar's resting spot, so the header was unreachable. Below 960px
+// the bar is static in the flow and this code pins it with position: fixed
+// once the page has scrolled past it, standing a spacer in its place so the
+// content does not jump. Nothing here runs on desktop widths.
+// (filtersSpacer, pinBarMedia, pinBarThreshold and pinBarHeight are declared
+// with the other element lookups at the top of the file, because
+// applyHomepageMode() runs during start-up, before this part of the file.)
+function setBarPinned(pinned) {
+  if (!filtersWrap || !filtersSpacer) return;
+  filtersWrap.classList.toggle('is-pinned', pinned);
+  filtersSpacer.classList.toggle('is-active', pinned);
+  filtersSpacer.style.height = pinned ? `${pinBarHeight}px` : '';
+}
+function updatePinnedBar() {
+  if (!filtersWrap || !filtersSpacer) return;
+  const pinned = pinBarMedia.matches && !filtersWrap.hidden && window.scrollY >= pinBarThreshold;
+  if (pinned !== filtersWrap.classList.contains('is-pinned')) setBarPinned(pinned);
+}
+// Measure where the bar sits in the flow (unpinned), then re-apply the state.
+function measurePinnedBar() {
+  if (!filtersWrap || !filtersSpacer) return;
+  const wasPinned = filtersWrap.classList.contains('is-pinned');
+  if (wasPinned) setBarPinned(false);
+  if (!filtersWrap.hidden) {
+    pinBarThreshold = Math.round(filtersWrap.getBoundingClientRect().top + window.scrollY);
+    pinBarHeight = filtersWrap.offsetHeight;
+  }
+  if (wasPinned) setBarPinned(true);
+  updatePinnedBar();
+}
+window.addEventListener('scroll', updatePinnedBar, { passive: true });
+window.addEventListener('resize', measurePinnedBar);
+window.addEventListener('load', measurePinnedBar);
+if (document.fonts && document.fonts.ready) document.fonts.ready.then(measurePinnedBar);
+
 function applyHomepageMode() {
   const home = isHomepage();
   // Body class so the chooser homepage can opt into a wider .container and
@@ -719,6 +765,7 @@ function applyHomepageMode() {
   if (filtersWrap) filtersWrap.hidden = home;
   if (gallery) gallery.hidden = home;
   if (featurePillsContainer) featurePillsContainer.hidden = home;
+  measurePinnedBar();
   // Sync the chip active state:
   //  - on the chooser homepage  → only the Home chip lights up
   //  - on a library page        → the matching platform chip lights up
@@ -1237,6 +1284,7 @@ function renderCards(animate = false) {
   let columns = [], colHeights = [];
   if (masonry) {
     const n = masonryColumnCount();
+    _lastMasonryCols = n;
     const colWidth = Math.max(1, (gallery.clientWidth || 900) / n);
     for (let c = 0; c < n; c++) {
       const col = document.createElement('div');
@@ -1398,12 +1446,14 @@ function masonryColumnCount() {
 }
 // Re-pack the mosaic when the viewport crosses the phone breakpoint or the
 // column count otherwise changes (column toggle is handled in setColumns).
-let _lastMasonryCols = null;
+// `_lastMasonryCols` is recorded by renderCards itself, so a resize event is
+// a no-op unless the column count really changed. Phones fire `resize` as
+// soon as the browser toolbar collapses on the first scroll, and rebuilding
+// the whole gallery mid-scroll throws the scroll position around.
 window.addEventListener('resize', () => {
   if (activePlatform !== 'videos' || !visibleAds.length) return;
   const n = masonryColumnCount();
   if (n === _lastMasonryCols) return;
-  _lastMasonryCols = n;
   renderCards(false);
 });
 
