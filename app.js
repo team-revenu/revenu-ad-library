@@ -1305,7 +1305,23 @@ function renderCards(animate = false) {
         </button>
       </div>
     `;
-    card.addEventListener('click', () => openLightbox(i));
+    // Cmd-click (Mac) or Ctrl-click (Windows/Linux) opens the ad's own page in a new tab, like a normal link.
+    // Middle-click does the same. A plain click still opens the lightbox.
+    card.addEventListener('click', (e) => {
+      if (e.metaKey || e.ctrlKey) {
+        e.preventDefault();
+        window.open(adPath(ad), '_blank', 'noopener');
+        return;
+      }
+      openLightbox(i);
+    });
+    card.addEventListener('auxclick', (e) => {
+      if (e.button !== 1) return;
+      e.preventDefault();
+      window.open(adPath(ad), '_blank', 'noopener');
+    });
+    // Stop the browser's middle-button autoscroll from starting on a card (Windows).
+    card.addEventListener('mousedown', (e) => { if (e.button === 1) e.preventDefault(); });
     card.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' || e.key === ' ') {
         e.preventDefault();
