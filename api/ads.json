@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-13T17:22:50.975Z",
-  "total": 648,
+  "generated": "2026-11-15T00:15:35.415Z",
+  "total": 659,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -2268,17 +2268,6 @@
       "image": "Problem 30.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/problem-30",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 30.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
-      "id": 31,
-      "title": "Augmented Billboard",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Problem 31.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-31",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Problem 31.webp"
     },
     {
       "platform": "linkedin",
@@ -5612,6 +5601,138 @@
       "image": "Notification Stack 2.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/problem-121",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Notification Stack 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 122,
+      "title": "Sensitive Content",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Sensitive Content.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-122",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Sensitive Content.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 123,
+      "title": "Bingo",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Bingo.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-123",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Bingo.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 124,
+      "title": "Augmented Billboard",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Augmented Billboard.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-124",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Augmented Billboard.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 125,
+      "title": "Customer Quote",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Customer Quote.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-125",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Customer Quote.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 126,
+      "title": "Cheeky Profanity",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Cheeky Profanity.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-126",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Cheeky Profanity.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 127,
+      "title": "Cheeky Profanity",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Cheeky Profanity 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-127",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Cheeky Profanity 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 128,
+      "title": "Comparison Graph",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Comparison Graph.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-128",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Comparison Graph.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 129,
+      "title": "Spreadsheets",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Spreadsheets 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-129",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Spreadsheets 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 130,
+      "title": "Notification Stack",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Notification Stack 3.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-130",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Notification Stack 3.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 131,
+      "title": "Tool Chaos",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Tool Chaos.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-131",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Tool Chaos.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 132,
+      "title": "Threads",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Threads.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-132",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Threads.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 133,
+      "title": "iPhone Pop-up",
+      "formula": "",
+      "tag": "Problem",
+      "image": "iPhone Pop-up.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-133",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/iPhone Pop-up.webp"
     },
     {
       "platform": "linkedin",

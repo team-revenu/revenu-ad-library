@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 648
-Generated: 2026-11-13T17:22:50.977Z
+Total entries: 659
+Generated: 2026-11-15T00:15:35.417Z
 
 ## Google Ads (158 examples)
 
@@ -179,7 +179,7 @@ Generated: 2026-11-13T17:22:50.977Z
 - **Tell a Good Story** (Problem · Solution · Benefit) — [https://library.revenuagency.io/google-ads/playbook-6](https://library.revenuagency.io/google-ads/playbook-6)
 - **The Formulas** (The playbook for ads that convert) — [https://library.revenuagency.io/google-ads/playbook-7](https://library.revenuagency.io/google-ads/playbook-7)
 
-## LinkedIn Ads (274 examples)
+## LinkedIn Ads (285 examples)
 
 ### The Playbook — 29 examples
 
@@ -213,7 +213,7 @@ Generated: 2026-11-13T17:22:50.977Z
 - **Grab Their Attention** (Lead with something powerful to open the ad) — [https://library.revenuagency.io/linkedin-ads/playbook-28](https://library.revenuagency.io/linkedin-ads/playbook-28)
 - **Be Extreme, Tap Pain, Offer Free** (Three angles that get convo ads opened) — [https://library.revenuagency.io/linkedin-ads/playbook-29](https://library.revenuagency.io/linkedin-ads/playbook-29)
 
-### Problem — 112 examples
+### Problem — 123 examples
 
 - **Mascot Message** — [https://library.revenuagency.io/linkedin-ads/problem-1](https://library.revenuagency.io/linkedin-ads/problem-1)
 - **Broken Message** — [https://library.revenuagency.io/linkedin-ads/problem-2](https://library.revenuagency.io/linkedin-ads/problem-2)
@@ -245,7 +245,6 @@ Generated: 2026-11-13T17:22:50.977Z
 - **Odd One Out** — [https://library.revenuagency.io/linkedin-ads/problem-28](https://library.revenuagency.io/linkedin-ads/problem-28)
 - **GitHub** — [https://library.revenuagency.io/linkedin-ads/problem-29](https://library.revenuagency.io/linkedin-ads/problem-29)
 - **Matrix** — [https://library.revenuagency.io/linkedin-ads/problem-30](https://library.revenuagency.io/linkedin-ads/problem-30)
-- **Augmented Billboard** — [https://library.revenuagency.io/linkedin-ads/problem-31](https://library.revenuagency.io/linkedin-ads/problem-31)
 - **Cheeky Profanity** — [https://library.revenuagency.io/linkedin-ads/problem-32](https://library.revenuagency.io/linkedin-ads/problem-32)
 - **Apple Note List** — [https://library.revenuagency.io/linkedin-ads/problem-33](https://library.revenuagency.io/linkedin-ads/problem-33)
 - **Google Calendar** — [https://library.revenuagency.io/linkedin-ads/problem-34](https://library.revenuagency.io/linkedin-ads/problem-34)
@@ -327,6 +326,18 @@ Generated: 2026-11-13T17:22:50.977Z
 - **Iceberg** — [https://library.revenuagency.io/linkedin-ads/problem-119](https://library.revenuagency.io/linkedin-ads/problem-119)
 - **Text Message** — [https://library.revenuagency.io/linkedin-ads/problem-120](https://library.revenuagency.io/linkedin-ads/problem-120)
 - **Notification Stack** — [https://library.revenuagency.io/linkedin-ads/problem-121](https://library.revenuagency.io/linkedin-ads/problem-121)
+- **Sensitive Content** — [https://library.revenuagency.io/linkedin-ads/problem-122](https://library.revenuagency.io/linkedin-ads/problem-122)
+- **Bingo** — [https://library.revenuagency.io/linkedin-ads/problem-123](https://library.revenuagency.io/linkedin-ads/problem-123)
+- **Augmented Billboard** — [https://library.revenuagency.io/linkedin-ads/problem-124](https://library.revenuagency.io/linkedin-ads/problem-124)
+- **Customer Quote** — [https://library.revenuagency.io/linkedin-ads/problem-125](https://library.revenuagency.io/linkedin-ads/problem-125)
+- **Cheeky Profanity** — [https://library.revenuagency.io/linkedin-ads/problem-126](https://library.revenuagency.io/linkedin-ads/problem-126)
+- **Cheeky Profanity** — [https://library.revenuagency.io/linkedin-ads/problem-127](https://library.revenuagency.io/linkedin-ads/problem-127)
+- **Comparison Graph** — [https://library.revenuagency.io/linkedin-ads/problem-128](https://library.revenuagency.io/linkedin-ads/problem-128)
+- **Spreadsheets** — [https://library.revenuagency.io/linkedin-ads/problem-129](https://library.revenuagency.io/linkedin-ads/problem-129)
+- **Notification Stack** — [https://library.revenuagency.io/linkedin-ads/problem-130](https://library.revenuagency.io/linkedin-ads/problem-130)
+- **Tool Chaos** — [https://library.revenuagency.io/linkedin-ads/problem-131](https://library.revenuagency.io/linkedin-ads/problem-131)
+- **Threads** — [https://library.revenuagency.io/linkedin-ads/problem-132](https://library.revenuagency.io/linkedin-ads/problem-132)
+- **iPhone Pop-up** — [https://library.revenuagency.io/linkedin-ads/problem-133](https://library.revenuagency.io/linkedin-ads/problem-133)
 
 ### Product — 46 examples
 

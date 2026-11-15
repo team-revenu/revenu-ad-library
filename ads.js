@@ -758,7 +758,8 @@ window.ADS = [
     tag: "Problem",
     category: "problem",
     priority: { problem: 51, all: 65 },
-    platform: "linkedin"
+    platform: "linkedin",
+    hidden: true
   },
   {
     image: "Problem 32.webp",
@@ -1719,6 +1720,18 @@ window.ADS = [
   { image: "Iceberg.webp", title: "Iceberg", formula: "", tag: "Problem", category: "problem", priority: { problem: 10, all: 12 }, platform: "linkedin" },
   { image: "Text Message 2.webp", title: "Text Message", formula: "", tag: "Problem", category: "problem", priority: { problem: 105, all: 262 }, platform: "linkedin" },
   { image: "Notification Stack 2.webp", title: "Notification Stack", formula: "", tag: "Problem", category: "problem", priority: { problem: 86, all: 212 }, platform: "linkedin" },
+  { image: "Sensitive Content.webp", title: "Sensitive Content", formula: "", tag: "Problem", category: "problem", priority: { problem: 106, all: 263 }, platform: "linkedin" },
+  { image: "Bingo.webp", title: "Bingo", formula: "", tag: "Problem", category: "problem", priority: { problem: 107, all: 264 }, platform: "linkedin" },
+  { image: "Augmented Billboard.webp", title: "Augmented Billboard", formula: "", tag: "Problem", category: "problem", priority: { problem: 108, all: 265 }, platform: "linkedin" },
+  { image: "Customer Quote.webp", title: "Customer Quote", formula: "", tag: "Problem", category: "problem", priority: { problem: 109, all: 266 }, platform: "linkedin" },
+  { image: "Cheeky Profanity.webp", title: "Cheeky Profanity", formula: "", tag: "Problem", category: "problem", priority: { problem: 110, all: 267 }, platform: "linkedin" },
+  { image: "Cheeky Profanity 2.webp", title: "Cheeky Profanity", formula: "", tag: "Problem", category: "problem", priority: { problem: 111, all: 268 }, platform: "linkedin" },
+  { image: "Comparison Graph.webp", title: "Comparison Graph", formula: "", tag: "Problem", category: "problem", priority: { problem: 112, all: 269 }, platform: "linkedin" },
+  { image: "Spreadsheets 2.webp", title: "Spreadsheets", formula: "", tag: "Problem", category: "problem", priority: { problem: 113, all: 270 }, platform: "linkedin" },
+  { image: "Notification Stack 3.webp", title: "Notification Stack", formula: "", tag: "Problem", category: "problem", priority: { problem: 114, all: 271 }, platform: "linkedin" },
+  { image: "Tool Chaos.webp", title: "Tool Chaos", formula: "", tag: "Problem", category: "problem", priority: { problem: 115, all: 272 }, platform: "linkedin" },
+  { image: "Threads.webp", title: "Threads", formula: "", tag: "Problem", category: "problem", priority: { problem: 116, all: 273 }, platform: "linkedin" },
+  { image: "iPhone Pop-up.webp", title: "iPhone Pop-up", formula: "", tag: "Problem", category: "problem", priority: { problem: 117, all: 274 }, platform: "linkedin" },
 
   // ---------- LinkedIn — Conversation Ads ----------,
   { image: "Convo 1.webp",  title: "AirPods",             formula: "", tag: "Conversation Ads", category: "convo-ads", priority: { all: 6 }, platform: "linkedin" },
