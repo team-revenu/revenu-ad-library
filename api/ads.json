@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-15T21:26:52.148Z",
-  "total": 689,
+  "generated": "2026-11-15T21:57:28.733Z",
+  "total": 702,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -6011,6 +6011,116 @@
     },
     {
       "platform": "linkedin",
+      "category": "problem",
+      "id": 149,
+      "title": "Receipt",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Receipt 3.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-149",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Receipt 3.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 150,
+      "title": "Augmented Billboard",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Augmented Billboard 4.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-150",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Augmented Billboard 4.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 151,
+      "title": "Email Inbox",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Email Inbox 3.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-151",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Email Inbox 3.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 152,
+      "title": "Odd One Out",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Odd One Out.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-152",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Odd One Out.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 153,
+      "title": "WhatsApp",
+      "formula": "",
+      "tag": "Problem",
+      "image": "WhatsApp.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-153",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/WhatsApp.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 154,
+      "title": "Error Pop-up",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Error Pop-up 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-154",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Error Pop-up 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 155,
+      "title": "Falling Jenga",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Falling Jenga.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-155",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Falling Jenga.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 156,
+      "title": "Calendar Before After",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Calendar Before After 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-156",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Calendar Before After 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 157,
+      "title": "Augmented Billboard",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Augmented Billboard 5.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-157",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Augmented Billboard 5.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 158,
+      "title": "With & Without",
+      "formula": "",
+      "tag": "Problem",
+      "image": "With Without 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-158",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/With Without 2.webp"
+    },
+    {
+      "platform": "linkedin",
       "category": "convo-ads",
       "id": 1,
       "title": "AirPods",
@@ -6690,6 +6800,39 @@
       "image": "GIF in Message 3.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-24",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/GIF in Message 3.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 25,
+      "title": "Bar Chart",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Bar Chart.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-25",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Bar Chart.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 26,
+      "title": "Calendar",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Calendar.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-26",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Calendar.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 27,
+      "title": "4 Step Diagram",
+      "formula": "",
+      "tag": "GIF",
+      "image": "4 Step Diagram.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-27",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/4 Step Diagram.webp"
     },
     {
       "platform": "chatgpt",
