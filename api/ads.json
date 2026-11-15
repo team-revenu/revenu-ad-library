@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-15T00:23:23.398Z",
-  "total": 659,
+  "generated": "2026-11-15T01:03:56.576Z",
+  "total": 664,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -5340,6 +5340,39 @@
     },
     {
       "platform": "linkedin",
+      "category": "product",
+      "id": 51,
+      "title": "Before After",
+      "formula": "",
+      "tag": "Product",
+      "image": "Before After.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-51",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Before After.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "product",
+      "id": 52,
+      "title": "3 Easy Steps",
+      "formula": "",
+      "tag": "Product",
+      "image": "3 Easy Steps.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-52",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/3 Easy Steps.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "product",
+      "id": 53,
+      "title": "Flag Grid",
+      "formula": "",
+      "tag": "Product",
+      "image": "Flag Grid.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-53",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Flag Grid.webp"
+    },
+    {
+      "platform": "linkedin",
       "category": "problem",
       "id": 98,
       "title": "Story Messages",
@@ -5733,6 +5766,28 @@
       "image": "iPhone Pop-up.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/problem-133",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/iPhone Pop-up.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 134,
+      "title": "Receipt",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Receipt 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-134",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Receipt 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 135,
+      "title": "Calendar",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Calendar 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-135",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Calendar 2.webp"
     },
     {
       "platform": "linkedin",
