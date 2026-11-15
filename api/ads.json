@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-15T01:03:56.576Z",
-  "total": 664,
+  "generated": "2026-11-15T21:16:56.385Z",
+  "total": 690,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -4966,6 +4966,28 @@
     },
     {
       "platform": "linkedin",
+      "category": "gated-content",
+      "id": 18,
+      "title": "Statistics Cover",
+      "formula": "",
+      "tag": "Gated Content",
+      "image": "Statistics Cover.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/gated-content-18",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Gated Content/Statistics Cover.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "gated-content",
+      "id": 19,
+      "title": "Tablet Guide",
+      "formula": "",
+      "tag": "Gated Content",
+      "image": "Tablet Guide.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/gated-content-19",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Gated Content/Tablet Guide.webp"
+    },
+    {
+      "platform": "linkedin",
       "category": "conversion",
       "id": 1,
       "title": "Demo Slides",
@@ -5230,6 +5252,39 @@
     },
     {
       "platform": "linkedin",
+      "category": "conversion",
+      "id": 25,
+      "title": "Billboard",
+      "formula": "",
+      "tag": "Conversion",
+      "image": "Billboard.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/conversion-25",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Conversion/Billboard.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "conversion",
+      "id": 26,
+      "title": "UberEats Gift Card",
+      "formula": "",
+      "tag": "Conversion",
+      "image": "UberEats Gift Card.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/conversion-26",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Conversion/UberEats Gift Card.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "conversion",
+      "id": 27,
+      "title": "Code Prompt",
+      "formula": "",
+      "tag": "Conversion",
+      "image": "Code Prompt.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/conversion-27",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Conversion/Code Prompt.webp"
+    },
+    {
+      "platform": "linkedin",
       "category": "problem",
       "id": 96,
       "title": "Billboard",
@@ -5370,6 +5425,39 @@
       "image": "Flag Grid.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/product-53",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Flag Grid.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "product",
+      "id": 54,
+      "title": "Apple Note Options",
+      "formula": "",
+      "tag": "Product",
+      "image": "Apple Note Options.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-54",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Apple Note Options.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "product",
+      "id": 55,
+      "title": "Sound Wave",
+      "formula": "",
+      "tag": "Product",
+      "image": "Sound Wave.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-55",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Sound Wave.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "product",
+      "id": 56,
+      "title": "With & Without",
+      "formula": "",
+      "tag": "Product",
+      "image": "With Without 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/product-56",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/With Without 2.webp"
     },
     {
       "platform": "linkedin",
@@ -5788,6 +5876,149 @@
       "image": "Calendar 2.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/problem-135",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Calendar 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 136,
+      "title": "Video Game",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Video Game 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-136",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Video Game 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 137,
+      "title": "Floating Chat",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Floating Chat.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-137",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Floating Chat.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 138,
+      "title": "Search Pile",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Search Pile.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-138",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Search Pile.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 139,
+      "title": "Foldable Phone",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Foldable Phone.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-139",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Foldable Phone.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 140,
+      "title": "Search Dropdown",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Search Dropdown.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-140",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Search Dropdown.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 141,
+      "title": "Email Inbox",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Email Inbox 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-141",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Email Inbox 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 142,
+      "title": "Folder Grid",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Folder Grid.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-142",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Folder Grid.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 143,
+      "title": "Claw Machine",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Claw Machine.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-143",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Claw Machine.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 144,
+      "title": "Reminder",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Reminder.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-144",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Reminder.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 145,
+      "title": "Error Pop-up",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Error Pop-up.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-145",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Error Pop-up.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 146,
+      "title": "Augmented Billboard",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Augmented Billboard 2.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-146",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Augmented Billboard 2.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 147,
+      "title": "Augmented Billboard",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Augmented Billboard 3.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-147",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Augmented Billboard 3.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "problem",
+      "id": 148,
+      "title": "Text Message",
+      "formula": "",
+      "tag": "Problem",
+      "image": "Text Message 3.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/problem-148",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Text Message 3.webp"
     },
     {
       "platform": "linkedin",
@@ -6415,6 +6646,61 @@
       "image": "UberEats Gift Card.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/animations-19",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/UberEats Gift Card.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 20,
+      "title": "Bouncing Balls",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Bouncing Balls.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-20",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Bouncing Balls.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 21,
+      "title": "Cost Counter",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Cost Counter.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-21",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Cost Counter.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 22,
+      "title": "Arcade",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Arcade.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-22",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Arcade.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 23,
+      "title": "Kinetic Type",
+      "formula": "",
+      "tag": "GIF",
+      "image": "Kinetic Type.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-23",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/Kinetic Type.webp"
+    },
+    {
+      "platform": "linkedin",
+      "category": "animations",
+      "id": 24,
+      "title": "GIF in Message",
+      "formula": "",
+      "tag": "GIF",
+      "image": "GIF in Message 3.webp",
+      "url": "https://library.revenuagency.io/linkedin-ads/animations-24",
+      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Animations/GIF in Message 3.webp"
     },
     {
       "platform": "chatgpt",
