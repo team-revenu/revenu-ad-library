@@ -1430,7 +1430,7 @@ window.ADS = [
   { image: "Billboard Keys.webp", title: "Billboard Keys", formula: "", tag: "Product", category: "product", priority: { all: 155 }, platform: "linkedin" },
   { image: "From This To This.webp", title: "From This To This", formula: "", tag: "Product", category: "product", priority: { all: 156 }, platform: "linkedin" },
   { image: "Step By Step.webp", title: "Step By Step", formula: "", tag: "Product", category: "product", priority: { all: 157 }, platform: "linkedin" },
-  { image: "Video Game.webp", title: "Video Game", formula: "", tag: "Problem", category: "problem", priority: { problem: 8, all: 159 }, platform: "linkedin" },
+  { image: "Video Game.webp", title: "Video Game", formula: "", tag: "Problem", category: "problem", priority: { problem: 8, all: 159 }, platform: "linkedin", hidden: true },
   { image: "Calendar.webp", title: "Calendar", formula: "", tag: "Problem", category: "problem", priority: { problem: 14, all: 160 }, platform: "linkedin" },
   { image: "Deck of Cards.webp", title: "Deck of Cards", formula: "", tag: "Problem", category: "problem", priority: { problem: 10, all: 161 }, platform: "linkedin" },
   { image: "Not Quite.webp", title: "Not Quite", formula: "", tag: "Problem", category: "problem", priority: { problem: 17, all: 162 }, platform: "linkedin" },

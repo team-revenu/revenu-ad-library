@@ -4,8 +4,8 @@
 > Each entry includes the formula name and a direct URL to view it.
 
 Site: https://library.revenuagency.io
-Total entries: 690
-Generated: 2026-11-15T21:16:56.387Z
+Total entries: 689
+Generated: 2026-11-15T21:26:52.149Z
 
 ## Google Ads (158 examples)
 
@@ -179,7 +179,7 @@ Generated: 2026-11-15T21:16:56.387Z
 - **Tell a Good Story** (Problem · Solution · Benefit) — [https://library.revenuagency.io/google-ads/playbook-6](https://library.revenuagency.io/google-ads/playbook-6)
 - **The Formulas** (The playbook for ads that convert) — [https://library.revenuagency.io/google-ads/playbook-7](https://library.revenuagency.io/google-ads/playbook-7)
 
-## LinkedIn Ads (316 examples)
+## LinkedIn Ads (315 examples)
 
 ### The Playbook — 29 examples
 
@@ -213,7 +213,7 @@ Generated: 2026-11-15T21:16:56.387Z
 - **Grab Their Attention** (Lead with something powerful to open the ad) — [https://library.revenuagency.io/linkedin-ads/playbook-28](https://library.revenuagency.io/linkedin-ads/playbook-28)
 - **Be Extreme, Tap Pain, Offer Free** (Three angles that get convo ads opened) — [https://library.revenuagency.io/linkedin-ads/playbook-29](https://library.revenuagency.io/linkedin-ads/playbook-29)
 
-### Problem — 138 examples
+### Problem — 137 examples
 
 - **Mascot Message** — [https://library.revenuagency.io/linkedin-ads/problem-1](https://library.revenuagency.io/linkedin-ads/problem-1)
 - **Broken Message** — [https://library.revenuagency.io/linkedin-ads/problem-2](https://library.revenuagency.io/linkedin-ads/problem-2)
@@ -281,7 +281,6 @@ Generated: 2026-11-15T21:16:56.387Z
 - **Convo Meme** — [https://library.revenuagency.io/linkedin-ads/problem-65](https://library.revenuagency.io/linkedin-ads/problem-65)
 - **Not a Billboard** — [https://library.revenuagency.io/linkedin-ads/problem-66](https://library.revenuagency.io/linkedin-ads/problem-66)
 - **WhatsApp Keyboard** — [https://library.revenuagency.io/linkedin-ads/problem-67](https://library.revenuagency.io/linkedin-ads/problem-67)
-- **Video Game** — [https://library.revenuagency.io/linkedin-ads/problem-68](https://library.revenuagency.io/linkedin-ads/problem-68)
 - **Calendar** — [https://library.revenuagency.io/linkedin-ads/problem-69](https://library.revenuagency.io/linkedin-ads/problem-69)
 - **Deck of Cards** — [https://library.revenuagency.io/linkedin-ads/problem-70](https://library.revenuagency.io/linkedin-ads/problem-70)
 - **Not Quite** — [https://library.revenuagency.io/linkedin-ads/problem-71](https://library.revenuagency.io/linkedin-ads/problem-71)

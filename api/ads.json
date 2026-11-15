@@ -1,7 +1,7 @@
 {
   "site": "https://library.revenuagency.io",
-  "generated": "2026-11-15T21:16:56.385Z",
-  "total": 690,
+  "generated": "2026-11-15T21:26:52.148Z",
+  "total": 689,
   "platforms": {
     "linkedin": {
       "label": "LinkedIn Ads",
@@ -3071,17 +3071,6 @@
       "image": "Step By Step.webp",
       "url": "https://library.revenuagency.io/linkedin-ads/product-41",
       "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Product/Step By Step.webp"
-    },
-    {
-      "platform": "linkedin",
-      "category": "problem",
-      "id": 68,
-      "title": "Video Game",
-      "formula": "",
-      "tag": "Problem",
-      "image": "Video Game.webp",
-      "url": "https://library.revenuagency.io/linkedin-ads/problem-68",
-      "imageUrl": "https://library.revenuagency.io/images/LinkedIn Ads/Problem/Video Game.webp"
     },
     {
       "platform": "linkedin",
